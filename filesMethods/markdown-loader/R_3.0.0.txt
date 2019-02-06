@@ -1,0 +1,63 @@
+------------------------------------------
+example/bundle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/webpack.config.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - Renderer
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - setOptions
+   - main_method*
+
+Library: loader-utils
+Methods Called:
+   - getOptions
+
+------------------------------------------
+test/assets/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/index.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+test/markdown-options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/markdown-renderer.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - Renderer
+
+
+All of the Methods:
+{
+  "marked": {
+    "Renderer": true,
+    "setOptions": true,
+    "main_method*": true
+  },
+  "loader-utils": {
+    "getOptions": true
+  }
+}

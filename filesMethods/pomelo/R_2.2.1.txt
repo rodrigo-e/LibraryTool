@@ -1,0 +1,1154 @@
+------------------------------------------
+coverage/blanket.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/application.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: fs
+Methods Called:
+   - existsSync
+   - watch
+   - readdirSync
+
+Library: path
+Methods Called:
+   - dirname
+   - join
+   - basename
+
+------------------------------------------
+lib/common/manager/appManager.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: async
+Methods Called:
+   - forEachSeries
+   - whilst
+
+------------------------------------------
+lib/common/manager/taskManager.js
+------------------------------------------
+Library: seq-queue
+Methods Called:
+   - createQueue
+
+------------------------------------------
+lib/common/remote/backend/msgRemote.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/common/remote/frontend/channelRemote.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/common/remote/frontend/sessionRemote.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/common/service/backendSessionService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/common/service/channelService.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/common/service/connectionService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/common/service/filterService.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/common/service/handlerService.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: fs
+Methods Called:
+   - watch
+
+Library: pomelo-loader
+Methods Called:
+   - load
+
+------------------------------------------
+lib/common/service/sessionService.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/components/backendSession.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/components/channel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/components/connection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/components/connector.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: node-bignumber
+Methods Called:
+   - Key
+   - BigInteger
+
+------------------------------------------
+lib/components/dictionary.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: pomelo-loader
+Methods Called:
+   - load
+
+Library: crypto
+Methods Called:
+   - createHash
+
+------------------------------------------
+lib/components/master.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/components/monitor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/components/protobuf.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: fs
+Methods Called:
+   - existsSync
+   - watch
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+   - basename
+
+Library: pomelo-protobuf
+Methods Called:
+   - init
+   - encode
+   - encode2Bytes
+   - decode
+   - parse
+   - setEncoderProtos
+   - setDecoderProtos
+
+Library: crypto
+Methods Called:
+   - createHash
+
+------------------------------------------
+lib/components/proxy.js
+------------------------------------------
+Library: pomelo-rpc
+Methods Called:
+   - client
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: crc
+Methods Called:
+   - crc32
+
+------------------------------------------
+lib/components/pushScheduler.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/components/remote.js
+------------------------------------------
+Library: pomelo-rpc
+Methods Called:
+   - server
+
+Library: fs
+Methods Called:
+   - existsSync
+
+------------------------------------------
+lib/components/server.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/components/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/connectors/commands/handshake.js
+------------------------------------------
+Library: pomelo-protocol
+Methods Called:
+   - Package
+
+------------------------------------------
+lib/connectors/commands/heartbeat.js
+------------------------------------------
+Library: pomelo-protocol
+Methods Called:
+   - Package
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/connectors/commands/kick.js
+------------------------------------------
+Library: pomelo-protocol
+Methods Called:
+   - Package
+
+------------------------------------------
+lib/connectors/common/coder.js
+------------------------------------------
+Library: pomelo-protocol
+Methods Called:
+   - Message
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/connectors/common/handler.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: pomelo-protocol
+Methods Called:
+   - Package
+   - strdecode
+
+------------------------------------------
+lib/connectors/hybrid/switcher.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/connectors/hybrid/tcpprocessor.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/connectors/hybrid/tcpsocket.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: stream
+Methods Called:
+   - call
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: pomelo-protocol
+Methods Called:
+   - Package
+
+------------------------------------------
+lib/connectors/hybrid/wsprocessor.js
+------------------------------------------
+Library: http
+Methods Called:
+   - Server
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: ws
+Methods Called:
+   - Server
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/connectors/hybridconnector.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: net
+Methods Called:
+   - createServer
+
+Library: tls
+Methods Called:
+   - createServer
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/connectors/hybridsocket.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: pomelo-protocol
+Methods Called:
+   - Package
+
+------------------------------------------
+lib/connectors/mqtt/generate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/connectors/mqtt/mqttadaptor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/connectors/mqtt/protocol.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/connectors/mqttconnector.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: mqtt
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/connectors/mqttsocket.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/connectors/sioconnector.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: socket.io
+Methods Called:
+   - listen
+
+------------------------------------------
+lib/connectors/siosocket.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/connectors/udpconnector.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: net
+Methods Called:
+   - createServer
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: dgram
+Methods Called:
+   - createSocket
+
+Library: pomelo-protocol
+Methods Called:
+   - Package
+   - Message
+
+------------------------------------------
+lib/connectors/udpsocket.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: pomelo-protocol
+Methods Called:
+   - Package
+
+------------------------------------------
+lib/filters/handler/serial.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/filters/handler/time.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/filters/handler/timeout.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/filters/handler/toobusy.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: toobusy
+Methods Called:
+   - main_method*
+   - prototype
+
+------------------------------------------
+lib/filters/rpc/rpcLog.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/filters/rpc/toobusy.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: toobusy
+Methods Called:
+   - main_method*
+   - prototype
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/master/master.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: pomelo-admin
+Methods Called:
+   - createMasterConsole
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/master/starter.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: util
+Methods Called:
+   - format
+
+Library: os
+Methods Called:
+   - platform
+
+------------------------------------------
+lib/master/watchdog.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/modules/console.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+lib/modules/masterwatcher.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/modules/monitorwatcher.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/monitor/monitor.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: pomelo-admin
+Methods Called:
+   - createMonitorConsole
+
+------------------------------------------
+lib/pomelo.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+lib/pushSchedulers/buffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/pushSchedulers/direct.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/server/server.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+   - basename
+
+Library: pomelo-loader
+Methods Called:
+   - load
+
+Library: pomelo-scheduler
+Methods Called:
+   - cancelJob
+   - scheduleJob
+
+------------------------------------------
+lib/util/appUtil.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: async
+Methods Called:
+   - forEachSeries
+
+Library: path
+Methods Called:
+   - join
+   - basename
+
+Library: fs
+Methods Called:
+   - existsSync
+
+------------------------------------------
+lib/util/constants.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/util/countDownLatch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/util/events.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/util/log.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - configure
+
+------------------------------------------
+lib/util/moduleUtil.js
+------------------------------------------
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: os
+Methods Called:
+   - platform
+
+Library: pomelo-admin
+Methods Called:
+   - modules
+
+------------------------------------------
+lib/util/pathUtil.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - readdirSync
+   - statSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/util/utils.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: pomelo-logger
+Methods Called:
+   - getLogger
+
+Library: os
+Methods Called:
+   - networkInterfaces
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+template/game-server/app.js
+------------------------------------------
+Library: pomelo
+Methods Called:
+   - createApp
+   - connectors
+
+------------------------------------------
+template/game-server/app/servers/connector/handler/entryHandler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/web-server/app.js
+------------------------------------------
+Library: express
+Methods Called:
+   - createServer
+   - methodOverride
+   - bodyParser
+   - static
+   - errorHandler
+
+------------------------------------------
+template/web-server/public/js/lib/build/build.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+Library: emitter
+Methods Called:
+   - prototype
+
+------------------------------------------
+template/web-server/public/js/lib/local/boot/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/web-server/public/js/lib/pomeloclient.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/web-server/public/js/lib/socket.io.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/application.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - exist
+
+------------------------------------------
+test/filters/handler/serial.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - strictEqual
+
+------------------------------------------
+test/filters/handler/time.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - strictEqual
+
+------------------------------------------
+test/filters/handler/timeout.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - strictEqual
+
+------------------------------------------
+test/filters/handler/toobusy.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - exist
+
+------------------------------------------
+test/filters/rpc/rpcLog.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+
+------------------------------------------
+test/filters/rpc/toobusy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/manager/mockChannelManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/manager/taskManager.js
+------------------------------------------
+Library: should
+Methods Called:
+   - fail
+
+------------------------------------------
+test/mock-plugin/components/mockPlugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/mock-plugin/events/mockEvent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/modules/console.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - exist
+
+------------------------------------------
+test/pomelo.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - strictEqual
+
+------------------------------------------
+test/remote/channelRemote.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - equal
+
+------------------------------------------
+test/service/channel.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - not
+
+------------------------------------------
+test/service/channelService.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - not
+
+------------------------------------------
+test/service/connectionService.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - not
+
+------------------------------------------
+test/service/filterService.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+
+------------------------------------------
+test/service/handlerService.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+
+------------------------------------------
+test/service/sessionService.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - not
+
+------------------------------------------
+test/util/countDownLatch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/util/pathUtil.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+   - not
+
+Library: fs
+Methods Called:
+   - existsSync
+
+------------------------------------------
+test/util/utils.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "path": {
+    "join": true,
+    "dirname": true,
+    "basename": true
+  },
+  "pomelo-logger": {
+    "getLogger": true,
+    "configure": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "fs": {
+    "existsSync": true,
+    "watch": true,
+    "readdirSync": true,
+    "readFile": true,
+    "statSync": true
+  },
+  "async": {
+    "forEachSeries": true,
+    "whilst": true
+  },
+  "seq-queue": {
+    "createQueue": true
+  },
+  "pomelo-loader": {
+    "load": true
+  },
+  "util": {
+    "inherits": true,
+    "format": true
+  },
+  "node-bignumber": {
+    "Key": true,
+    "BigInteger": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "pomelo-protobuf": {
+    "init": true,
+    "encode": true,
+    "encode2Bytes": true,
+    "decode": true,
+    "parse": true,
+    "setEncoderProtos": true,
+    "setDecoderProtos": true
+  },
+  "pomelo-rpc": {
+    "client": true,
+    "server": true
+  },
+  "crc": {
+    "crc32": true
+  },
+  "pomelo-protocol": {
+    "Package": true,
+    "Message": true,
+    "strdecode": true
+  },
+  "stream": {
+    "call": true
+  },
+  "http": {
+    "Server": true
+  },
+  "ws": {
+    "Server": true
+  },
+  "net": {
+    "createServer": true
+  },
+  "tls": {
+    "createServer": true
+  },
+  "mqtt": {
+    "createServer": true
+  },
+  "socket.io": {
+    "listen": true
+  },
+  "dgram": {
+    "createSocket": true
+  },
+  "toobusy": {
+    "main_method*": true,
+    "prototype": true
+  },
+  "pomelo-admin": {
+    "createMasterConsole": true,
+    "createMonitorConsole": true,
+    "modules": true
+  },
+  "child_process": {
+    "spawn": true,
+    "exec": true
+  },
+  "os": {
+    "platform": true,
+    "networkInterfaces": true
+  },
+  "pomelo-scheduler": {
+    "cancelJob": true,
+    "scheduleJob": true
+  },
+  "pomelo": {
+    "createApp": true,
+    "connectors": true
+  },
+  "express": {
+    "createServer": true,
+    "methodOverride": true,
+    "bodyParser": true,
+    "static": true,
+    "errorHandler": true
+  },
+  "indexof": {
+    "main_method*": true
+  },
+  "emitter": {
+    "prototype": true
+  },
+  "should": {
+    "not": true,
+    "exist": true,
+    "strictEqual": true,
+    "fail": true,
+    "equal": true
+  }
+}

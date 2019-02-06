@@ -1,0 +1,14 @@
+71eb2eca37728801c6f963eb7093c831703d3444
+build/angular.js
+build/flux-angular.js
+gulpfile.js
+karma.conf.js
+releases/1.0.0/flux-angular-1.0.0.js
+releases/1.0.0/flux-angular-1.0.0.min.js
+releases/1.0.1/flux-angular-1.0.1.js
+releases/1.0.1/flux-angular-1.0.1.min.js
+src/EventEmitter.js
+src/action.js
+src/main.js
+src/safeDeepClone.js
+tests/FLUX-test.js

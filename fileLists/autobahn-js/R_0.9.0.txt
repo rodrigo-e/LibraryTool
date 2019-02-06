@@ -1,0 +1,9 @@
+f21d532a672339aea48c94a79bc9c1acad6ae4b2
+package/index.js
+package/lib/autobahn.js
+package/lib/connection.js
+package/lib/session.js
+package/lib/websocket.js
+package/test/test1.js
+package/test/test2.js
+package/test/test3.js

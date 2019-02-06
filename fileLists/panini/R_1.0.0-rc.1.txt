@@ -1,0 +1,16 @@
+bf6ee238a0126ee4cdcf47aa5ee7022640014f79
+helpers/ifPage.js
+helpers/markdown.js
+helpers/repeat.js
+helpers/unlessPage.js
+index.js
+lib/init.js
+lib/loadBuiltinHelpers.js
+lib/loadData.js
+lib/loadHelpers.js
+lib/loadLayouts.js
+lib/loadPartials.js
+lib/processRoot.js
+lib/render.js
+test/fixtures/helpers/test.js
+test/test.js

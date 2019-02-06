@@ -1,0 +1,4 @@
+cc40187190fb89052508b3925991109e54e7c2b6
+dist/angular-dayparts.js
+gulpfile.js
+src/angular-dayparts.js

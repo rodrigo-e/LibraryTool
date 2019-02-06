@@ -1,0 +1,3 @@
+948a172b5bb11450caa73aba969bdded6d75524e
+lib/docco.js
+vendor/showdown.js

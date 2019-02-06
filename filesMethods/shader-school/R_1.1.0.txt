@@ -1,0 +1,2082 @@
+------------------------------------------
+exercises/_gpgpu-1/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/_gpgpu-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/_gpgpu-3/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: ndarray
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/_gpgpu-3/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/_lesson-template/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/_lesson-template/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/_point-1/index.js
+------------------------------------------
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/_point-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/common.js
+------------------------------------------
+Library: highlight.js
+Methods Called:
+   - highlight
+
+Library: gl-compare-sidebar
+Methods Called:
+   - main_method*
+
+Library: remove-element
+Methods Called:
+   - main_method*
+
+Library: google-fonts
+Methods Called:
+   - add
+
+Library: quotemeta
+Methods Called:
+   - main_method*
+
+Library: glsldoc
+Methods Called:
+   - map
+
+Library: sliced
+Methods Called:
+   - main_method*
+
+Library: marked
+Methods Called:
+   - main_method*
+
+Library: xhr
+Methods Called:
+   - main_method*
+
+Library: apprise
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/frag-1/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/frag-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/frag-2/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/frag-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/frag-3/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - y
+   - x
+
+Library: ndarray-distance
+Methods Called:
+   - main_method*
+
+Library: ndarray
+Methods Called:
+   - main_method*
+
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: gl-texture2d
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: baboon-image
+Methods Called:
+   - step
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/frag-3/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/geom-1/index.js
+------------------------------------------
+Library: conway-hart
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/geom-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/geom-2/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: conway-hart
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/geom-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/geom-3/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: conway-hart
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/geom-3/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/geom-4/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: conway-hart
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/geom-4/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/geom-5/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: conway-hart
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/geom-5/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/gpgpu-1/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: ndarray
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/gpgpu-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/gpgpu-2/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/gpgpu-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/gpgpu-3/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/gpgpu-3/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/intro-0/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+   - vec3
+
+------------------------------------------
+exercises/intro-0/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/intro-1/index.js
+------------------------------------------
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-axes
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/intro-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/intro-2/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/intro-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/intro-3/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/intro-3/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/intro-4/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/intro-4/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/intro-5/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/intro-5/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/intro-6/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-texture2d
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+exercises/intro-6/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/light-1/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/light-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/light-2/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/light-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/light-3/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+   - vec3
+
+------------------------------------------
+exercises/light-3/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/light-4/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+   - vec3
+
+------------------------------------------
+exercises/light-4/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/light-5/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+   - vec3
+
+------------------------------------------
+exercises/light-5/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/npr-1/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/npr-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/npr-2/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: stanford-dragon/3
+Methods Called:
+   - cells
+   - positions
+
+Library: mesh-normals
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/npr-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/playground-flocking/index.js
+------------------------------------------
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: ndarray
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/playground-flocking/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/playground-gpgpu/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: mouse-pressed
+Methods Called:
+   - left
+   - middle
+   - right
+
+Library: a-big-triangle
+Methods Called:
+   - main_method*
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: gl-fbo
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/playground-gpgpu/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/prims-1/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/prims-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/prims-2/index.js
+------------------------------------------
+Library: mouse-position
+Methods Called:
+   - x
+   - y
+
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+Library: gl-matrix
+Methods Called:
+   - mat4
+
+------------------------------------------
+exercises/prims-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/vert-1/index.js
+------------------------------------------
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/vert-1/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+exercises/vert-2/index.js
+------------------------------------------
+Library: canvas-fit
+Methods Called:
+   - main_method*
+
+Library: gl-context
+Methods Called:
+   - main_method*
+
+Library: gl-compare
+Methods Called:
+   - main_method*
+
+Library: gl-buffer
+Methods Called:
+   - main_method*
+
+Library: gl-vao
+Methods Called:
+   - main_method*
+
+Library: glslify
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: right-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+exercises/vert-2/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+lib/create-answers.js
+------------------------------------------
+Library: inquirer
+Methods Called:
+   - prompt
+
+Library: wordwrap
+Methods Called:
+   - main_method*
+
+Library: mkdirp
+Methods Called:
+   - sync
+
+Library: chalk
+Methods Called:
+   - grey
+   - cyan
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+   - basename
+
+Library: fs
+Methods Called:
+   - readdirSync
+   - existsSync
+   - createReadStream
+   - createWriteStream
+
+------------------------------------------
+lib/description.js
+------------------------------------------
+Library: domify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/diff-ui.js
+------------------------------------------
+Library: findup-element
+Methods Called:
+   - main_method*
+
+Library: mouse-position
+Methods Called:
+   - main_method*
+
+Library: domify
+Methods Called:
+   - main_method*
+
+Library: sliced
+Methods Called:
+   - main_method*
+
+Library: clamp
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/exercise-map.js
+------------------------------------------
+Library: zfill
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/match-fbo.js
+------------------------------------------
+Library: gl-fbo-matching
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/progress.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+menu/index.js
+------------------------------------------
+Library: sidenote
+Methods Called:
+   - main_method*
+
+Library: browser-menu
+Methods Called:
+   - reset
+   - write
+   - element
+   - add
+   - on
+
+------------------------------------------
+postpack.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+prepack.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+start.js
+------------------------------------------
+Library: mkdirp
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+style/index.js
+------------------------------------------
+Library: autoprefixer
+Methods Called:
+   - process
+
+Library: memoize-sync
+Methods Called:
+   - main_method*
+
+Library: rework-npm
+Methods Called:
+   - main_method*
+
+Library: rework
+Methods Called:
+   - main_method*
+   - ease
+   - inline
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+
+All of the Methods:
+{
+  "mouse-position": {
+    "x": true,
+    "y": true,
+    "main_method*": true
+  },
+  "a-big-triangle": {
+    "main_method*": true
+  },
+  "canvas-fit": {
+    "main_method*": true
+  },
+  "gl-context": {
+    "main_method*": true
+  },
+  "gl-compare": {
+    "main_method*": true
+  },
+  "glslify": {
+    "main_method*": true
+  },
+  "gl-fbo": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "readdirSync": true,
+    "existsSync": true,
+    "createReadStream": true,
+    "createWriteStream": true,
+    "writeFileSync": true
+  },
+  "path": {
+    "basename": true,
+    "resolve": true,
+    "join": true
+  },
+  "ndarray": {
+    "main_method*": true
+  },
+  "right-now": {
+    "main_method*": true
+  },
+  "gl-matrix": {
+    "mat4": true,
+    "vec3": true
+  },
+  "highlight.js": {
+    "highlight": true
+  },
+  "gl-compare-sidebar": {
+    "main_method*": true
+  },
+  "remove-element": {
+    "main_method*": true
+  },
+  "google-fonts": {
+    "add": true
+  },
+  "quotemeta": {
+    "main_method*": true
+  },
+  "glsldoc": {
+    "map": true
+  },
+  "sliced": {
+    "main_method*": true
+  },
+  "marked": {
+    "main_method*": true
+  },
+  "xhr": {
+    "main_method*": true
+  },
+  "apprise": {
+    "main_method*": true
+  },
+  "ndarray-distance": {
+    "main_method*": true
+  },
+  "gl-texture2d": {
+    "main_method*": true
+  },
+  "baboon-image": {
+    "step": true
+  },
+  "conway-hart": {
+    "main_method*": true
+  },
+  "gl-buffer": {
+    "main_method*": true
+  },
+  "gl-vao": {
+    "main_method*": true
+  },
+  "stanford-dragon/3": {
+    "cells": true,
+    "positions": true
+  },
+  "mesh-normals": {
+    "main_method*": true
+  },
+  "gl-axes": {
+    "main_method*": true
+  },
+  "mouse-pressed": {
+    "left": true,
+    "middle": true,
+    "right": true
+  },
+  "inquirer": {
+    "prompt": true
+  },
+  "wordwrap": {
+    "main_method*": true
+  },
+  "mkdirp": {
+    "sync": true
+  },
+  "chalk": {
+    "grey": true,
+    "cyan": true
+  },
+  "domify": {
+    "main_method*": true
+  },
+  "findup-element": {
+    "main_method*": true
+  },
+  "clamp": {
+    "main_method*": true
+  },
+  "zfill": {
+    "main_method*": true
+  },
+  "gl-fbo-matching": {
+    "main_method*": true
+  },
+  "sidenote": {
+    "main_method*": true
+  },
+  "browser-menu": {
+    "reset": true,
+    "write": true,
+    "element": true,
+    "add": true,
+    "on": true
+  },
+  "autoprefixer": {
+    "process": true
+  },
+  "memoize-sync": {
+    "main_method*": true
+  },
+  "rework-npm": {
+    "main_method*": true
+  },
+  "rework": {
+    "main_method*": true,
+    "ease": true,
+    "inline": true
+  }
+}

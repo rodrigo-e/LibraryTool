@@ -1,0 +1,11 @@
+8dbf2d04c66382d353a02b83ccdf450d042fee32
+lib/zombie.js
+test/data/file_scheme.js
+test/scripts/jquery-1.4.4.js
+test/scripts/jquery-1.5.1.js
+test/scripts/jquery-1.6.3.js
+test/scripts/jquery-1.7.1.js
+test/scripts/sammy.js
+xpath/util.js
+xpath/xmltoken.js
+xpath/xpath.js

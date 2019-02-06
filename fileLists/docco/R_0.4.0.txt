@@ -1,0 +1,4 @@
+99a047740d15262d529084eaafd75ede3cca7a05
+lib/docco.js
+test/comments/javascript.js
+vendor/showdown.js

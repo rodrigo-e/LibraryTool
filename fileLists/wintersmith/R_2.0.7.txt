@@ -1,0 +1,2 @@
+d320b9288171f91db9fef186195277c9b7d0498d
+examples/webapp/contents/scripts/vendor/ready.js

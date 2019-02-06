@@ -1,0 +1,130 @@
+------------------------------------------
+bin/client.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/chrome.js
+------------------------------------------
+Library: events
+Methods Called:
+   - call
+
+Library: util
+Methods Called:
+   - inspect
+
+Library: ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/defaults.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/devtools.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/external-request.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/protocol-error.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/websocket-wrapper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/close.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/connect.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/devtools.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ifError
+   - main_method*
+   - equal
+
+Library: util
+Methods Called:
+   - isArray
+   - isObject
+
+------------------------------------------
+test/event.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/send.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+webpack.config.js
+------------------------------------------
+Library: webpack
+Methods Called:
+   - optimize
+
+
+All of the Methods:
+{
+  "events": {
+    "main_method*": true,
+    "call": true
+  },
+  "util": {
+    "inspect": true,
+    "isArray": true,
+    "isObject": true
+  },
+  "ws": {
+    "main_method*": true
+  },
+  "assert": {
+    "main_method*": true,
+    "ifError": true,
+    "equal": true
+  },
+  "webpack": {
+    "optimize": true
+  }
+}

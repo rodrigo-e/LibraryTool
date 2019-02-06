@@ -37,8 +37,15 @@ function getFileList() {
 						await repo
 							.getCommit(commitList[commitVersion])
 							.then(function(commit) {
+								var commitVersionTmp = commitVersion.split('/');
+								var commitVersionTmp2 =
+									commitVersionTmp[commitVersionTmp.length - 1];
+								commitVersionTmp = commitVersionTmp2.split('@');
+								commitVersionTmp2 =
+									commitVersionTmp[commitVersionTmp.length - 1];
 								var tmpSha = commitList[commitVersion];
-								var fileName = directoryName + '/R_' + commitVersion + '.txt';
+								var fileName =
+									directoryName + '/R_' + commitVersionTmp2 + '.txt';
 								var listTmp = [];
 								commit.getTree().then(function(tree) {
 									// console.log(commitVersion);

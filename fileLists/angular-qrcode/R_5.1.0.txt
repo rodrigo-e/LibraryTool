@@ -1,0 +1,2 @@
+4874c8edd1c5ae8e5b77807006b2580c6a7ea41e
+qrcode.js

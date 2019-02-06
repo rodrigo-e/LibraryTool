@@ -1,0 +1,326 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/auth/cra.js
+------------------------------------------
+Library: crypto-js
+Methods Called:
+   - algo
+   - PBKDF2
+   - enc
+   - HmacSHA256
+
+------------------------------------------
+lib/auth/cryptosign.js
+------------------------------------------
+Library: tweetnacl
+Methods Called:
+   - randomBytes
+   - sign
+
+------------------------------------------
+lib/auth/persona.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/autobahn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/configure.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/connection.js
+------------------------------------------
+Library: when
+Methods Called:
+   - defer
+
+------------------------------------------
+lib/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill/array.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill/console.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill/function.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill/json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill/object.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill/string.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/polyfill/typedarray.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/serializer.js
+------------------------------------------
+Library: msgpack5
+Methods Called:
+   - encode
+   - decode
+
+Library: cbor
+Methods Called:
+   - encode
+   - decodeFirstSync
+
+------------------------------------------
+lib/session.js
+------------------------------------------
+Library: when/function
+Methods Called:
+   - call
+
+------------------------------------------
+lib/transport/longpoll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/transport/rawsocket.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: net
+Methods Called:
+   - connect
+
+------------------------------------------
+lib/transport/websocket.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/util.js
+------------------------------------------
+Library: when
+Methods Called:
+   - defer
+
+------------------------------------------
+test/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_basic_async.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_basic_sync.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_connect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_error_handling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_basic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_complex.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_eligible.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_exclude.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_excludeme.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_multiple_matching_subs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_prefix_sub.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_pubsub_wildcard_sub.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rawsocket_protocol.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - PassThrough
+
+------------------------------------------
+test/test_rawsocket_transport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rpc_arguments.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rpc_complex.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rpc_error.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rpc_options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rpc_progress.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rpc_routing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_rpc_slowsquare.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_serialization_cbor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_serialization_json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test_serialization_msgpack.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/testutil.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+   - writeFileSync
+
+
+All of the Methods:
+{
+  "crypto-js": {
+    "algo": true,
+    "PBKDF2": true,
+    "enc": true,
+    "HmacSHA256": true
+  },
+  "tweetnacl": {
+    "randomBytes": true,
+    "sign": true
+  },
+  "when": {
+    "defer": true
+  },
+  "msgpack5": {
+    "encode": true,
+    "decode": true
+  },
+  "cbor": {
+    "encode": true,
+    "decodeFirstSync": true
+  },
+  "when/function": {
+    "call": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "net": {
+    "connect": true
+  },
+  "ws": {
+    "main_method*": true
+  },
+  "stream": {
+    "PassThrough": true
+  },
+  "fs": {
+    "existsSync": true,
+    "readFileSync": true,
+    "writeFileSync": true
+  }
+}

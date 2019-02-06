@@ -1,0 +1,49 @@
+------------------------------------------
+dist/angular-dayparts.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-ng-html2js
+Methods Called:
+   - main_method*
+
+Library: gulp-concat
+Methods Called:
+   - main_method*
+
+Library: del
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/angular-dayparts.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "gulp-ng-html2js": {
+    "main_method*": true
+  },
+  "gulp-concat": {
+    "main_method*": true
+  },
+  "del": {
+    "main_method*": true
+  }
+}

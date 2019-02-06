@@ -1,0 +1,16 @@
+efe710d4320f60c7a8cec959c7124ebf4a7c68b3
+examples/dashboard.js
+examples/layout/grid.js
+index.js
+layout/grid.js
+utils.js
+widget/canvas.js
+widget/charts/bar.js
+widget/charts/line-simple.js
+widget/charts/line.js
+widget/gauge.js
+widget/log.js
+widget/map.js
+widget/picture.js
+widget/sparkline.js
+widget/table.js

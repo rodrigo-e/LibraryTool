@@ -1,0 +1,5 @@
+d224fdbe1e6e6b9d3d46eee7f665bad729a29885
+dist/angular-moment-picker.js
+dist/angular-moment-picker.min.js
+karma.conf.js
+webpack.config.js

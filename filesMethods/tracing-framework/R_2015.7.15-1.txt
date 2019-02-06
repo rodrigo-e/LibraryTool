@@ -1,0 +1,1662 @@
+------------------------------------------
+addons/diagrams/diagrams-app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+addons/test/test-addon-trace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+addons/webglcapture/webglgen.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+app/scripts/debug-graphicsreplay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/scripts/debug-postfix-maindisplay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/scripts/debug-prefix.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/scripts/release-graphicsreplay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/scripts/release-maindisplay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/controller.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/diff.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/dump.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/generate-webgl-app.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/instrument.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/query.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/save-trace.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/tool-runner.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/trace-runner.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/trace-server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+extensions/wtf-injector-chrome/background.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/debugger.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/extension.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/injectedtab.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/popup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/third_party/falafel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/tracer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/uri.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/wtf-call-tracing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/wtf-injector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-chrome/wtf-process.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-firefox/data/content-script.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-firefox/data/widget-panel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-firefox/data/widget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-injector-firefox/lib/main.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 138: Unexpected identifier
+------------------------------------------
+extensions/wtf-injector-firefox/test/test-main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+extensions/wtf-instrument-proxy/background.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+externs/analytics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+externs/chrome.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+externs/drive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+externs/node.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+scripts/run-benchmarks.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+scripts/run-saucelabs.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+shims/wtf-trace-closure.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+shims/wtf-trace-disabled.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+shims/wtf-trace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/addon/addon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/addon/appaddon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/addon/manifest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/addon/registry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/addon/traceaddon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/addonmanager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/documentview.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/framepainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/granularity.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/graphics/canvaspanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/healthdialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/helpdialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/loader.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/maindisplay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/markpainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/nav/heatmappainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/nav/navbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/nav/statsbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/nav/timelinepainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/query/querypanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/query/querytablesource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/selection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/selectionpainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/splashdialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/statusbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/tabbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/tabpanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/toolbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/tracks/statisticstablesource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/tracks/timerangepainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/tracks/trackinfobar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/tracks/trackspanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/app/tracks/zonepainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/bootstrap/mocha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/bootstrap/node.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - statSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: vm
+Methods Called:
+   - runInThisContext
+
+------------------------------------------
+src/wtf/data/contextinfo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/data/eventclass.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/data/eventflag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/data/formats.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/data/variable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/data/webidl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/data/zonetype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/database.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/datasource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/datasourceinfo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/db.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventindex.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventiterator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventlist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventstatistics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventstruct.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventtype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventtypebuilder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/eventtypetable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/filter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/filterparser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/filterparser_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/frame.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/framelist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/framelist_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/healthinfo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/mark.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/marklist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/marklist_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/node.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/queryresult.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/sources/callsdatasource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/sources/chunkeddatasource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/sources/cpuprofiledatasource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/timerange.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/timerange_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/timerangelist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/unit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/db/zone.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/doc/comment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/doc/commentscope.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/doc/document.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/doc/profile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/doc/profilescope.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/doc/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/events/commandmanager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/events/eventemitter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/events/eventfullist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/events/eventfulmap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/events/events.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/events/eventtype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/events/keyboard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/hud/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/hud/hud.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/hud/livegraph.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/hud/overlay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/blob.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/buffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/bufferview.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/binarystreamsource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/binarystreamtarget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/chunk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/chunks/eventdatachunk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/chunks/fileheaderchunk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/chunktype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/jsonstreamsource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/jsonstreamtarget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/part.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/parts/binaryeventbufferpart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/parts/fileheaderpart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/parts/jsoneventbufferpart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/parts/legacyeventbufferpart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/parts/resourcepart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/parts/stringtablepart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/parttype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/streambase.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/streamsource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/cff/streamtarget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/drive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/eventtype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/io.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/io_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/readtransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/streaminghttpwritestream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/stringtable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/blobreadtransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/blobwritetransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/filereadtransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/filewritetransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/memoryreadtransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/memorywritetransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/nullwritetransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/xhrreadtransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/transports/xhrwritetransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/io/writetransport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ipc/channel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ipc/ipc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ipc/messagechannel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/math/math.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/math/mersennetwister.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/pal/browserplatform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/pal/chromeplatform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/pal/iplatform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/pal/nodeplatform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/pal/pal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/remote/client.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/remote/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/remote/remote.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/contextpool.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/contextpool_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/drawcallvisualizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/experiment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/extensionmanager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/frameoverdrawvisualizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/frametimevisualizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/graphics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/highlightvisualizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/offscreensurface.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/offscreensurface_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/overdrawsurface.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/overdrawvisualizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/playback.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/playback_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/program.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/program_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/replayframe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/replayframe_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/session_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/skipcallsvisualizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/step.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/step_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/argumentsdialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/canvasarea.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/contextbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/eventnavigator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/eventnavigatorsource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/eventnavigatortoolbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/graphicspanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/graphicstoolbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/rangeseeker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/ui/replayframepainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/visualizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/webglstate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/graphics/webglstate_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/timetravel/controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/timetravel/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/timetravel/replaysession.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/replay/timetravel/timetravel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/testing/benchmark.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/testing/mocha-run.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/testing/mocha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/testing/testing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/tests/eventbuffers_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/timing/browserinterval.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/timing/handle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/timing/renderinterval.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/timing/rendertimer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/timing/timing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/timing/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/builtinevents.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/eventregistry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/events.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/eventsessioncontext.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/eventtarget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/eventtype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/eventtypebuilder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/flow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/instrument.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/node.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/prepare.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/provider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/chromedebugprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/consoleprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/domprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/firefoxdebugprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/imageprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/providers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/replayprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/timingprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/webglprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/websocketprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/webworkerprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/providers/xhrprovider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/scope.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/sessions/nullsession.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/sessions/snapshottingsession.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/sessions/streamingsession.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/trace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/tracemanager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/trace/zone.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/color/color.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/color/palette.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/control.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/dialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/errordialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/gridpainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/icons.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/painter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/progressdialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/rangepainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/rangerenderer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/resizablecontrol.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/rulerpainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/searchcontrol.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/settingsdialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/timepainter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/tooltip.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/virtualtable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/virtualtablesource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/zoom/element.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/zoom/itarget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/zoom/spring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/zoom/viewport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/ui/zoom/zoom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/util/canvas.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/util/functionbuilder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/util/options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/util/options_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/util/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/util/util_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/version.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wtf/wtf.js
+------------------------------------------
+Library: microtime
+Methods Called:
+   - undefined
+
+------------------------------------------
+test/benchmarks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/benchmarks/dom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/benchmarks/scopes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/benchmarks/simple.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/benchmarks/tracetypes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodemanual.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+test/nodetest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/replay-host.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test-scripts-body-post.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test-scripts-body-pre.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test-scripts-head.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test-scripts-remote.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+third_party/d3/colorbrewer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+third_party/d3/d3.v3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+third_party/d3/d3.v3.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+third_party/d3/sankey.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "fs": {
+    "existsSync": true,
+    "statSync": true,
+    "readFileSync": true
+  },
+  "path": {
+    "join": true
+  },
+  "vm": {
+    "runInThisContext": true
+  },
+  "microtime": {
+    "undefined": true
+  }
+}

@@ -1,0 +1,5 @@
+1894455b76150a42f2847b38ca6cf404963dd92c
+bin/index.js
+bin/utils/log.js
+index.js
+newrelic.js

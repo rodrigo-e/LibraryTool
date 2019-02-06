@@ -1,0 +1,968 @@
+------------------------------------------
+Gulpfile.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+Library: del
+Methods Called:
+   - main_method*
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - formatEach
+   - failOnError
+
+Library: gulp-exec
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: gulp-notify
+Methods Called:
+   - main_method*
+
+Library: gulp-sourcemaps
+Methods Called:
+   - init
+   - write
+
+Library: gulp-babel
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/assert.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - deepEqual
+   - equal
+
+Library: url
+Methods Called:
+   - resolve
+   - parse
+
+------------------------------------------
+src/console.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/cookies.js
+------------------------------------------
+Library: tough-cookie
+Methods Called:
+   - cookieCompare
+   - pathMatch
+   - domainMatch
+   - defaultPath
+
+------------------------------------------
+src/document.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: jsdom/lib/jsdom/browser/documentfeatures
+Methods Called:
+   - applyDocumentFeatures
+
+Library: eventsource
+Methods Called:
+   - main_method*
+
+Library: iconv-lite
+Methods Called:
+   - decode
+
+Library: querystring
+Methods Called:
+   - escape
+
+Library: url
+Methods Called:
+   - resolve
+   - parse
+   - format
+
+Library: vm
+Methods Called:
+   - createContext
+   - runInContext
+
+Library: ws
+Methods Called:
+   - main_method*
+   - prototype
+
+Library: jsdom/lib/jsdom/browser/Window
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/dom/focus.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/dom/forms.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: mime
+Methods Called:
+   - getType
+
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+src/dom/iframe.js
+------------------------------------------
+Library: url
+Methods Called:
+   - resolve
+
+------------------------------------------
+src/dom/impl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/dom/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/dom/jsdom_patches.js
+------------------------------------------
+Library: jsdom/lib/jsdom/browser/resource-loader
+Methods Called:
+   - load
+
+Library: url
+Methods Called:
+   - resolve
+
+------------------------------------------
+src/dom/scripts.js
+------------------------------------------
+Library: jsdom/lib/jsdom/browser/resource-loader
+Methods Called:
+   - load
+   - enqueue
+
+Library: jsdom/lib/jsdom/living/helpers/runtime-script-errors
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/eventloop.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/fetch.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - find
+
+Library: http
+Methods Called:
+   - STATUS_CODES
+
+Library: stream
+Methods Called:
+   - Readable
+   - PassThrough
+
+Library: url
+Methods Called:
+   - format
+   - parse
+
+Library: zlib
+Methods Called:
+   - createInflate
+   - createGunzip
+
+------------------------------------------
+src/history.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: url
+Methods Called:
+   - parse
+   - format
+   - resolve
+
+Library: whatwg-url
+Methods Called:
+   - parseURL
+
+------------------------------------------
+src/index.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: bluebird
+Methods Called:
+   - promisify
+
+Library: debug
+Methods Called:
+   - enable
+   - main_method*
+
+Library: fs
+Methods Called:
+   - statSync
+
+Library: mime
+Methods Called:
+   - getType
+
+Library: ms
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - basename
+
+Library: tough-cookie
+Methods Called:
+   - cookieCompare
+
+Library: url
+Methods Called:
+   - resolve
+
+------------------------------------------
+src/pipeline.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - reduce
+
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: bluebird
+Methods Called:
+   - reduce
+
+Library: fs
+Methods Called:
+   - existsSync
+   - createReadStream
+
+Library: path
+Methods Called:
+   - normalize
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: url
+Methods Called:
+   - resolve
+   - format
+   - parse
+
+------------------------------------------
+src/reroute.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: net
+Methods Called:
+   - Socket
+
+------------------------------------------
+src/resources.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/storage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/tabs.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+src/xhr.js
+------------------------------------------
+Library: ms
+Methods Called:
+   - main_method*
+
+Library: url
+Methods Called:
+   - parse
+   - resolve
+   - format
+
+Library: jsdom/lib/jsdom/living/generated/EventTarget
+Methods Called:
+   - setup
+   - interface
+
+------------------------------------------
+test/angular_compat_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/assert_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - throws
+
+------------------------------------------
+test/authentication_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/browser_events_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+   - equal
+   - main_method*
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+test/browser_object_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+test/cookies_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - throws
+   - main_method*
+   - strictEqual
+
+------------------------------------------
+test/css_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/data/dir with spaces/file_scheme with spaces.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/data/file_scheme.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/dataset_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+test/document_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+test/event_loop_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - doesNotThrow
+
+Library: bluebird
+Methods Called:
+   - delay
+
+------------------------------------------
+test/event_source_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - deepEqual
+
+------------------------------------------
+test/forms_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+   - main_method*
+   - deepEqual
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/google_map_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/helpers/brains.js
+------------------------------------------
+Library: body-parser
+Methods Called:
+   - urlencoded
+   - json
+   - text
+
+Library: cookie-parser
+Methods Called:
+   - main_method*
+
+Library: debug
+Methods Called:
+   - enabled
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: multiparty
+Methods Called:
+   - Form
+
+Library: morgan
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: bluebird
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/helpers/first.js
+------------------------------------------
+Library: bluebird
+Methods Called:
+   - longStackTraces
+
+Library: path
+Methods Called:
+   - join
+
+Library: replay
+Methods Called:
+   - fixtures
+   - networkAccess
+   - localhost
+
+------------------------------------------
+test/helpers/thirdparty.js
+------------------------------------------
+Library: debug
+Methods Called:
+   - enabled
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: morgan
+Methods Called:
+   - main_method*
+
+Library: replay
+Methods Called:
+   - localhost
+
+------------------------------------------
+test/history_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+Library: url
+Methods Called:
+   - format
+
+------------------------------------------
+test/iframe_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+test/img_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/jquery_compat_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+test/jsdom_patches_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: url
+Methods Called:
+   - resolve
+
+------------------------------------------
+test/node_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+test/promises_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+test/requirejs_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/reroute_test.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createConnection
+
+------------------------------------------
+test/resources_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: zlib
+Methods Called:
+   - deflate
+   - gzip
+
+------------------------------------------
+test/script_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+   - main_method*
+
+------------------------------------------
+test/scripts/angular-1.3.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.10.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.12.4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.4.4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.5.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.6.3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.7.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.8.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-1.9.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-2.0.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/jquery-2.0.3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/scripts/sammy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/selection_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+test/storage_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+   - doesNotThrow
+   - deepEqual
+
+------------------------------------------
+test/tabs_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - main_method*
+
+------------------------------------------
+test/websocket_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: ws
+Methods Called:
+   - Server
+   - CLOSED
+
+------------------------------------------
+test/window_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+------------------------------------------
+test/xhr_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+   - strictEqual
+
+------------------------------------------
+test/xpath_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+
+All of the Methods:
+{
+  "assert": {
+    "main_method*": true,
+    "equal": true,
+    "deepEqual": true,
+    "throws": true,
+    "strictEqual": true,
+    "doesNotThrow": true
+  },
+  "del": {
+    "main_method*": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "formatEach": true,
+    "failOnError": true
+  },
+  "gulp-exec": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "writeFileSync": true,
+    "statSync": true,
+    "existsSync": true,
+    "createReadStream": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-util": {
+    "log": true
+  },
+  "gulp-notify": {
+    "main_method*": true
+  },
+  "gulp-sourcemaps": {
+    "init": true,
+    "write": true
+  },
+  "gulp-babel": {
+    "main_method*": true
+  },
+  "url": {
+    "resolve": true,
+    "parse": true,
+    "format": true
+  },
+  "tough-cookie": {
+    "cookieCompare": true,
+    "pathMatch": true,
+    "domainMatch": true,
+    "defaultPath": true
+  },
+  "jsdom/lib/jsdom/browser/documentfeatures": {
+    "applyDocumentFeatures": true
+  },
+  "eventsource": {
+    "main_method*": true
+  },
+  "iconv-lite": {
+    "decode": true
+  },
+  "querystring": {
+    "escape": true
+  },
+  "vm": {
+    "createContext": true,
+    "runInContext": true
+  },
+  "ws": {
+    "main_method*": true,
+    "prototype": true,
+    "Server": true,
+    "CLOSED": true
+  },
+  "jsdom/lib/jsdom/browser/Window": {
+    "main_method*": true
+  },
+  "mime": {
+    "getType": true
+  },
+  "path": {
+    "basename": true,
+    "normalize": true,
+    "join": true,
+    "resolve": true
+  },
+  "jsdom/lib/jsdom/browser/resource-loader": {
+    "load": true,
+    "enqueue": true
+  },
+  "jsdom/lib/jsdom/living/helpers/runtime-script-errors": {
+    "main_method*": true
+  },
+  "lodash": {
+    "each": true,
+    "find": true,
+    "reduce": true
+  },
+  "http": {
+    "STATUS_CODES": true
+  },
+  "stream": {
+    "Readable": true,
+    "PassThrough": true
+  },
+  "zlib": {
+    "createInflate": true,
+    "createGunzip": true,
+    "deflate": true,
+    "gzip": true
+  },
+  "whatwg-url": {
+    "parseURL": true
+  },
+  "bluebird": {
+    "promisify": true,
+    "reduce": true,
+    "delay": true,
+    "main_method*": true,
+    "longStackTraces": true
+  },
+  "debug": {
+    "enable": true,
+    "main_method*": true,
+    "enabled": true
+  },
+  "ms": {
+    "main_method*": true
+  },
+  "request": {
+    "main_method*": true
+  },
+  "net": {
+    "Socket": true,
+    "createConnection": true
+  },
+  "jsdom/lib/jsdom/living/generated/EventTarget": {
+    "setup": true,
+    "interface": true
+  },
+  "util": {
+    "format": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "body-parser": {
+    "urlencoded": true,
+    "json": true,
+    "text": true
+  },
+  "cookie-parser": {
+    "main_method*": true
+  },
+  "express": {
+    "main_method*": true
+  },
+  "multiparty": {
+    "Form": true
+  },
+  "morgan": {
+    "main_method*": true
+  },
+  "replay": {
+    "fixtures": true,
+    "networkAccess": true,
+    "localhost": true
+  }
+}

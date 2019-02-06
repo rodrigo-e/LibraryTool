@@ -1,0 +1,5 @@
+083ac6781d95d8602202606bd1cd1da2b5a485cc
+dist/angular-formly-templates-ionic.js
+dist/angular-formly-templates-ionic.min.js
+gulpfile.js
+src/modules/angular-formly-templates-ionic.js

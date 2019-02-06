@@ -1,0 +1,5 @@
+0589717e1f8a3c0869853ab9790b7ca4a759bbba
+dist/lib/angular-iscroll.js
+dist/lib/angular-iscroll.min.js
+gulpfile.js
+src/lib/angular-iscroll.js

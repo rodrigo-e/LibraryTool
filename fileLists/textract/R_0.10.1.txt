@@ -1,0 +1,17 @@
+cc3cad6b1c986b5e823b511f4609571605545118
+lib/cli.js
+lib/extract.js
+lib/extractors/doc.js
+lib/extractors/docx.js
+lib/extractors/dxf.js
+lib/extractors/images.js
+lib/extractors/pdf.js
+lib/extractors/pptx.js
+lib/extractors/text.js
+lib/extractors/xls.js
+lib/extractors/xlsx.js
+lib/index.js
+test/common.js
+test/extract_test.js
+test/files/js.js
+test/general_test.js

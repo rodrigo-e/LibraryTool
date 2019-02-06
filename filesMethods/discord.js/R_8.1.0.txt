@@ -1,0 +1,763 @@
+------------------------------------------
+entrypoint.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/analysis-bot/bot.js
+------------------------------------------
+Library: superagent
+Methods Called:
+   - get
+
+Library: canvas
+Methods Called:
+   - Image
+   - main_method*
+
+------------------------------------------
+examples/avatar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/permissions/adminbot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/permissions/colortest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/permissions/permissions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/pingpong.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/send-files.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/tonicdev.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Client/Client.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Client/ConnectionState.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Client/InternalClient.js
+------------------------------------------
+Library: ../../package.json
+Methods Called:
+   - version
+
+------------------------------------------
+lib/Client/Resolver/Resolver.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Constants.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/Channel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/ChannelPermissions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/Invite.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/Message.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/PMChannel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/PermissionOverwrite.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/Role.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/Server.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/ServerChannel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/TextChannel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/User.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Structures/VoiceChannel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Util/ArgumentRegulariser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Util/Bucket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Util/Cache.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Util/Equality.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Util/TokenCacher-shim.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Util/TokenCacher.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Voice/AudioEncoder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Voice/StreamIntent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Voice/VoiceConnection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Voice/VoicePacket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Voice/VolumeTransformer.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+ref/colours.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Client/Client.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Client/ConnectionState.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Client/InternalClient.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Client/Resolver/Resolver.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 33: Unexpected token
+------------------------------------------
+src/Constants.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 109: Unexpected token
+------------------------------------------
+src/Structures/Channel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/ChannelPermissions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/Invite.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/Message.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+src/Structures/PMChannel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/PermissionOverwrite.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/Role.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Structures/Server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+src/Structures/ServerChannel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/TextChannel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/User.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Structures/VoiceChannel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Util/ArgumentRegulariser.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Util/Bucket.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Util/Cache.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+src/Util/Equality.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+src/Util/TokenCacher-shim.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Util/TokenCacher.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/Voice/AudioEncoder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Voice/StreamIntent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Voice/VoiceConnection.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected token
+------------------------------------------
+src/Voice/VoicePacket.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+src/Voice/VolumeTransformer.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+------------------------------------------
+src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 33: Unexpected token
+------------------------------------------
+test/lib-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/msgbot.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.3.10.2.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - SERVERS
+   - LOGOUT
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.3.0.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.3.1.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.3.2.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.4.0.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.6.3.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.7.1.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.8.4.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.3.9.0.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - LOGOUT
+   - SERVERS
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.4.0.0.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - SERVERS
+   - LOGOUT
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.4.1.0.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - SERVERS
+   - LOGOUT
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.4.1.1.js
+------------------------------------------
+Library: ./Endpoints.js
+Methods Called:
+   - LOGIN
+   - SERVERS
+   - LOGOUT
+   - CHANNELS
+   - USERS
+   - API
+
+------------------------------------------
+web-dist/discord.5.0.0.js
+------------------------------------------
+Library: ./InternalClient.js
+Methods Called:
+   - main_method*
+   - prototype
+
+------------------------------------------
+web-dist/discord.5.0.1.js
+------------------------------------------
+Library: ./InternalClient.js
+Methods Called:
+   - main_method*
+   - prototype
+
+------------------------------------------
+web-dist/discord.5.1.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.5.2.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.5.3.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.5.3.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.5.3.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.6.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.6.1.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.7.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.7.0.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.8.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.8.1.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.10.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.3.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.3.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.3.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.4.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.6.3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.7.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.8.4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.3.9.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.4.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.4.1.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.4.1.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.5.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.5.0.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.5.1.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.5.2.0.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.5.3.0.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.5.3.1.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.5.3.2.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.6.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web-dist/discord.min.6.1.0.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.7.0.0.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.7.0.1.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.8.0.0.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web-dist/discord.min.8.1.0.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "superagent": {
+    "get": true
+  },
+  "canvas": {
+    "Image": true,
+    "main_method*": true
+  },
+  "../../package.json": {
+    "version": true
+  },
+  "stream": {
+    "Transform": true
+  },
+  "request": {
+    "main_method*": true
+  },
+  "./Endpoints.js": {
+    "LOGIN": true,
+    "SERVERS": true,
+    "LOGOUT": true,
+    "CHANNELS": true,
+    "USERS": true,
+    "API": true
+  },
+  "./InternalClient.js": {
+    "main_method*": true,
+    "prototype": true
+  },
+  "indexof": {
+    "main_method*": true
+  }
+}

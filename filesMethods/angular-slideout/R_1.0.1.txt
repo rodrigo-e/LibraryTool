@@ -1,0 +1,64 @@
+------------------------------------------
+demo/bundle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/demo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - start
+
+Library: gulp-webpack
+Methods Called:
+   - main_method*
+
+Library: webpack
+Methods Called:
+   - optimize
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+slideout.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/slideout.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "start": true
+  },
+  "gulp-webpack": {
+    "main_method*": true
+  },
+  "webpack": {
+    "optimize": true
+  }
+}

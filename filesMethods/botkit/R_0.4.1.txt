@@ -1,0 +1,419 @@
+------------------------------------------
+botframework_bot.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+Library: command-line-args
+Methods Called:
+   - main_method*
+
+Library: localtunnel
+Methods Called:
+   - main_method*
+
+------------------------------------------
+console_bot.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+------------------------------------------
+examples/convo_bot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/demo_bot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/incoming_webhooks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/middleware_example.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+------------------------------------------
+examples/sentiment_analysis.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - sample
+
+Library: botkit
+Methods Called:
+   - slackbot
+
+Library: mongodb
+Methods Called:
+   - MongoClient
+
+Library: sentiment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/slack_app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/slackbutton_bot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/slackbutton_bot_interactivemsg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/slackbutton_incomingwebhooks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/slackbutton_slashcommand.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/team_outgoingwebhook.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/team_slashcommand.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+facebook_bot.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+Library: command-line-args
+Methods Called:
+   - main_method*
+
+Library: localtunnel
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/BotFramework.js
+------------------------------------------
+Library: botbuilder
+Methods Called:
+   - ChatConnector
+
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+------------------------------------------
+lib/Botkit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/ConsoleBot.js
+------------------------------------------
+Library: readline
+Methods Called:
+   - createInterface
+
+------------------------------------------
+lib/CoreBot.js
+------------------------------------------
+Library: mustache
+Methods Called:
+   - render
+
+Library: ware
+Methods Called:
+   - main_method*
+
+Library: clone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/Facebook.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+   - post
+
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+------------------------------------------
+lib/SlackBot.js
+------------------------------------------
+Library: request
+Methods Called:
+   - post
+
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+Library: querystring
+Methods Called:
+   - stringify
+
+------------------------------------------
+lib/Slack_web_api.js
+------------------------------------------
+Library: request
+Methods Called:
+   - post
+
+------------------------------------------
+lib/Slackbot_worker.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+
+Library: request
+Methods Called:
+   - post
+   - main_method*
+
+Library: https-proxy-agent
+Methods Called:
+   - main_method*
+
+Library: back
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/Studio.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+Library: promise
+Methods Called:
+   - main_method*
+
+Library: md5
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/TwilioIPMBot.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+Library: twilio
+Methods Called:
+   - AccessToken
+   - IpMessagingClient
+
+Library: async
+Methods Called:
+   - each
+
+------------------------------------------
+lib/console_logger.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/middleware/slack_authentication.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/storage/simple_storage.js
+------------------------------------------
+Library: jfs
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/storage/storage_test.js
+------------------------------------------
+Library: unit.js
+Methods Called:
+   - assert
+
+------------------------------------------
+slack_bot.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+------------------------------------------
+tests/Slack_web_api.js
+------------------------------------------
+Library: os
+Methods Called:
+   - tmpdir
+
+Library: should
+Methods Called:
+   - exist
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: winston
+Methods Called:
+   - Logger
+   - transports
+
+------------------------------------------
+twilio_ipm_bot.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+
+All of the Methods:
+{
+  "os": {
+    "hostname": true,
+    "tmpdir": true
+  },
+  "command-line-args": {
+    "main_method*": true
+  },
+  "localtunnel": {
+    "main_method*": true
+  },
+  "lodash": {
+    "sample": true
+  },
+  "botkit": {
+    "slackbot": true
+  },
+  "mongodb": {
+    "MongoClient": true
+  },
+  "sentiment": {
+    "main_method*": true
+  },
+  "botbuilder": {
+    "ChatConnector": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true
+  },
+  "body-parser": {
+    "json": true,
+    "urlencoded": true
+  },
+  "readline": {
+    "createInterface": true
+  },
+  "mustache": {
+    "render": true
+  },
+  "ware": {
+    "main_method*": true
+  },
+  "clone": {
+    "main_method*": true
+  },
+  "request": {
+    "main_method*": true,
+    "post": true
+  },
+  "querystring": {
+    "stringify": true
+  },
+  "ws": {
+    "main_method*": true
+  },
+  "https-proxy-agent": {
+    "main_method*": true
+  },
+  "back": {
+    "main_method*": true
+  },
+  "promise": {
+    "main_method*": true
+  },
+  "md5": {
+    "main_method*": true
+  },
+  "twilio": {
+    "AccessToken": true,
+    "IpMessagingClient": true
+  },
+  "async": {
+    "each": true
+  },
+  "jfs": {
+    "main_method*": true
+  },
+  "unit.js": {
+    "assert": true
+  },
+  "should": {
+    "exist": true
+  },
+  "path": {
+    "join": true
+  },
+  "fs": {
+    "readFile": true
+  },
+  "winston": {
+    "Logger": true,
+    "transports": true
+  }
+}

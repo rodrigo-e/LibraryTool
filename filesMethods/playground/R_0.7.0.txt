@@ -1,0 +1,121 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - readFileSync
+   - copySync
+   - outputFile
+   - lstatSync
+   - readdirSync
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+   - extname
+   - relative
+   - resolve
+   - basename
+
+Library: async
+Methods Called:
+   - parallel
+
+Library: marked
+Methods Called:
+   - lexer
+   - parser
+
+Library: xml
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/common.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - assert
+
+------------------------------------------
+test/module.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: temp
+Methods Called:
+   - track
+   - mkdirSync
+
+Library: rimraf
+Methods Called:
+   - sync
+
+Library: walk-sync
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "fs-extra": {
+    "readFileSync": true,
+    "copySync": true,
+    "outputFile": true,
+    "lstatSync": true,
+    "readdirSync": true,
+    "readFile": true
+  },
+  "path": {
+    "join": true,
+    "extname": true,
+    "relative": true,
+    "resolve": true,
+    "basename": true
+  },
+  "async": {
+    "parallel": true
+  },
+  "marked": {
+    "lexer": true,
+    "parser": true
+  },
+  "xml": {
+    "main_method*": true
+  },
+  "chai": {
+    "use": true,
+    "assert": true
+  },
+  "fs": {
+    "readFileSync": true
+  },
+  "temp": {
+    "track": true,
+    "mkdirSync": true
+  },
+  "rimraf": {
+    "sync": true
+  },
+  "walk-sync": {
+    "main_method*": true
+  }
+}

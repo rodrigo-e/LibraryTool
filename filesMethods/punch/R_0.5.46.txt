@@ -1,0 +1,759 @@
+------------------------------------------
+example/templates/assets/js/jquery.1.8.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/templates/assets/js/site.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/asset_bundler.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - dirname
+   - extname
+
+Library: underscore
+Methods Called:
+   - each
+   - extend
+   - keys
+
+------------------------------------------
+lib/cache_store.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - dirname
+   - sep
+
+Library: fs
+Methods Called:
+   - stat
+   - readFile
+   - writeFile
+   - mkdir
+   - rmdir
+   - unlink
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: child_process
+Methods Called:
+   - exec
+
+Library: underscore
+Methods Called:
+   - any
+   - include
+   - keys
+
+------------------------------------------
+lib/compilers/coffee_script.js
+------------------------------------------
+Library: coffee-script
+Methods Called:
+   - compile
+
+------------------------------------------
+lib/compilers/less.js
+------------------------------------------
+Library: less
+Methods Called:
+   - render
+
+Library: path
+Methods Called:
+   - dirname
+
+------------------------------------------
+lib/config_handler.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - extend
+
+Library: fs
+Methods Called:
+   - stat
+   - readFile
+   - readdir
+
+Library: path
+Methods Called:
+   - extname
+   - join
+   - basename
+
+------------------------------------------
+lib/content_handler.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - each
+   - union
+   - any
+   - extend
+
+Library: path
+Methods Called:
+   - sep
+   - join
+   - basename
+
+Library: fs
+Methods Called:
+   - statSync
+   - stat
+   - readFile
+   - readdir
+
+------------------------------------------
+lib/default_config.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/generator_hooks/console_output.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/helpers/asset_bundle_helper.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+   - join
+
+Library: underscore
+Methods Called:
+   - keys
+   - filter
+   - each
+   - any
+
+Library: util
+Methods Called:
+   - format
+
+Library: fs
+Methods Called:
+   - readdirSync
+
+------------------------------------------
+lib/helpers/datetime_helper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/helpers/first_run/first_run.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/helpers/first_run_helper.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/helpers/list_helper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/helpers/text_helper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/minifiers/cssmin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/minifiers/uglify.js
+------------------------------------------
+Library: uglify-js
+Methods Called:
+   - minify
+
+------------------------------------------
+lib/page_renderer.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - each
+   - extend
+   - include
+   - has
+
+Library: path
+Methods Called:
+   - extname
+   - join
+
+------------------------------------------
+lib/page_server.js
+------------------------------------------
+Library: connect
+Methods Called:
+   - utils
+
+Library: url
+Methods Called:
+   - parse
+
+Library: mime
+Methods Called:
+   - lookup
+   - charsets
+
+Library: fresh
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/parsers/markdown.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - setOptions
+   - parse
+
+Library: underscore
+Methods Called:
+   - extend
+
+------------------------------------------
+lib/project_creator.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - mkdir
+
+Library: os
+Methods Called:
+   - platform
+
+Library: path
+Methods Called:
+   - join
+
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+lib/publisher.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - has
+   - isFunction
+   - isEmpty
+
+Library: fs
+Methods Called:
+   - writeFileSync
+   - readFileSync
+
+------------------------------------------
+lib/publishers/s3.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - has
+   - extend
+   - omit
+
+Library: knox
+Methods Called:
+   - createClient
+
+Library: mime
+Methods Called:
+   - lookup
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+   - relative
+
+------------------------------------------
+lib/server.js
+------------------------------------------
+Library: connect
+Methods Called:
+   - call
+   - logger
+   - cookieParser
+   - compress
+
+------------------------------------------
+lib/site_generator.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - each
+   - union
+   - find
+   - keys
+   - include
+   - difference
+
+Library: path
+Methods Called:
+   - extname
+
+------------------------------------------
+lib/template_engines/base_engine.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/template_engines/mustache_engine.js
+------------------------------------------
+Library: mustache
+Methods Called:
+   - render
+
+Library: underscore
+Methods Called:
+   - extend
+   - each
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/template_handler.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - any
+   - each
+
+Library: path
+Methods Called:
+   - sep
+   - join
+   - dirname
+   - basename
+
+Library: fs
+Methods Called:
+   - statSync
+   - stat
+   - readdir
+   - readFile
+
+------------------------------------------
+lib/utils/deep_extend.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - isArray
+   - isObject
+   - each
+   - has
+
+------------------------------------------
+lib/utils/deep_fstream.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: fstream
+Methods Called:
+   - Reader
+
+------------------------------------------
+lib/utils/helper_utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/utils/module_utils.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - has
+
+Library: path
+Methods Called:
+   - join
+   - sep
+
+------------------------------------------
+lib/utils/object_utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/utils/path_utils.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - any
+
+Library: path
+Methods Called:
+   - extname
+   - sep
+
+Library: mime
+Methods Called:
+   - extension
+
+Library: os
+Methods Called:
+   - platform
+
+------------------------------------------
+spec/asset_bundler.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+spec/cache_store.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - readFile
+   - mkdir
+   - writeFile
+   - unlink
+   - rmdir
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+spec/cli.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/compilers/coffee_script.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/compilers/less.spec.js
+------------------------------------------
+Library: less
+Methods Called:
+   - render
+
+------------------------------------------
+spec/config_handler.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - readFile
+   - readdir
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+spec/content_handler.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdir
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+spec/helpers/asset_bundle_helper.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/helpers/datetime_helper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/helpers/list_helper.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/helpers/text_helper.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/minifiers/cssmin.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/minifiers/uglify.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/page_renderer.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+spec/page_server.spec.js
+------------------------------------------
+Library: connect
+Methods Called:
+   - utils
+
+------------------------------------------
+spec/parsers/markdown.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/project_creator.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - mkdir
+
+Library: child_process
+Methods Called:
+   - exec
+
+Library: os
+Methods Called:
+   - platform
+
+------------------------------------------
+spec/publisher.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+spec/publishers/s3.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+
+Library: knox
+Methods Called:
+   - createClient
+
+------------------------------------------
+spec/server.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/site_generator.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/template_engines/base_engine.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/template_engines/mustache_engine.spec.js
+------------------------------------------
+Library: mustache
+Methods Called:
+   - render
+
+------------------------------------------
+spec/template_handler.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - readdir
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+   - sep
+
+------------------------------------------
+spec/utils/deep_extend.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/utils/deep_fstream.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+spec/utils/module_utils.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+spec/utils/path_utils.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - sep
+
+
+All of the Methods:
+{
+  "path": {
+    "join": true,
+    "dirname": true,
+    "extname": true,
+    "sep": true,
+    "basename": true,
+    "relative": true
+  },
+  "underscore": {
+    "each": true,
+    "extend": true,
+    "keys": true,
+    "any": true,
+    "include": true,
+    "union": true,
+    "filter": true,
+    "has": true,
+    "isFunction": true,
+    "isEmpty": true,
+    "omit": true,
+    "find": true,
+    "difference": true,
+    "isArray": true,
+    "isObject": true
+  },
+  "fs": {
+    "stat": true,
+    "readFile": true,
+    "writeFile": true,
+    "mkdir": true,
+    "rmdir": true,
+    "unlink": true,
+    "readdir": true,
+    "statSync": true,
+    "readdirSync": true,
+    "readFileSync": true,
+    "writeFileSync": true
+  },
+  "child_process": {
+    "exec": true
+  },
+  "coffee-script": {
+    "compile": true
+  },
+  "less": {
+    "render": true
+  },
+  "util": {
+    "format": true,
+    "inherits": true
+  },
+  "uglify-js": {
+    "minify": true
+  },
+  "connect": {
+    "utils": true,
+    "call": true,
+    "logger": true,
+    "cookieParser": true,
+    "compress": true
+  },
+  "url": {
+    "parse": true
+  },
+  "mime": {
+    "lookup": true,
+    "charsets": true,
+    "extension": true
+  },
+  "fresh": {
+    "main_method*": true
+  },
+  "marked": {
+    "setOptions": true,
+    "parse": true
+  },
+  "os": {
+    "platform": true
+  },
+  "knox": {
+    "createClient": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "mustache": {
+    "render": true
+  },
+  "fstream": {
+    "Reader": true
+  }
+}

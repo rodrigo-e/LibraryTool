@@ -1,0 +1,88 @@
+------------------------------------------
+angular-fullPage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+angular-fullPage.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-concat
+Methods Called:
+   - main_method*
+
+Library: gulp-plumber
+Methods Called:
+   - main_method*
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: gulp-webserver
+Methods Called:
+   - main_method*
+
+------------------------------------------
+sample/app/app.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sample/app/app.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sample/app/app.module.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sample/app/directives/angular-fullPage.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sample/app/views/dynamic/dynamic.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sample/app/views/main/main.controller.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-concat": {
+    "main_method*": true
+  },
+  "gulp-plumber": {
+    "main_method*": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "gulp-webserver": {
+    "main_method*": true
+  }
+}

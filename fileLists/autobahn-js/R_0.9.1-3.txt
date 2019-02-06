@@ -1,0 +1,13 @@
+6f1012a332ccb4a6b06403b0d69597154839babc
+package/index.js
+package/lib/autobahn.js
+package/lib/connection.js
+package/lib/longpoll.js
+package/lib/persona.js
+package/lib/session.js
+package/lib/websocket.js
+package/test/require.js
+package/test/test1.js
+package/test/test2.js
+package/test/test3.js
+package/test/test_require.js

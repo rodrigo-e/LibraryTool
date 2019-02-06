@@ -1,0 +1,12 @@
+36035b73d45e533ce6b1afc3c5a244b7dbfe8a89
+Gruntfile.js
+dist/angular-carousel.js
+dist/angular-carousel.min.js
+src/angular-carousel.js
+test/karma.conf.js
+test/lib/angular/angular-mocks.js
+test/lib/angular/angular-scenario.js
+test/lib/angular/angular.js
+test/lib/angular/angular.min.js
+test/lib/jquery.min.js
+test/unit/angular-carousel.js

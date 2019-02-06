@@ -1,0 +1,6 @@
+d88360cf933aa4d04b2d5f9aee160b605644ca40
+Gruntfile.js
+dist/angular-date-picker.min.js
+dist/angular-time-picker.min.js
+source/angular-date-picker.js
+source/angular-time-picker.js

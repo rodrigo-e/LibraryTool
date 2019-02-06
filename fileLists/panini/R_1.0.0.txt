@@ -1,0 +1,17 @@
+3218233c3ad974e06f7044c616c15d2bb99fc1a0
+helpers/code.js
+helpers/ifPage.js
+helpers/markdown.js
+helpers/repeat.js
+helpers/unlessPage.js
+index.js
+lib/loadBuiltinHelpers.js
+lib/loadData.js
+lib/loadHelpers.js
+lib/loadLayouts.js
+lib/loadPartials.js
+lib/processRoot.js
+lib/refresh.js
+lib/render.js
+test/fixtures/helpers/test.js
+test/test.js

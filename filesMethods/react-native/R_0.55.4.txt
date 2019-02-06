@@ -1,0 +1,6140 @@
+------------------------------------------
+ContainerShip/scripts/run-android-ci-instrumentation-tests.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 84: Illegal return statement
+------------------------------------------
+IntegrationTests/AccessibilityManagerTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token <
+------------------------------------------
+IntegrationTests/AppEventsTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 26: Unexpected identifier
+------------------------------------------
+IntegrationTests/AsyncStorageTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 36: Unexpected token :
+------------------------------------------
+IntegrationTests/ImageCachePolicyTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected identifier
+------------------------------------------
+IntegrationTests/ImageSnapshotTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+IntegrationTests/IntegrationTestHarnessTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+IntegrationTests/IntegrationTestsApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 50: Unexpected identifier
+------------------------------------------
+IntegrationTests/LayoutEventsTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token
+------------------------------------------
+IntegrationTests/LoggingTestModule.js
+------------------------------------------
+Library: BatchedBridge
+Methods Called:
+   - registerCallableModule
+
+Library: fbjs/lib/warning
+Methods Called:
+   - main_method*
+
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+IntegrationTests/PromiseTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token <
+------------------------------------------
+IntegrationTests/PropertiesUpdateTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token <
+------------------------------------------
+IntegrationTests/RCTRootViewIntegrationTestApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 37: Unexpected token =
+------------------------------------------
+IntegrationTests/ReactContentSizeUpdateTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 68: Unexpected token <
+------------------------------------------
+IntegrationTests/SimpleSnapshotTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+IntegrationTests/SizeFlexibilityUpdateTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 77: Unexpected token <
+------------------------------------------
+IntegrationTests/SyncMethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token <
+------------------------------------------
+IntegrationTests/TimersTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 134: Unexpected token <
+------------------------------------------
+IntegrationTests/WebSocketTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected identifier
+------------------------------------------
+IntegrationTests/WebViewTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 49: Unexpected token <
+------------------------------------------
+IntegrationTests/websocket_integration_test_server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+Libraries/ART/ARTSerializablePath.js
+------------------------------------------
+Library: art/core/class.js
+Methods Called:
+   - main_method*
+
+Library: art/core/path.js
+Methods Called:
+   - prototype
+
+------------------------------------------
+Libraries/ART/ReactNativeART.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 144: Unexpected token =
+------------------------------------------
+Libraries/ActionSheetIOS/ActionSheetIOS.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 41: Unexpected token :
+------------------------------------------
+Libraries/Alert/Alert.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token
+------------------------------------------
+Libraries/Alert/AlertIOS.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Alert/RCTAlertManager.android.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - DialogManagerAndroid
+
+------------------------------------------
+Libraries/Alert/RCTAlertManager.ios.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - AlertManager
+
+------------------------------------------
+Libraries/Animated/release/gulpfile.js
+------------------------------------------
+Library: gulp-babel
+Methods Called:
+   - main_method*
+
+Library: del
+Methods Called:
+   - main_method*
+
+Library: gulp-derequire
+Methods Called:
+   - main_method*
+
+Library: gulp-flatten
+Methods Called:
+   - main_method*
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-util
+Methods Called:
+   - PluginError
+
+Library: gulp-header
+Methods Called:
+   - main_method*
+
+Library: object-assign
+Methods Called:
+   - main_method*
+
+Library: run-sequence
+Methods Called:
+   - main_method*
+
+Library: webpack-stream
+Methods Called:
+   - webpack
+   - main_method*
+
+------------------------------------------
+Libraries/Animated/src/Animated.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/AnimatedEvent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token
+------------------------------------------
+Libraries/Animated/src/AnimatedImplementation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token
+------------------------------------------
+Libraries/Animated/src/AnimatedWeb.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token ...
+------------------------------------------
+Libraries/Animated/src/Easing.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 63: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/NativeAnimatedHelper.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Animated/src/SpringConfig.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected identifier
+------------------------------------------
+Libraries/Animated/src/__tests__/Animated-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 675: Unexpected token ...
+------------------------------------------
+Libraries/Animated/src/__tests__/AnimatedNative-test.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - NativeAnimatedModule
+
+Library: Animated
+Methods Called:
+   - Value
+   - timing
+   - View
+   - event
+   - add
+   - multiply
+   - divide
+   - modulo
+   - diffClamp
+   - spring
+   - decay
+   - loop
+
+Library: NativeAnimatedHelper
+Methods Called:
+   - nativeEventEmitter
+
+------------------------------------------
+Libraries/Animated/src/__tests__/Easing-test.js
+------------------------------------------
+Library: Easing
+Methods Called:
+   - linear
+   - in
+   - out
+   - quad
+   - inOut
+   - elastic
+   - easingName
+   - modeName
+
+------------------------------------------
+Libraries/Animated/src/__tests__/Interpolation-test.js
+------------------------------------------
+Library: Easing
+Methods Called:
+   - quad
+
+------------------------------------------
+Libraries/Animated/src/__tests__/bezier-test.js
+------------------------------------------
+Library: bezier
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Animated/src/animations/Animation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/Animated/src/animations/DecayAnimation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Animated/src/animations/SpringAnimation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token
+------------------------------------------
+Libraries/Animated/src/animations/TimingAnimation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Animated/src/bezier.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Animated/src/createAnimatedComponent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedAddition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedDiffClamp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedDivision.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedInterpolation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected identifier
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedModulo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedMultiplication.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedNode.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedProps.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedStyle.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedTracking.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedTransform.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedValue.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedValueXY.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected identifier
+------------------------------------------
+Libraries/Animated/src/nodes/AnimatedWithChildren.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Animated/src/polyfills/InteractionManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Animated/src/polyfills/Set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Animated/src/polyfills/flattenStyle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/AppState/AppState.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token :
+------------------------------------------
+Libraries/BatchedBridge/BatchedBridge.js
+------------------------------------------
+Library: MessageQueue
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/BatchedBridge/MessageQueue.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token
+------------------------------------------
+Libraries/BatchedBridge/NativeModules.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token
+------------------------------------------
+Libraries/BatchedBridge/__mocks__/MessageQueueTestConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/BatchedBridge/__mocks__/MessageQueueTestModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/BatchedBridge/__tests__/MessageQueue-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/BatchedBridge/__tests__/NativeModules-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Blob/Blob.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+Libraries/Blob/BlobManager.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Blob/BlobRegistry.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Missing initializer in const declaration
+------------------------------------------
+Libraries/Blob/BlobTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+Libraries/Blob/File.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Blob/FileReader.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected identifier
+------------------------------------------
+Libraries/Blob/URL.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 56: Unexpected token :
+------------------------------------------
+Libraries/Blob/__mocks__/BlobModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Blob/__mocks__/FileReaderModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Blob/__tests__/Blob-test.js
+------------------------------------------
+Library: Blob
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Blob/__tests__/BlobManager-test.js
+------------------------------------------
+Library: BlobManager
+Methods Called:
+   - createFromParts
+
+------------------------------------------
+Libraries/Blob/__tests__/File-test.js
+------------------------------------------
+Library: Blob
+Methods Called:
+   - main_method*
+
+Library: File
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Blob/__tests__/FileReader-test.js
+------------------------------------------
+Library: Blob
+Methods Called:
+   - main_method*
+
+Library: FileReader
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/BugReporting/BugReporting.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token
+------------------------------------------
+Libraries/BugReporting/dumpReactTree.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/BugReporting/getReactData.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token :
+------------------------------------------
+Libraries/CameraRoll/CameraRoll.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 36: Unexpected identifier
+------------------------------------------
+Libraries/CameraRoll/ImagePickerIOS.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token :
+------------------------------------------
+Libraries/Components/AccessibilityInfo/AccessibilityInfo.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected identifier
+------------------------------------------
+Libraries/Components/AccessibilityInfo/AccessibilityInfo.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected identifier
+------------------------------------------
+Libraries/Components/ActivityIndicator/ActivityIndicator.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected identifier
+------------------------------------------
+Libraries/Components/AppleTV/TVEventHandler.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/Components/AppleTV/TVViewPropTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 74: Unexpected token
+------------------------------------------
+Libraries/Components/Button.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 52: Unexpected token <
+------------------------------------------
+Libraries/Components/CheckBox/CheckBox.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected identifier
+------------------------------------------
+Libraries/Components/CheckBox/CheckBox.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Clipboard/Clipboard.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 26: Unexpected token :
+------------------------------------------
+Libraries/Components/DatePicker/DatePickerIOS.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+Libraries/Components/DatePicker/DatePickerIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected identifier
+------------------------------------------
+Libraries/Components/DatePickerAndroid/DatePickerAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Components/DatePickerAndroid/DatePickerAndroid.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token :
+------------------------------------------
+Libraries/Components/DrawerAndroid/DrawerLayoutAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 76: Unexpected token ...
+------------------------------------------
+Libraries/Components/DrawerAndroid/DrawerLayoutAndroid.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Keyboard/Keyboard.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected identifier
+------------------------------------------
+Libraries/Components/Keyboard/KeyboardAvoidingView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token
+------------------------------------------
+Libraries/Components/LazyRenderer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token :
+------------------------------------------
+Libraries/Components/MaskedView/MaskedViewIOS.android.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/MaskedView/MaskedViewIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Components/Navigation/NavigatorIOS.android.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Navigation/NavigatorIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 40: Unexpected token <
+------------------------------------------
+Libraries/Components/Picker/Picker.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token ...
+------------------------------------------
+Libraries/Components/Picker/PickerAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token ...
+------------------------------------------
+Libraries/Components/Picker/PickerAndroid.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Picker/PickerIOS.android.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Picker/PickerIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token ...
+------------------------------------------
+Libraries/Components/ProgressBarAndroid/ProgressBarAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 65: Unexpected token =
+------------------------------------------
+Libraries/Components/ProgressBarAndroid/ProgressBarAndroid.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/ProgressViewIOS/ProgressViewIOS.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token ...
+------------------------------------------
+Libraries/Components/RefreshControl/RefreshControl.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 86: Unexpected token ...
+------------------------------------------
+Libraries/Components/RefreshControl/__mocks__/RefreshControlMock.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token <
+------------------------------------------
+Libraries/Components/SafeAreaView/SafeAreaView.android.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/SafeAreaView/SafeAreaView.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token
+------------------------------------------
+Libraries/Components/ScrollResponder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 108: Unexpected identifier
+------------------------------------------
+Libraries/Components/ScrollView/ScrollView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 40: Unexpected token
+------------------------------------------
+Libraries/Components/ScrollView/ScrollViewStickyHeader.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Components/ScrollView/__mocks__/ScrollViewMock.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token var
+------------------------------------------
+Libraries/Components/ScrollView/processDecelerationRate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected identifier
+------------------------------------------
+Libraries/Components/Slider/Slider.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected identifier
+------------------------------------------
+Libraries/Components/StaticContainer.react.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token <
+------------------------------------------
+Libraries/Components/StaticRenderer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token <
+------------------------------------------
+Libraries/Components/StatusBar/StatusBar.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token
+------------------------------------------
+Libraries/Components/StatusBar/StatusBarIOS.android.js
+------------------------------------------
+Library: NativeEventEmitter
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Components/StatusBar/StatusBarIOS.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Subscribable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/Components/Switch/Switch.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected identifier
+------------------------------------------
+Libraries/Components/TabBarIOS/TabBarIOS.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token <
+------------------------------------------
+Libraries/Components/TabBarIOS/TabBarIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token
+------------------------------------------
+Libraries/Components/TabBarIOS/TabBarItemIOS.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token <
+------------------------------------------
+Libraries/Components/TabBarIOS/TabBarItemIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token =
+------------------------------------------
+Libraries/Components/TextInput/InputAccessoryView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 80: Unexpected identifier
+------------------------------------------
+Libraries/Components/TextInput/TextInput.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 51: Unexpected token
+------------------------------------------
+Libraries/Components/TextInput/TextInputState.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token :
+------------------------------------------
+Libraries/Components/TimePickerAndroid/TimePickerAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 55: Unexpected token :
+------------------------------------------
+Libraries/Components/TimePickerAndroid/TimePickerAndroid.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token :
+------------------------------------------
+Libraries/Components/ToastAndroid/ToastAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 48: Unexpected token :
+------------------------------------------
+Libraries/Components/ToastAndroid/ToastAndroid.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Components/ToolbarAndroid/ToolbarAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 72: Unexpected token ...
+------------------------------------------
+Libraries/Components/ToolbarAndroid/ToolbarAndroid.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Touchable/BoundingDimensions.js
+------------------------------------------
+Library: PooledClass
+Methods Called:
+   - twoArgumentPooler
+   - addPoolingTo
+
+------------------------------------------
+Libraries/Components/Touchable/PooledClass.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 81: Unexpected identifier
+------------------------------------------
+Libraries/Components/Touchable/Position.js
+------------------------------------------
+Library: PooledClass
+Methods Called:
+   - twoArgumentPooler
+   - addPoolingTo
+
+------------------------------------------
+Libraries/Components/Touchable/Touchable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 791: Unexpected token <
+------------------------------------------
+Libraries/Components/Touchable/TouchableBounce.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected identifier
+------------------------------------------
+Libraries/Components/Touchable/TouchableHighlight.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token
+------------------------------------------
+Libraries/Components/Touchable/TouchableNativeFeedback.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 39: Unexpected identifier
+------------------------------------------
+Libraries/Components/Touchable/TouchableNativeFeedback.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token =
+------------------------------------------
+Libraries/Components/Touchable/TouchableOpacity.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected identifier
+------------------------------------------
+Libraries/Components/Touchable/TouchableWithoutFeedback.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 33: Unexpected token
+------------------------------------------
+Libraries/Components/Touchable/__mocks__/ensureComponentIsNative.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/Touchable/__tests__/TouchableHighlight-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token <
+------------------------------------------
+Libraries/Components/Touchable/ensureComponentIsNative.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token :
+------------------------------------------
+Libraries/Components/Touchable/ensurePositiveDelayProps.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token :
+------------------------------------------
+Libraries/Components/UnimplementedViews/UnimplementedView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+Libraries/Components/View/FabricView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token
+------------------------------------------
+Libraries/Components/View/PlatformViewPropTypes.js
+------------------------------------------
+Library: Platform
+Methods Called:
+   - isTV
+   - OS
+
+------------------------------------------
+Libraries/Components/View/ReactNativeStyleAttributes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 26: Unexpected token ...
+------------------------------------------
+Libraries/Components/View/ReactNativeViewAttributes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 39: Unexpected token ...
+------------------------------------------
+Libraries/Components/View/ShadowPropTypesIOS.js
+------------------------------------------
+Library: prop-types
+Methods Called:
+   - shape
+   - number
+
+------------------------------------------
+Libraries/Components/View/View.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token
+------------------------------------------
+Libraries/Components/View/ViewAccessibility.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/Components/View/ViewContext.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/Components/View/ViewPropTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token
+------------------------------------------
+Libraries/Components/View/ViewStylePropTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token ...
+------------------------------------------
+Libraries/Components/ViewPager/ViewPagerAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected identifier
+------------------------------------------
+Libraries/Components/ViewPager/ViewPagerAndroid.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Components/WebView/WebView.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 35: Unexpected token <
+------------------------------------------
+Libraries/Components/WebView/WebView.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 53: Unexpected identifier
+------------------------------------------
+Libraries/Core/Devtools/__tests__/parseErrorStack-test.js
+------------------------------------------
+Library: parseErrorStack
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Core/Devtools/getDevServer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token :
+------------------------------------------
+Libraries/Core/Devtools/openFileInEditor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token :
+------------------------------------------
+Libraries/Core/Devtools/parseErrorStack.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/Core/Devtools/setupDevtools.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected identifier
+------------------------------------------
+Libraries/Core/Devtools/symbolicateStackTrace.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Core/ExceptionsManager.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/Core/InitializeCore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 165: Unexpected token :
+------------------------------------------
+Libraries/Core/ReactNativeVersion.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Core/ReactNativeVersionCheck.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token :
+------------------------------------------
+Libraries/Core/Timers/JSTimers.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Core/__mocks__/ErrorUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Core/__tests__/ReactNativeVersionCheck-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/EventEmitter/MissingNativeEventEmitterShim.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token :
+------------------------------------------
+Libraries/EventEmitter/NativeEventEmitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/EventEmitter/RCTDeviceEventEmitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/EventEmitter/RCTEventEmitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token :
+------------------------------------------
+Libraries/EventEmitter/RCTNativeAppEventEmitter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/EventEmitter/__mocks__/NativeEventEmitter.js
+------------------------------------------
+Library: RCTDeviceEventEmitter
+Methods Called:
+   - sharedSubscriber
+
+------------------------------------------
+Libraries/Experimental/Incremental.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 82: Unexpected token
+------------------------------------------
+Libraries/Experimental/IncrementalExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 39: Unexpected token <
+------------------------------------------
+Libraries/Experimental/IncrementalGroup.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token
+------------------------------------------
+Libraries/Experimental/IncrementalPresenter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Experimental/SwipeableRow/SwipeableFlatList.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+Libraries/Experimental/SwipeableRow/SwipeableListView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected identifier
+------------------------------------------
+Libraries/Experimental/SwipeableRow/SwipeableListViewDataSource.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token :
+------------------------------------------
+Libraries/Experimental/SwipeableRow/SwipeableQuickActionButton.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token
+------------------------------------------
+Libraries/Experimental/SwipeableRow/SwipeableQuickActions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token <
+------------------------------------------
+Libraries/Experimental/SwipeableRow/SwipeableRow.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 96: Unexpected token :
+------------------------------------------
+Libraries/Experimental/WindowedListView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token
+------------------------------------------
+Libraries/Geolocation/Geolocation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected identifier
+------------------------------------------
+Libraries/Image/AssetRegistry.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+Libraries/Image/AssetSourceResolver.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+Libraries/Image/Image.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 49: Unexpected token ...
+------------------------------------------
+Libraries/Image/Image.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 166: Unexpected token :
+------------------------------------------
+Libraries/Image/ImageBackground.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 44: Unexpected token <
+------------------------------------------
+Libraries/Image/ImageEditor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected identifier
+------------------------------------------
+Libraries/Image/ImageResizeMode.js
+------------------------------------------
+Library: fbjs/lib/keyMirror
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Image/ImageSource.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected identifier
+------------------------------------------
+Libraries/Image/ImageSourcePropType.js
+------------------------------------------
+Library: prop-types
+Methods Called:
+   - shape
+   - string
+   - objectOf
+   - oneOf
+   - number
+   - oneOfType
+   - arrayOf
+
+------------------------------------------
+Libraries/Image/ImageStore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token :
+------------------------------------------
+Libraries/Image/ImageStylePropTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token ...
+------------------------------------------
+Libraries/Image/RelativeImageStub.js
+------------------------------------------
+Library: AssetRegistry
+Methods Called:
+   - registerAsset
+
+------------------------------------------
+Libraries/Image/__tests__/assetRelativePathInSnapshot.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+Libraries/Image/__tests__/resolveAssetSource-test.js
+------------------------------------------
+Library: AssetRegistry
+Methods Called:
+   - registerAsset
+
+Library: Platform
+Methods Called:
+   - OS
+
+Library: NativeModules
+Methods Called:
+   - SourceCode
+
+------------------------------------------
+Libraries/Image/nativeImageSource.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Image/resolveAssetSource.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Inspector/BorderBox.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token <
+------------------------------------------
+Libraries/Inspector/BoxInspector.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+Libraries/Inspector/ElementBox.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+Libraries/Inspector/ElementProperties.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 26: Unexpected token
+------------------------------------------
+Libraries/Inspector/Inspector.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token
+------------------------------------------
+Libraries/Inspector/InspectorOverlay.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected identifier
+------------------------------------------
+Libraries/Inspector/InspectorPanel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+Libraries/Inspector/NetworkOverlay.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected identifier
+------------------------------------------
+Libraries/Inspector/PerformanceOverlay.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token <
+------------------------------------------
+Libraries/Inspector/StyleInspector.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token <
+------------------------------------------
+Libraries/Inspector/resolveBoxStyle.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/Interaction/Batchinator.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 37: Unexpected token :
+------------------------------------------
+Libraries/Interaction/BridgeSpyStallHandler.js
+------------------------------------------
+Library: JSEventLoopWatchdog
+Methods Called:
+   - addHandler
+
+Library: MessageQueue
+Methods Called:
+   - spy
+
+Library: infoLog
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Interaction/FrameRateLogger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 37: Unexpected token :
+------------------------------------------
+Libraries/Interaction/InteractionManager.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected identifier
+------------------------------------------
+Libraries/Interaction/InteractionMixin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token :
+------------------------------------------
+Libraries/Interaction/InteractionStallDebugger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Interaction/JSEventLoopWatchdog.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected identifier
+------------------------------------------
+Libraries/Interaction/PanResponder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 279: Unexpected token :
+------------------------------------------
+Libraries/Interaction/ReactPerfStallHandler.js
+------------------------------------------
+Library: JSEventLoopWatchdog
+Methods Called:
+   - addHandler
+
+Library: ReactPerf
+Methods Called:
+   - start
+   - stop
+   - printInclusive
+   - printWasted
+
+------------------------------------------
+Libraries/Interaction/TaskQueue.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected identifier
+------------------------------------------
+Libraries/Interaction/__tests__/Batchinator-test.js
+------------------------------------------
+Library: Batchinator
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Interaction/__tests__/InteractionManager-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Interaction/__tests__/InteractionMixin-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Interaction/__tests__/TaskQueue-test.js
+------------------------------------------
+Library: promise
+Methods Called:
+   - main_method*
+
+Library: TaskQueue
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/JSInspector/InspectorAgent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/JSInspector/JSInspector.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/JSInspector/NetworkAgent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/LayoutAnimation/LayoutAnimation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 51: Unexpected identifier
+------------------------------------------
+Libraries/Linking/Linking.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 39: Unexpected token :
+------------------------------------------
+Libraries/Lists/FillRateHelper.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token
+------------------------------------------
+Libraries/Lists/FlatList.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token
+------------------------------------------
+Libraries/Lists/ListView/ListView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 101: Unexpected token :
+------------------------------------------
+Libraries/Lists/ListView/ListViewDataSource.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/Lists/ListView/__mocks__/ListViewMock.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token <
+------------------------------------------
+Libraries/Lists/MetroListView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected identifier
+------------------------------------------
+Libraries/Lists/SectionList.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Lists/ViewabilityHelper.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/Lists/VirtualizeUtils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/Lists/VirtualizedList.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 35: Unexpected token
+------------------------------------------
+Libraries/Lists/VirtualizedSectionList.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Lists/__flowtests__/FlatList-flowtest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token :
+------------------------------------------
+Libraries/Lists/__flowtests__/SectionList-flowtest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token :
+------------------------------------------
+Libraries/Lists/__tests__/FillRateHelper-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token :
+------------------------------------------
+Libraries/Lists/__tests__/FlatList-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+Libraries/Lists/__tests__/SectionList-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+Libraries/Lists/__tests__/ViewabilityHelper-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Lists/__tests__/VirtualizeUtils-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 45: Unexpected token :
+------------------------------------------
+Libraries/Lists/__tests__/VirtualizedList-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+Libraries/Modal/Modal.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token
+------------------------------------------
+Libraries/Network/FormData.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected identifier
+------------------------------------------
+Libraries/Network/NetInfo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected identifier
+------------------------------------------
+Libraries/Network/RCTNetworking.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+Libraries/Network/RCTNetworking.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Network/XHRInterceptor.js
+------------------------------------------
+Library: XMLHttpRequest
+Methods Called:
+   - prototype
+
+------------------------------------------
+Libraries/Network/XMLHttpRequest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 26: Unexpected token
+------------------------------------------
+Libraries/Network/__tests__/FormData-test.js
+------------------------------------------
+Library: FormData
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Network/__tests__/XMLHttpRequest-test.js
+------------------------------------------
+Library: Platform
+Methods Called:
+   - OS
+
+Library: XMLHttpRequest
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Network/convertRequestBody.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Network/fetch.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/Performance/QuickPerformanceLogger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token :
+------------------------------------------
+Libraries/Performance/SamplingProfiler.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token :
+------------------------------------------
+Libraries/Performance/Systrace.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token :
+------------------------------------------
+Libraries/PermissionsAndroid/PermissionsAndroid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected identifier
+------------------------------------------
+Libraries/Promise.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token :
+------------------------------------------
+Libraries/PushNotificationIOS/PushNotificationIOS.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token
+------------------------------------------
+Libraries/RCTTest/SnapshotViewIOS.android.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/RCTTest/SnapshotViewIOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+Libraries/ReactNative/AppContainer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected identifier
+------------------------------------------
+Libraries/ReactNative/AppRegistry.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected identifier
+------------------------------------------
+Libraries/ReactNative/FabricUIManager.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected identifier
+------------------------------------------
+Libraries/ReactNative/I18nManager.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected identifier
+------------------------------------------
+Libraries/ReactNative/UIManager.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - undefined
+
+Library: Platform
+Methods Called:
+   - OS
+
+Library: defineLazyObjectProperty
+Methods Called:
+   - main_method*
+
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/ReactNative/UIManagerStatTracker.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token :
+------------------------------------------
+Libraries/ReactNative/YellowBox.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token
+------------------------------------------
+Libraries/ReactNative/queryLayoutByID.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected identifier
+------------------------------------------
+Libraries/ReactNative/renderApplication.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+Libraries/ReactNative/renderFabricSurface.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token <
+------------------------------------------
+Libraries/ReactNative/requireFabricComponent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 46: Unexpected token
+------------------------------------------
+Libraries/ReactNative/requireNativeComponent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 44: Unexpected token
+------------------------------------------
+Libraries/ReactNative/verifyPropTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/Renderer/ReactFabric-dev.js
+------------------------------------------
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Renderer/ReactFabric-prod.js
+------------------------------------------
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Renderer/ReactNativeRenderer-dev.js
+------------------------------------------
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Renderer/ReactNativeRenderer-prod.js
+------------------------------------------
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+Library: ReactFeatureFlags
+Methods Called:
+   - enableGetDerivedStateFromCatch
+   - debugRenderPhaseSideEffects
+   - debugRenderPhaseSideEffectsForStrictMode
+
+------------------------------------------
+Libraries/Renderer/shims/NativeMethodsMixin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+Libraries/Renderer/shims/ReactDebugTool.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/ReactFabric.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/Renderer/shims/ReactFabricInternals.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+Libraries/Renderer/shims/ReactFeatureFlags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/ReactNative.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/Renderer/shims/ReactNativeBridgeEventPlugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/ReactNativeComponentTree.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/ReactNativePropRegistry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/ReactNativeTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token
+------------------------------------------
+Libraries/Renderer/shims/ReactPerf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/ReactTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token
+------------------------------------------
+Libraries/Renderer/shims/TouchHistoryMath.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/createReactNativeComponentClass.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Renderer/shims/takeSnapshot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Sample/Sample.android.js
+------------------------------------------
+Library: fbjs/lib/warning
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Sample/Sample.ios.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - Sample
+
+------------------------------------------
+Libraries/Settings/Settings.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token :
+------------------------------------------
+Libraries/Settings/Settings.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Share/Share.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected identifier
+------------------------------------------
+Libraries/Storage/AsyncStorage.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token :
+------------------------------------------
+Libraries/StyleSheet/ColorPropType.js
+------------------------------------------
+Library: normalizeColor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/StyleSheet/EdgeInsetsPropType.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/StyleSheet/LayoutPropTypes.js
+------------------------------------------
+Library: prop-types
+Methods Called:
+   - oneOf
+   - oneOfType
+   - number
+   - string
+
+------------------------------------------
+Libraries/StyleSheet/PointPropType.js
+------------------------------------------
+Library: prop-types
+Methods Called:
+   - number
+
+Library: createStrictShapeTypeChecker
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/StyleSheet/StyleSheet.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token
+------------------------------------------
+Libraries/StyleSheet/StyleSheetPropType.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token :
+------------------------------------------
+Libraries/StyleSheet/StyleSheetTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+Libraries/StyleSheet/StyleSheetValidation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token :
+------------------------------------------
+Libraries/StyleSheet/TransformPropTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/StyleSheet/__tests__/flattenStyle-test.js
+------------------------------------------
+Library: StyleSheet
+Methods Called:
+   - create
+
+Library: StyleSheetValidation
+Methods Called:
+   - addValidStylePropTypes
+
+Library: flattenStyle
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/StyleSheet/__tests__/normalizeColor-test.js
+------------------------------------------
+Library: normalizeColor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/StyleSheet/__tests__/processColor-test.js
+------------------------------------------
+Library: processColor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/StyleSheet/__tests__/processTransform-test.js
+------------------------------------------
+Library: processTransform
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/StyleSheet/__tests__/setNormalizedColorAlpha-test.js
+------------------------------------------
+Library: setNormalizedColorAlpha
+Methods Called:
+   - main_method*
+
+Library: normalizeColor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/StyleSheet/flattenStyle.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+Libraries/StyleSheet/normalizeColor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token :
+------------------------------------------
+Libraries/StyleSheet/processColor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token ?
+------------------------------------------
+Libraries/StyleSheet/processTransform.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 26: Unexpected token :
+------------------------------------------
+Libraries/StyleSheet/setNormalizedColorAlpha.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Text/Text.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 42: Unexpected token
+------------------------------------------
+Libraries/Text/TextPropTypes.js
+------------------------------------------
+Library: prop-types
+Methods Called:
+   - oneOf
+   - number
+   - func
+   - bool
+   - string
+
+Library: StyleSheetPropType
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Text/TextProps.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+Libraries/Text/TextStylePropTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token ...
+------------------------------------------
+Libraries/Text/TextUpdateTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 42: Unexpected token <
+------------------------------------------
+Libraries/Types/CoreEventTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+Libraries/UTFSequence.js
+------------------------------------------
+Library: deepFreezeAndThrowOnMutationInDev
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/BackAndroid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token :
+------------------------------------------
+Libraries/Utilities/BackHandler.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected identifier
+------------------------------------------
+Libraries/Utilities/BackHandler.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected identifier
+------------------------------------------
+Libraries/Utilities/DeviceInfo.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - DeviceInfo
+
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/Dimensions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token :
+------------------------------------------
+Libraries/Utilities/HMRClient.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token :
+------------------------------------------
+Libraries/Utilities/HMRLoadingView.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token :
+------------------------------------------
+Libraries/Utilities/HMRLoadingView.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Utilities/HeapCapture.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token :
+------------------------------------------
+Libraries/Utilities/JSDevSupportModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token :
+------------------------------------------
+Libraries/Utilities/MatrixMath.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 209: Unexpected token :
+------------------------------------------
+Libraries/Utilities/PerformanceLogger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected identifier
+------------------------------------------
+Libraries/Utilities/PixelRatio.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 77: Unexpected token :
+------------------------------------------
+Libraries/Utilities/Platform.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/Utilities/Platform.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 35: Unexpected token :
+------------------------------------------
+Libraries/Utilities/PlatformOS.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+Libraries/Utilities/PlatformOS.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+Libraries/Utilities/PolyfillFunctions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token <
+------------------------------------------
+Libraries/Utilities/RCTLog.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token :
+------------------------------------------
+Libraries/Utilities/SceneTracker.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected identifier
+------------------------------------------
+Libraries/Utilities/__mocks__/BackHandler.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Utilities/__mocks__/PixelRatio.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Utilities/__tests__/MatrixMath-test.js
+------------------------------------------
+Library: MatrixMath
+Methods Called:
+   - decomposeMatrix
+   - createRotateZ
+   - createIdentityMatrix
+   - reuseRotateYCommand
+   - reuseRotateXCommand
+
+------------------------------------------
+Libraries/Utilities/__tests__/Platform-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Utilities/__tests__/SceneTracker-test.js
+------------------------------------------
+Library: SceneTracker
+Methods Called:
+   - addActiveSceneChangedListener
+   - setActiveScene
+
+------------------------------------------
+Libraries/Utilities/__tests__/buildStyleInterpolator-test.js
+------------------------------------------
+Library: buildStyleInterpolator
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/__tests__/deepFreezeAndThrowOnMutationInDev-test.js
+------------------------------------------
+Library: deepFreezeAndThrowOnMutationInDev
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/__tests__/groupByEveryN-test.js
+------------------------------------------
+Library: groupByEveryN
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/__tests__/mapWithSeparator-test.js
+------------------------------------------
+Library: mapWithSeparator
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/__tests__/truncate-test.js
+------------------------------------------
+Library: truncate
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/binaryToBase64.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/Utilities/buildStyleInterpolator.js
+------------------------------------------
+Library: fbjs/lib/keyOf
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/clamp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Utilities/createStrictShapeTypeChecker.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token :
+------------------------------------------
+Libraries/Utilities/deepFreezeAndThrowOnMutationInDev.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token <
+------------------------------------------
+Libraries/Utilities/defineLazyObjectProperty.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token <
+------------------------------------------
+Libraries/Utilities/deprecatedPropType.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token :
+------------------------------------------
+Libraries/Utilities/differ/__tests__/deepDiffer-test.js
+------------------------------------------
+Library: deepDiffer
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Utilities/differ/deepDiffer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token :
+------------------------------------------
+Libraries/Utilities/differ/insetsDiffer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected identifier
+------------------------------------------
+Libraries/Utilities/differ/matricesDiffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Utilities/differ/pointsDiffer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected identifier
+------------------------------------------
+Libraries/Utilities/differ/sizesDiffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Utilities/dismissKeyboard.js
+------------------------------------------
+Library: TextInputState
+Methods Called:
+   - blurTextInput
+   - currentlyFocusedField
+
+------------------------------------------
+Libraries/Utilities/groupByEveryN.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token <
+------------------------------------------
+Libraries/Utilities/infoLog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/Utilities/logError.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Rest parameter must be last formal parameter
+------------------------------------------
+Libraries/Utilities/mapWithSeparator.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token <
+------------------------------------------
+Libraries/Utilities/mergeFast.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/Utilities/mergeIntoFast.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token :
+------------------------------------------
+Libraries/Utilities/stringifySafe.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token :
+------------------------------------------
+Libraries/Utilities/truncate.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected identifier
+------------------------------------------
+Libraries/Vibration/Vibration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token :
+------------------------------------------
+Libraries/Vibration/VibrationIOS.android.js
+------------------------------------------
+Library: fbjs/lib/warning
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/Vibration/VibrationIOS.ios.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - Vibration
+
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/WebSocket/WebSocket.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token
+------------------------------------------
+Libraries/WebSocket/WebSocketEvent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/WebSocket/WebSocketInterceptor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+Libraries/WebSocket/__mocks__/event-target-shim.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/WebSocket/__tests__/WebSocket-test.js
+------------------------------------------
+Library: WebSocket
+Methods Called:
+   - CONNECTING
+   - main_method*
+
+------------------------------------------
+Libraries/polyfills/Array.es6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/Array.prototype.es6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/Number.es6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/Object.es6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/Object.es7.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/String.prototype.es6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/__tests__/Object.es7-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/babelHelpers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/console.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/polyfills/error-guard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/promiseRejectionIsError.js
+------------------------------------------
+Library: promise/setimmediate/rejection-tracking
+Methods Called:
+   - enable
+
+------------------------------------------
+Libraries/react-native/React.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/react-native/react-native-implementation.js
+------------------------------------------
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/react-native/react-native-interface.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token var
+------------------------------------------
+Libraries/vendor/core/ErrorUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/vendor/core/Map.js
+------------------------------------------
+Library: _shouldPolyfillES6Collection
+Methods Called:
+   - main_method*
+
+Library: guid
+Methods Called:
+   - main_method*
+
+Library: fbjs/lib/isNode
+Methods Called:
+   - main_method*
+
+Library: toIterator
+Methods Called:
+   - main_method*
+   - ITERATOR_SYMBOL
+
+------------------------------------------
+Libraries/vendor/core/Set.js
+------------------------------------------
+Library: Map
+Methods Called:
+   - main_method*
+
+Library: _shouldPolyfillES6Collection
+Methods Called:
+   - main_method*
+
+Library: toIterator
+Methods Called:
+   - main_method*
+   - ITERATOR_SYMBOL
+
+------------------------------------------
+Libraries/vendor/core/_shouldPolyfillES6Collection.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+Libraries/vendor/core/getObjectValues.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/vendor/core/guid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/vendor/core/isEmpty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/vendor/core/merge.js
+------------------------------------------
+Library: mergeInto
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/vendor/core/mergeHelpers.js
+------------------------------------------
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/vendor/core/mergeInto.js
+------------------------------------------
+Library: mergeHelpers
+Methods Called:
+   - checkMergeObjectArg
+   - checkMergeIntoObjectArg
+
+------------------------------------------
+Libraries/vendor/core/toIterator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Libraries/vendor/document/selection/DocumentSelectionState.js
+------------------------------------------
+Library: mixInEventEmitter
+Methods Called:
+   - main_method*
+
+------------------------------------------
+Libraries/vendor/emitter/EmitterSubscription.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+Libraries/vendor/emitter/EventEmitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected token :
+------------------------------------------
+Libraries/vendor/emitter/EventEmitterWithHolding.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/vendor/emitter/EventHolder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token :
+------------------------------------------
+Libraries/vendor/emitter/EventSubscription.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+Libraries/vendor/emitter/EventSubscriptionVendor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+Libraries/vendor/emitter/EventValidator.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token :
+------------------------------------------
+Libraries/vendor/emitter/mixInEventEmitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token
+------------------------------------------
+RNTester/RNTesterUnitTests/RNTesterUnitTestsBundle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+RNTester/js/ARTExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 31: Unexpected token <
+------------------------------------------
+RNTester/js/AccessibilityAndroidExample.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token =
+------------------------------------------
+RNTester/js/AccessibilityIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+RNTester/js/ActionSheetIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token <
+------------------------------------------
+RNTester/js/ActivityIndicatorExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+RNTester/js/AlertExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected token <
+------------------------------------------
+RNTester/js/AlertIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token <
+------------------------------------------
+RNTester/js/AnimatedExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 36: Unexpected token <
+------------------------------------------
+RNTester/js/AnimatedGratuitousApp/AnExApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token <
+------------------------------------------
+RNTester/js/AnimatedGratuitousApp/AnExBobble.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 31: Unexpected token <
+------------------------------------------
+RNTester/js/AnimatedGratuitousApp/AnExChained.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/AnimatedGratuitousApp/AnExScroll.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/AnimatedGratuitousApp/AnExSet.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token <
+------------------------------------------
+RNTester/js/AnimatedGratuitousApp/AnExTilt.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+RNTester/js/AppStateExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+RNTester/js/AssetScaledImageExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/AsyncStorageExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+RNTester/js/BorderExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 172: Unexpected token <
+------------------------------------------
+RNTester/js/BoxShadowExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 45: Unexpected token <
+------------------------------------------
+RNTester/js/ButtonExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 37: Unexpected token <
+------------------------------------------
+RNTester/js/CameraRollExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token <
+------------------------------------------
+RNTester/js/CameraRollView.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 77: Unexpected token :
+------------------------------------------
+RNTester/js/CheckBoxExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token <
+------------------------------------------
+RNTester/js/ClipboardExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+RNTester/js/DatePickerAndroidExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token =
+------------------------------------------
+RNTester/js/DatePickerIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token <
+------------------------------------------
+RNTester/js/DimensionsExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+RNTester/js/ExampleTypes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+RNTester/js/FlatListExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 48: Unexpected token <
+------------------------------------------
+RNTester/js/GeolocationExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token :
+------------------------------------------
+RNTester/js/ImageCapInsetsExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/ImageEditingExample.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+RNTester/js/ImageExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 52: Unexpected token <
+------------------------------------------
+RNTester/js/InputAccessoryViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+RNTester/js/KeyboardAvoidingViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token =
+------------------------------------------
+RNTester/js/LayoutAnimationExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token <
+------------------------------------------
+RNTester/js/LayoutEventsExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token
+------------------------------------------
+RNTester/js/LayoutExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/LinkingExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token =
+------------------------------------------
+RNTester/js/ListExampleShared.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 26: Unexpected identifier
+------------------------------------------
+RNTester/js/ListViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 40: Unexpected token :
+------------------------------------------
+RNTester/js/ListViewGridLayoutExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 54: Unexpected token :
+------------------------------------------
+RNTester/js/ListViewPagingExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 46: Unexpected token <
+------------------------------------------
+RNTester/js/MaskedViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token <
+------------------------------------------
+RNTester/js/ModalExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token :
+------------------------------------------
+RNTester/js/MultiColumnExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 37: Unexpected token <
+------------------------------------------
+RNTester/js/NativeAnimationsExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+RNTester/js/NavigatorIOSBarStyleExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected token <
+------------------------------------------
+RNTester/js/NavigatorIOSColorsExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token <
+------------------------------------------
+RNTester/js/NavigatorIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token <
+------------------------------------------
+RNTester/js/NetInfoExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/OrientationChangeExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token
+------------------------------------------
+RNTester/js/PanResponderExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 35: Unexpected token :
+------------------------------------------
+RNTester/js/PermissionsExampleAndroid.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token :
+------------------------------------------
+RNTester/js/PickerExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+RNTester/js/PickerIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 63: Unexpected token <
+------------------------------------------
+RNTester/js/PointerEventsExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+RNTester/js/ProgressBarAndroidExample.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 40: Unexpected token <
+------------------------------------------
+RNTester/js/ProgressViewIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 52: Unexpected token <
+------------------------------------------
+RNTester/js/PushNotificationIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/RCTRootViewIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/RNTesterActions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterApp.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 33: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterApp.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterBlock.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/RNTesterButton.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/RNTesterExampleContainer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token <
+------------------------------------------
+RNTester/js/RNTesterExampleList.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterList.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterList.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterNavigationReducer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterPage.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/RNTesterSettingSwitchRow.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token <
+------------------------------------------
+RNTester/js/RNTesterStatePersister.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+RNTester/js/RNTesterTitle.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+RNTester/js/RTLExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 35: Unexpected identifier
+------------------------------------------
+RNTester/js/RefreshControlExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 40: Unexpected token =
+------------------------------------------
+RNTester/js/RootViewSizeFlexibilityExampleApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/SafeAreaViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token :
+------------------------------------------
+RNTester/js/ScrollViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+RNTester/js/ScrollViewSimpleExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/SectionListExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 50: Unexpected token <
+------------------------------------------
+RNTester/js/SegmentedControlIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/SetPropertiesExampleApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token <
+------------------------------------------
+RNTester/js/ShareExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token <
+------------------------------------------
+RNTester/js/SliderExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/SnapshotExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token <
+------------------------------------------
+RNTester/js/StatusBarExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 43: Unexpected token <
+------------------------------------------
+RNTester/js/SwipeableFlatListExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 55: Unexpected token <
+------------------------------------------
+RNTester/js/SwipeableListViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 41: Unexpected token :
+------------------------------------------
+RNTester/js/SwitchExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/TVEventHandlerExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token <
+------------------------------------------
+RNTester/js/TabBarIOSBarStyleExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 36: Unexpected token <
+------------------------------------------
+RNTester/js/TabBarIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/TextExample.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/TextExample.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected identifier
+------------------------------------------
+RNTester/js/TextInputExample.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/TextInputExample.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+RNTester/js/TimePickerAndroidExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token =
+------------------------------------------
+RNTester/js/TimerExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 37: Unexpected token <
+------------------------------------------
+RNTester/js/ToastAndroidExample.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token <
+------------------------------------------
+RNTester/js/ToolbarAndroidExample.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token <
+------------------------------------------
+RNTester/js/ToolbarAndroidExample.ios.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+RNTester/js/TouchableExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 31: Unexpected token :
+------------------------------------------
+RNTester/js/TransformExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/TransparentHitTestExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/URIActionMap.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token
+------------------------------------------
+RNTester/js/VibrationExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 53: Unexpected token <
+------------------------------------------
+RNTester/js/VibrationIOSExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token <
+------------------------------------------
+RNTester/js/ViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 35: Unexpected token <
+------------------------------------------
+RNTester/js/ViewPagerAndroidExample.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token
+------------------------------------------
+RNTester/js/WebSocketExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 38: Unexpected token :
+------------------------------------------
+RNTester/js/WebViewExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token <
+------------------------------------------
+RNTester/js/XHRExample.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token <
+------------------------------------------
+RNTester/js/XHRExampleBinaryUpload.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 52: Unexpected token <
+------------------------------------------
+RNTester/js/XHRExampleCookies.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 24: Unexpected token <
+------------------------------------------
+RNTester/js/XHRExampleDownload.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token :
+------------------------------------------
+RNTester/js/XHRExampleFetch.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token <
+------------------------------------------
+RNTester/js/XHRExampleFormData.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token <
+------------------------------------------
+RNTester/js/XHRExampleHeaders.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token :
+------------------------------------------
+RNTester/js/XHRExampleOnTimeOut.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token <
+------------------------------------------
+RNTester/js/createExamplePage.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token
+------------------------------------------
+RNTester/js/http_test_server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+RNTester/js/websocket_test_server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+ReactAndroid/src/androidTest/js/Asserts.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - Assert
+
+------------------------------------------
+ReactAndroid/src/androidTest/js/CatalystRootViewTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/DatePickerDialogTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/InitialPropsTestApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/JSResponderTestApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token =
+------------------------------------------
+ReactAndroid/src/androidTest/js/LayoutEventsTestApp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected token =
+------------------------------------------
+ReactAndroid/src/androidTest/js/MeasureLayoutTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 61: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/MultitouchHandlingTestAppModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token =
+------------------------------------------
+ReactAndroid/src/androidTest/js/NativeIdTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 30: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/PickerAndroidTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 23: Unexpected token =
+------------------------------------------
+ReactAndroid/src/androidTest/js/ProgressBarTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token =
+------------------------------------------
+ReactAndroid/src/androidTest/js/ScrollViewTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 31: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/ShareTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/SubviewsClippingTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/SwipeRefreshLayoutTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token =
+------------------------------------------
+ReactAndroid/src/androidTest/js/TestBundle.js
+------------------------------------------
+Library: CatalystRootViewTestModule
+Methods Called:
+   - CatalystRootViewTestApp
+
+Library: AppRegistry
+Methods Called:
+   - registerConfig
+
+------------------------------------------
+ReactAndroid/src/androidTest/js/TestIdTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 33: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/TestJSLocaleModule.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - Recording
+
+Library: BatchedBridge
+Methods Called:
+   - registerCallableModule
+
+------------------------------------------
+ReactAndroid/src/androidTest/js/TestJSToJavaParametersModule.js
+------------------------------------------
+Library: NativeModules
+Methods Called:
+   - Recording
+
+Library: BatchedBridge
+Methods Called:
+   - registerCallableModule
+
+------------------------------------------
+ReactAndroid/src/androidTest/js/TestJavaToJSArgumentsModule.js
+------------------------------------------
+Library: BatchedBridge
+Methods Called:
+   - registerCallableModule
+
+------------------------------------------
+ReactAndroid/src/androidTest/js/TestJavaToJSReturnValuesModule.js
+------------------------------------------
+Library: BatchedBridge
+Methods Called:
+   - registerCallableModule
+
+------------------------------------------
+ReactAndroid/src/androidTest/js/TextInputTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 56: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/TimePickerDialogTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/TouchBubblingTestAppModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token =
+------------------------------------------
+ReactAndroid/src/androidTest/js/UIManagerTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 42: Unexpected token <
+------------------------------------------
+ReactAndroid/src/androidTest/js/ViewRenderingTestModule.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token =
+------------------------------------------
+babel-preset/configs/hmr.js
+------------------------------------------
+Library: path
+Methods Called:
+   - relative
+   - dirname
+   - sep
+
+------------------------------------------
+babel-preset/configs/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+babel-preset/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+babel-preset/lib/resolvePlugins.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+babel-preset/plugins.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+babel-preset/transforms/transform-symbol-member.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bots/code-analysis-bot.js
+------------------------------------------
+Library: github
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+   - relative
+
+------------------------------------------
+bots/dangerfile.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+bots/pr-inactivity-bookmarklet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bots/question-bookmarklet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+cli.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+flow-github/metro.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected identifier
+------------------------------------------
+flow/Map.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected identifier
+------------------------------------------
+flow/Position.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token class
+------------------------------------------
+flow/Promise.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token class
+------------------------------------------
+flow/Set.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected identifier
+------------------------------------------
+flow/console.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected identifier
+------------------------------------------
+flow/create-react-class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected identifier
+------------------------------------------
+flow/fbjs.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected identifier
+------------------------------------------
+flow/prop-types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected identifier
+------------------------------------------
+jest/assetFileTransformer.js
+------------------------------------------
+Library: path
+Methods Called:
+   - relative
+
+Library: fbjs-scripts/jest/createCacheKeyFunction
+Methods Called:
+   - main_method*
+
+------------------------------------------
+jest/mockComponent.js
+------------------------------------------
+Library: react
+Methods Called:
+   - createElement
+
+------------------------------------------
+jest/preprocessor.js
+------------------------------------------
+Library: babel-generator
+Methods Called:
+   - default
+
+Library: babel-core
+Methods Called:
+   - transform
+
+Library: metro/src/babelRegisterOnly
+Methods Called:
+   - config
+   - main_method*
+
+Library: fbjs-scripts/jest/createCacheKeyFunction
+Methods Called:
+   - main_method*
+
+Library: metro/src/transformer.js
+Methods Called:
+   - transform
+
+------------------------------------------
+jest/setup.js
+------------------------------------------
+Library: react
+Methods Called:
+   - Component
+   - createElement
+
+------------------------------------------
+lib/InitializeJavaScriptAppEngine.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RCTEventEmitter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/TextInputState.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/UIManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/UIManagerStatTracker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/View.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/deepDiffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/deepFreezeAndThrowOnMutationInDev.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/flattenStyle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/__mocks__/beeper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/__mocks__/fs.js
+------------------------------------------
+Library: async/asyncify
+Methods Called:
+   - main_method*
+
+Library: fbjs/lib/invariant
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - normalize
+   - dirname
+   - basename
+   - relative
+   - sep
+
+------------------------------------------
+local-cli/__tests__/fs-mock-test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token var
+------------------------------------------
+local-cli/bundle/__mocks__/sign.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/bundle/__tests__/filterPlatformAssetScales-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/bundle/__tests__/getAssetDestPathAndroid-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/bundle/__tests__/getAssetDestPathIOS-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/bundle/assetPathUtils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+local-cli/bundle/buildBundle.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token
+------------------------------------------
+local-cli/bundle/bundle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/bundle/bundleCommandLineArgs.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 43: Unexpected token :
+------------------------------------------
+local-cli/bundle/filterPlatformAssetScales.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token :
+------------------------------------------
+local-cli/bundle/getAssetDestPathAndroid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+local-cli/bundle/getAssetDestPathIOS.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+local-cli/bundle/saveAssets.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - createReadStream
+   - createWriteStream
+
+Library: mkdirp
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+   - dirname
+
+------------------------------------------
+local-cli/bundle/types.flow.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+local-cli/bundle/unbundle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/cli.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/cliEntry.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token
+------------------------------------------
+local-cli/commands.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+local-cli/core/Constants.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/core/__fixtures__/android.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/__fixtures__/commands.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/core/__fixtures__/dependencies.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/__fixtures__/ios.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/__fixtures__/projects.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/core/__tests__/android/findAndroidAppFolder.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/android/findManifest.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/android/findPackageClassName.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/android/getDependencyConfig.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/android/getProjectConfig.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/android/readManifest.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/findAssets.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/findPlugins.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/__tests__/ios/findPodfilePath.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/ios/findPodspecName.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/ios/findProject.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/ios/getProjectConfig.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/core/__tests__/makeCommand.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/core/android/findAndroidAppFolder.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/android/findManifest.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/android/findPackageClassName.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/android/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - sep
+
+------------------------------------------
+local-cli/core/android/readManifest.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: xmldoc
+Methods Called:
+   - XmlDocument
+
+------------------------------------------
+local-cli/core/findAssets.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/findPlugins.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - union
+   - uniq
+   - flatten
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token
+------------------------------------------
+local-cli/core/ios/findPodfilePath.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/core/ios/findPodspecName.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - sep
+
+------------------------------------------
+local-cli/core/ios/findProject.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - dirname
+
+------------------------------------------
+local-cli/core/ios/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - extname
+   - join
+   - dirname
+   - basename
+
+------------------------------------------
+local-cli/core/makeCommand.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+local-cli/core/wrapCommands.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/dependencies/dependencies.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 111: Unexpected token :
+------------------------------------------
+local-cli/eject/eject.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: fs
+Methods Called:
+   - existsSync
+
+------------------------------------------
+local-cli/generator/copyProjectTemplateAndReplace.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - bold
+
+Library: path
+Methods Called:
+   - basename
+   - relative
+   - resolve
+   - replace
+
+------------------------------------------
+local-cli/generator/printRunInstructions.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - white
+
+Library: path
+Methods Called:
+   - resolve
+   - relative
+
+------------------------------------------
+local-cli/generator/promptSync.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - openSync
+   - readSync
+   - closeSync
+
+------------------------------------------
+local-cli/generator/templates.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - execSync
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+local-cli/info/info.js
+------------------------------------------
+Library: envinfo
+Methods Called:
+   - print
+
+------------------------------------------
+local-cli/init/init.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - execSync
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: minimist
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: process
+Methods Called:
+   - argv
+
+------------------------------------------
+local-cli/install/install.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawnSync
+
+Library: npmlog
+Methods Called:
+   - heading
+   - info
+
+------------------------------------------
+local-cli/install/uninstall.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawnSync
+
+Library: npmlog
+Methods Called:
+   - heading
+   - info
+
+------------------------------------------
+local-cli/library/library.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+
+Library: path
+Methods Called:
+   - resolve
+   - relative
+
+------------------------------------------
+local-cli/link/__tests__/android/applyPatch.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/__tests__/android/isInstalled.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/android/makeBuildPatch.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/__tests__/android/makeImportPatch.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/__tests__/android/makePackagePatch.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/__tests__/android/makeSettingsPatch.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - relative
+   - dirname
+
+------------------------------------------
+local-cli/link/__tests__/android/makeStringsPatch.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/__tests__/getDependencyConfig.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+local-cli/link/__tests__/getProjectDependencies.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/groupFilesByType.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/__tests__/ios/addFileToProject.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+Library: lodash
+Methods Called:
+   - includes
+
+------------------------------------------
+local-cli/link/__tests__/ios/addProjectToLibraries.spec.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - last
+
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+Library: xcode/lib/pbxFile
+Methods Called:
+   - main_method*
+
+------------------------------------------
+local-cli/link/__tests__/ios/addSharedLibraries.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/createGroup.spec.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - last
+
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/getBuildProperty.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/getGroup.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/getHeaderSearchPath.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - sep
+
+------------------------------------------
+local-cli/link/__tests__/ios/getHeadersInFolder.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/__tests__/ios/getPlist.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/getPlistPath.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/getProducts.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/getTargets.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/hasLibraryImported.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/isInstalled.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/mapHeaderSearchPaths.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/removeProjectFromLibraries.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - last
+
+Library: xcode
+Methods Called:
+   - project
+
+Library: xcode/lib/pbxFile
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/removeProjectFromProject.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/removeSharedLibrary.spec.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/ios/writePlist.spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/link.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: npmlog
+Methods Called:
+   - level
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/pods/findLineToAddPod.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/pods/findMarkedLinesInPodfile.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/pods/findPodTargetLine.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/pods/isInstalled.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/pods/removePodEntry.spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/__tests__/promiseWaterfall.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+local-cli/link/android/copyAssets.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - copySync
+
+Library: path
+Methods Called:
+   - join
+   - basename
+
+------------------------------------------
+local-cli/link/android/fs.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+local-cli/link/android/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/android/isInstalled.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+local-cli/link/android/patches/applyParams.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - camelCase
+
+------------------------------------------
+local-cli/link/android/patches/applyPatch.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+   - readFileSync
+
+------------------------------------------
+local-cli/link/android/patches/makeBuildPatch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/android/patches/makeImportPatch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/android/patches/makePackagePatch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/android/patches/makeSettingsPatch.js
+------------------------------------------
+Library: path
+Methods Called:
+   - relative
+   - dirname
+
+------------------------------------------
+local-cli/link/android/patches/makeStringsPatch.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - camelCase
+
+------------------------------------------
+local-cli/link/android/patches/revokePatch.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+   - readFileSync
+
+------------------------------------------
+local-cli/link/android/registerNativeModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/android/unlinkAssets.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - existsSync
+   - unlinkSync
+
+Library: path
+Methods Called:
+   - join
+   - basename
+
+------------------------------------------
+local-cli/link/android/unregisterNativeModule.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - camelCase
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+local-cli/link/commandStub.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/getDependencyConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/getProjectDependencies.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/groupFilesByType.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - groupBy
+
+Library: mime
+Methods Called:
+   - define
+   - lookup
+
+------------------------------------------
+local-cli/link/ios/addFileToProject.js
+------------------------------------------
+Library: xcode/lib/pbxFile
+Methods Called:
+   - main_method*
+
+------------------------------------------
+local-cli/link/ios/addProjectToLibraries.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/addSharedLibraries.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/addToHeaderSearchPaths.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/common/isInstalled.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/common/registerNativeModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/common/unregisterNativeModule.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - compact
+
+------------------------------------------
+local-cli/link/ios/copyAssets.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - relative
+
+Library: xcode
+Methods Called:
+   - project
+
+------------------------------------------
+local-cli/link/ios/createGroup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/createGroupWithMessage.js
+------------------------------------------
+Library: npmlog
+Methods Called:
+   - warn
+
+------------------------------------------
+local-cli/link/ios/getBuildProperty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/getGroup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/getHeaderSearchPath.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - union
+   - last
+
+Library: path
+Methods Called:
+   - sep
+   - dirname
+   - relative
+
+------------------------------------------
+local-cli/link/ios/getHeadersInFolder.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/ios/getPlist.js
+------------------------------------------
+Library: plist
+Methods Called:
+   - parse
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+
+------------------------------------------
+local-cli/link/ios/getPlistPath.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/link/ios/getProducts.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/getTargets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/hasLibraryImported.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/isInstalled.js
+------------------------------------------
+Library: xcode
+Methods Called:
+   - project
+
+------------------------------------------
+local-cli/link/ios/mapHeaderSearchPaths.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/registerNativeModule.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isEmpty
+
+Library: xcode
+Methods Called:
+   - project
+
+Library: fs
+Methods Called:
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - relative
+
+------------------------------------------
+local-cli/link/ios/removeFromHeaderSearchPaths.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/removeFromPbxItemContainerProxySection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/removeFromPbxReferenceProxySection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/removeFromProjectReferences.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/removeFromStaticLibraries.js
+------------------------------------------
+Library: xcode/lib/pbxFile
+Methods Called:
+   - main_method*
+
+------------------------------------------
+local-cli/link/ios/removeProductGroup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/removeProjectFromLibraries.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/removeProjectFromProject.js
+------------------------------------------
+Library: xcode/lib/pbxFile
+Methods Called:
+   - main_method*
+
+------------------------------------------
+local-cli/link/ios/removeSharedLibraries.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/ios/unlinkAssets.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - difference
+
+Library: fs-extra
+Methods Called:
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - relative
+
+Library: xcode
+Methods Called:
+   - project
+
+Library: npmlog
+Methods Called:
+   - error
+
+------------------------------------------
+local-cli/link/ios/unregisterNativeModule.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - difference
+   - isEmpty
+
+Library: xcode
+Methods Called:
+   - project
+
+Library: path
+Methods Called:
+   - relative
+
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+local-cli/link/ios/writePlist.js
+------------------------------------------
+Library: plist
+Methods Called:
+   - build
+
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+local-cli/link/link.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected token
+------------------------------------------
+local-cli/link/pods/addPodEntry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/pods/findLineToAddPod.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/pods/findMarkedLinesInPodfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/pods/findPodTargetLine.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/pods/isInstalled.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/pods/readPodfile.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+local-cli/link/pods/registerNativeModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/pods/removePodEntry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/pods/savePodFile.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+local-cli/link/pods/unregisterNativeModule.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+local-cli/link/pollParams.js
+------------------------------------------
+Library: inquirer
+Methods Called:
+   - prompt
+
+------------------------------------------
+local-cli/link/promiseWaterfall.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/promisify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/link/unlink.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - difference
+   - filter
+   - flatten
+   - isEmpty
+
+Library: npmlog
+Methods Called:
+   - heading
+   - info
+   - error
+   - warn
+
+------------------------------------------
+local-cli/logAndroid/logAndroid.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - bold
+   - red
+
+Library: child_process
+Methods Called:
+   - spawnSync
+
+------------------------------------------
+local-cli/logIOS/logIOS.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - red
+
+Library: child_process
+Methods Called:
+   - execFileSync
+   - spawnSync
+
+Library: os
+Methods Called:
+   - homedir
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/runAndroid/adb.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token :
+------------------------------------------
+local-cli/runAndroid/runAndroid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 341: Unexpected token :
+------------------------------------------
+local-cli/runIOS/__tests__/findMatchingSimulator-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/runIOS/__tests__/findXcodeProject-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/runIOS/__tests__/parseIOSDevicesList-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/runIOS/findMatchingSimulator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/runIOS/findXcodeProject.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected identifier
+------------------------------------------
+local-cli/runIOS/parseIOSDevicesList.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected identifier
+------------------------------------------
+local-cli/runIOS/runIOS.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 249: Unexpected token ...
+------------------------------------------
+local-cli/server/checkNodeVersion.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - green
+
+Library: metro-core/src/formatBanner
+Methods Called:
+   - main_method*
+
+Library: semver
+Methods Called:
+   - satisfies
+
+------------------------------------------
+local-cli/server/middleware/copyToClipBoardMiddleware.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - red
+
+------------------------------------------
+local-cli/server/middleware/getDevToolsMiddleware.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 64: Unexpected token ...
+------------------------------------------
+local-cli/server/middleware/indexPage.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/server/middleware/loadRawBodyMiddleware.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/server/middleware/openStackFrameInEditorMiddleware.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/server/middleware/statusPageMiddleware.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/server/middleware/systraceProfileMiddleware.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+local-cli/server/middleware/unless.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/server/runServer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 52: Unexpected token
+------------------------------------------
+local-cli/server/server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+local-cli/server/util/attachWebsocketServer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+local-cli/server/util/copyToClipBoard.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - chmodSync
+
+------------------------------------------
+local-cli/server/util/debugger-ui/DeltaPatcher.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/server/util/debugger-ui/debuggerWorker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/server/util/debugger-ui/deltaUrlToBlobUrl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/server/util/jsPackagerClient.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+local-cli/server/util/launchChrome.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 28: Unexpected token :
+------------------------------------------
+local-cli/server/util/launchEditor.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - bgBlue
+   - underline
+   - bold
+   - red
+
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - basename
+   - resolve
+   - sep
+
+Library: child_process
+Methods Called:
+   - execSync
+   - spawn
+
+Library: absolute-path
+Methods Called:
+   - main_method*
+
+Library: shell-quote
+Methods Called:
+   - parse
+
+------------------------------------------
+local-cli/server/util/messageSocket.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - Server
+
+Library: url
+Methods Called:
+   - parse
+
+Library: node-notifier
+Methods Called:
+   - notify
+
+------------------------------------------
+local-cli/server/util/webSocketProxy.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - Server
+
+------------------------------------------
+local-cli/templates/HelloNavigation/App.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/components/KeyboardSpacer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/components/ListItem.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/lib/Backend.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 107: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/views/HomeScreenTabNavigator.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/views/chat/ChatListScreen.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/views/chat/ChatScreen.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/views/welcome/WelcomeScreen.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/views/welcome/WelcomeText.android.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/templates/HelloNavigation/views/welcome/WelcomeText.ios.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/templates/HelloWorld/App.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+local-cli/templates/HelloWorld/__tests__/App.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/templates/HelloWorld/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+local-cli/upgrade/upgrade.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - yellow
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: semver
+Methods Called:
+   - satisfies
+   - valid
+   - major
+   - minor
+   - gte
+
+------------------------------------------
+local-cli/util/Config.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token
+------------------------------------------
+local-cli/util/PackageManager.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawnSync
+
+------------------------------------------
+local-cli/util/__mocks__/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/util/__tests__/findSymlinkedModules-test.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - __setMockFilesystem
+
+------------------------------------------
+local-cli/util/assertRequiredOptions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/util/copyAndReplace.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - lstatSync
+   - existsSync
+   - mkdirSync
+   - readFileSync
+   - statSync
+   - writeFileSync
+   - createReadStream
+   - createWriteStream
+
+Library: path
+Methods Called:
+   - extname
+
+------------------------------------------
+local-cli/util/findReactNativeScripts.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token :
+------------------------------------------
+local-cli/util/findSymlinkedModules.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 34: Unexpected token :
+------------------------------------------
+local-cli/util/findSymlinksPaths.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+   - dirname
+   - sep
+
+Library: fs
+Methods Called:
+   - readdirSync
+   - lstatSync
+   - readlinkSync
+
+------------------------------------------
+local-cli/util/isPackagerRunning.js
+------------------------------------------
+Library: node-fetch
+Methods Called:
+   - main_method*
+
+------------------------------------------
+local-cli/util/isValidPackageName.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/util/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+local-cli/util/parseCommandLine.js
+------------------------------------------
+Library: optimist
+Methods Called:
+   - main_method*
+
+------------------------------------------
+local-cli/util/walk.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - lstatSync
+   - readdirSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+local-cli/util/yarn.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - execSync
+
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: semver
+Methods Called:
+   - gte
+
+------------------------------------------
+local-cli/wrong-react-native.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+react-native-cli/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+react-native-git-upgrade/checks.js
+------------------------------------------
+Library: semver
+Methods Called:
+   - satisfies
+   - lt
+
+------------------------------------------
+react-native-git-upgrade/cli.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+react-native-git-upgrade/cliEntry.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - mkdirSync
+   - appendFileSync
+   - accessSync
+   - writeFileSync
+
+Library: os
+Methods Called:
+   - tmpdir
+
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: shelljs
+Methods Called:
+   - exec
+
+Library: promise
+Methods Called:
+   - main_method*
+
+Library: yeoman-environment
+Methods Called:
+   - createEnv
+
+Library: yeoman-environment/lib/adapter
+Methods Called:
+   - prototype
+
+Library: npmlog
+Methods Called:
+   - heading
+   - info
+   - warn
+   - error
+
+Library: rimraf
+Methods Called:
+   - main_method*
+
+Library: semver
+Methods Called:
+   - valid
+   - clean
+   - gt
+   - satisfies
+
+------------------------------------------
+react-native-git-upgrade/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+react-native-git-upgrade/yarn.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - execSync
+
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: semver
+Methods Called:
+   - gte
+
+------------------------------------------
+rn-cli.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rn-get-polyfills.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+scripts/android-e2e-test.js
+------------------------------------------
+Library: pretty-data2
+Methods Called:
+   - pd
+
+Library: wd
+Methods Called:
+   - promiseChainRemote
+
+Library: path
+Methods Called:
+   - grey
+   - resolve
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+scripts/bump-oss-version.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+scripts/publish-npm.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+scripts/run-android-ci-instrumentation-tests.js
+------------------------------------------
+Library: yargs
+Methods Called:
+   - argv
+
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+scripts/run-ci-e2e-tests.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: yargs
+Methods Called:
+   - argv
+
+Library: path
+Methods Called:
+   - normalize
+   - join
+   - basename
+
+------------------------------------------
+scripts/try-n-times.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+setupBabel.js
+------------------------------------------
+Library: metro/src/babelRegisterOnly
+Methods Called:
+   - main_method*
+
+Library: lodash/escapeRegExp
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+
+All of the Methods:
+{
+  "BatchedBridge": {
+    "registerCallableModule": true
+  },
+  "fbjs/lib/warning": {
+    "main_method*": true
+  },
+  "fbjs/lib/invariant": {
+    "main_method*": true
+  },
+  "art/core/class.js": {
+    "main_method*": true
+  },
+  "art/core/path.js": {
+    "prototype": true
+  },
+  "NativeModules": {
+    "DialogManagerAndroid": true,
+    "AlertManager": true,
+    "NativeAnimatedModule": true,
+    "SourceCode": true,
+    "undefined": true,
+    "Sample": true,
+    "DeviceInfo": true,
+    "Vibration": true,
+    "Assert": true,
+    "Recording": true
+  },
+  "gulp-babel": {
+    "main_method*": true
+  },
+  "del": {
+    "main_method*": true
+  },
+  "gulp-derequire": {
+    "main_method*": true
+  },
+  "gulp-flatten": {
+    "main_method*": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-util": {
+    "PluginError": true
+  },
+  "gulp-header": {
+    "main_method*": true
+  },
+  "object-assign": {
+    "main_method*": true
+  },
+  "run-sequence": {
+    "main_method*": true
+  },
+  "webpack-stream": {
+    "webpack": true,
+    "main_method*": true
+  },
+  "Animated": {
+    "Value": true,
+    "timing": true,
+    "View": true,
+    "event": true,
+    "add": true,
+    "multiply": true,
+    "divide": true,
+    "modulo": true,
+    "diffClamp": true,
+    "spring": true,
+    "decay": true,
+    "loop": true
+  },
+  "NativeAnimatedHelper": {
+    "nativeEventEmitter": true
+  },
+  "Easing": {
+    "linear": true,
+    "in": true,
+    "out": true,
+    "quad": true,
+    "inOut": true,
+    "elastic": true,
+    "easingName": true,
+    "modeName": true
+  },
+  "bezier": {
+    "main_method*": true
+  },
+  "MessageQueue": {
+    "main_method*": true,
+    "spy": true
+  },
+  "Blob": {
+    "main_method*": true
+  },
+  "BlobManager": {
+    "createFromParts": true
+  },
+  "File": {
+    "main_method*": true
+  },
+  "FileReader": {
+    "main_method*": true
+  },
+  "NativeEventEmitter": {
+    "main_method*": true
+  },
+  "PooledClass": {
+    "twoArgumentPooler": true,
+    "addPoolingTo": true
+  },
+  "Platform": {
+    "isTV": true,
+    "OS": true
+  },
+  "prop-types": {
+    "shape": true,
+    "number": true,
+    "string": true,
+    "objectOf": true,
+    "oneOf": true,
+    "oneOfType": true,
+    "arrayOf": true,
+    "func": true,
+    "bool": true
+  },
+  "parseErrorStack": {
+    "main_method*": true
+  },
+  "RCTDeviceEventEmitter": {
+    "sharedSubscriber": true
+  },
+  "fbjs/lib/keyMirror": {
+    "main_method*": true
+  },
+  "AssetRegistry": {
+    "registerAsset": true
+  },
+  "JSEventLoopWatchdog": {
+    "addHandler": true
+  },
+  "infoLog": {
+    "main_method*": true
+  },
+  "ReactPerf": {
+    "start": true,
+    "stop": true,
+    "printInclusive": true,
+    "printWasted": true
+  },
+  "Batchinator": {
+    "main_method*": true
+  },
+  "promise": {
+    "main_method*": true
+  },
+  "TaskQueue": {
+    "main_method*": true
+  },
+  "XMLHttpRequest": {
+    "prototype": true,
+    "main_method*": true
+  },
+  "FormData": {
+    "main_method*": true
+  },
+  "defineLazyObjectProperty": {
+    "main_method*": true
+  },
+  "ReactFeatureFlags": {
+    "enableGetDerivedStateFromCatch": true,
+    "debugRenderPhaseSideEffects": true,
+    "debugRenderPhaseSideEffectsForStrictMode": true
+  },
+  "normalizeColor": {
+    "main_method*": true
+  },
+  "createStrictShapeTypeChecker": {
+    "main_method*": true
+  },
+  "StyleSheet": {
+    "create": true
+  },
+  "StyleSheetValidation": {
+    "addValidStylePropTypes": true
+  },
+  "flattenStyle": {
+    "main_method*": true
+  },
+  "processColor": {
+    "main_method*": true
+  },
+  "processTransform": {
+    "main_method*": true
+  },
+  "setNormalizedColorAlpha": {
+    "main_method*": true
+  },
+  "StyleSheetPropType": {
+    "main_method*": true
+  },
+  "deepFreezeAndThrowOnMutationInDev": {
+    "main_method*": true
+  },
+  "MatrixMath": {
+    "decomposeMatrix": true,
+    "createRotateZ": true,
+    "createIdentityMatrix": true,
+    "reuseRotateYCommand": true,
+    "reuseRotateXCommand": true
+  },
+  "SceneTracker": {
+    "addActiveSceneChangedListener": true,
+    "setActiveScene": true
+  },
+  "buildStyleInterpolator": {
+    "main_method*": true
+  },
+  "groupByEveryN": {
+    "main_method*": true
+  },
+  "mapWithSeparator": {
+    "main_method*": true
+  },
+  "truncate": {
+    "main_method*": true
+  },
+  "fbjs/lib/keyOf": {
+    "main_method*": true
+  },
+  "deepDiffer": {
+    "main_method*": true
+  },
+  "TextInputState": {
+    "blurTextInput": true,
+    "currentlyFocusedField": true
+  },
+  "WebSocket": {
+    "CONNECTING": true,
+    "main_method*": true
+  },
+  "promise/setimmediate/rejection-tracking": {
+    "enable": true
+  },
+  "_shouldPolyfillES6Collection": {
+    "main_method*": true
+  },
+  "guid": {
+    "main_method*": true
+  },
+  "fbjs/lib/isNode": {
+    "main_method*": true
+  },
+  "toIterator": {
+    "main_method*": true,
+    "ITERATOR_SYMBOL": true
+  },
+  "Map": {
+    "main_method*": true
+  },
+  "mergeInto": {
+    "main_method*": true
+  },
+  "mergeHelpers": {
+    "checkMergeObjectArg": true,
+    "checkMergeIntoObjectArg": true
+  },
+  "mixInEventEmitter": {
+    "main_method*": true
+  },
+  "CatalystRootViewTestModule": {
+    "CatalystRootViewTestApp": true
+  },
+  "AppRegistry": {
+    "registerConfig": true
+  },
+  "path": {
+    "relative": true,
+    "dirname": true,
+    "sep": true,
+    "resolve": true,
+    "normalize": true,
+    "basename": true,
+    "join": true,
+    "extname": true,
+    "replace": true,
+    "grey": true
+  },
+  "github": {
+    "main_method*": true
+  },
+  "fbjs-scripts/jest/createCacheKeyFunction": {
+    "main_method*": true
+  },
+  "react": {
+    "createElement": true,
+    "Component": true
+  },
+  "babel-generator": {
+    "default": true
+  },
+  "babel-core": {
+    "transform": true
+  },
+  "metro/src/babelRegisterOnly": {
+    "config": true,
+    "main_method*": true
+  },
+  "metro/src/transformer.js": {
+    "transform": true
+  },
+  "async/asyncify": {
+    "main_method*": true
+  },
+  "fs": {
+    "createReadStream": true,
+    "createWriteStream": true,
+    "__setMockFilesystem": true,
+    "existsSync": true,
+    "readFileSync": true,
+    "openSync": true,
+    "readSync": true,
+    "closeSync": true,
+    "writeFileSync": true,
+    "mkdirSync": true,
+    "chmodSync": true,
+    "lstatSync": true,
+    "statSync": true,
+    "readdirSync": true,
+    "readlinkSync": true,
+    "appendFileSync": true,
+    "accessSync": true
+  },
+  "mkdirp": {
+    "main_method*": true
+  },
+  "glob": {
+    "sync": true
+  },
+  "xmldoc": {
+    "XmlDocument": true
+  },
+  "lodash": {
+    "union": true,
+    "uniq": true,
+    "flatten": true,
+    "includes": true,
+    "last": true,
+    "camelCase": true,
+    "groupBy": true,
+    "compact": true,
+    "isEmpty": true,
+    "difference": true,
+    "filter": true
+  },
+  "child_process": {
+    "spawn": true,
+    "execSync": true,
+    "spawnSync": true,
+    "execFileSync": true
+  },
+  "chalk": {
+    "bold": true,
+    "white": true,
+    "red": true,
+    "green": true,
+    "bgBlue": true,
+    "underline": true,
+    "yellow": true
+  },
+  "envinfo": {
+    "print": true
+  },
+  "minimist": {
+    "main_method*": true
+  },
+  "process": {
+    "argv": true
+  },
+  "npmlog": {
+    "heading": true,
+    "info": true,
+    "level": true,
+    "warn": true,
+    "error": true
+  },
+  "sinon": {
+    "stub": true
+  },
+  "xcode": {
+    "project": true
+  },
+  "xcode/lib/pbxFile": {
+    "main_method*": true
+  },
+  "fs-extra": {
+    "copySync": true,
+    "readFileSync": true,
+    "writeFileSync": true,
+    "existsSync": true,
+    "unlinkSync": true
+  },
+  "mime": {
+    "define": true,
+    "lookup": true
+  },
+  "plist": {
+    "parse": true,
+    "build": true
+  },
+  "inquirer": {
+    "prompt": true
+  },
+  "os": {
+    "homedir": true,
+    "tmpdir": true
+  },
+  "metro-core/src/formatBanner": {
+    "main_method*": true
+  },
+  "semver": {
+    "satisfies": true,
+    "valid": true,
+    "major": true,
+    "minor": true,
+    "gte": true,
+    "lt": true,
+    "clean": true,
+    "gt": true
+  },
+  "ws": {
+    "main_method*": true,
+    "Server": true
+  },
+  "absolute-path": {
+    "main_method*": true
+  },
+  "shell-quote": {
+    "parse": true
+  },
+  "url": {
+    "parse": true
+  },
+  "node-notifier": {
+    "notify": true
+  },
+  "node-fetch": {
+    "main_method*": true
+  },
+  "optimist": {
+    "main_method*": true
+  },
+  "assert": {
+    "main_method*": true
+  },
+  "shelljs": {
+    "exec": true
+  },
+  "yeoman-environment": {
+    "createEnv": true
+  },
+  "yeoman-environment/lib/adapter": {
+    "prototype": true
+  },
+  "rimraf": {
+    "main_method*": true
+  },
+  "pretty-data2": {
+    "pd": true
+  },
+  "wd": {
+    "promiseChainRemote": true
+  },
+  "yargs": {
+    "argv": true
+  },
+  "lodash/escapeRegExp": {
+    "main_method*": true
+  }
+}

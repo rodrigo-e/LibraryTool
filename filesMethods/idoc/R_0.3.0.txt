@@ -1,0 +1,303 @@
+------------------------------------------
+.bin/idoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+Library: colors-cli
+Methods Called:
+   - red
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: ssr
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/build.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - renameSync
+
+Library: path
+Methods Called:
+   - resolve
+   - dirname
+   - basename
+   - normalize
+
+Library: marked
+Methods Called:
+   - main_method*
+
+Library: colors-cli
+Methods Called:
+   - red
+   - blue
+   - green
+
+------------------------------------------
+lib/clean.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+   - unlinkSync
+   - existsSync
+   - statSync
+   - rmdirSync
+
+Library: colors-cli
+Methods Called:
+   - green
+
+------------------------------------------
+lib/copy.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - existsSync
+   - statSync
+   - mkdir
+   - mkdirSync
+   - readdirSync
+   - createReadStream
+   - createWriteStream
+
+------------------------------------------
+lib/deploy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/file.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - mkdir
+   - readFileSync
+   - readdirSync
+   - writeFileSync
+   - statSync
+
+Library: path
+Methods Called:
+   - relative
+   - resolve
+   - dirname
+
+Library: ejs
+Methods Called:
+   - compile
+   - render
+
+Library: underscore
+Methods Called:
+   - extend
+   - filter
+
+------------------------------------------
+lib/imgPath.js
+------------------------------------------
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+lib/init.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+lib/menu_json.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - compact
+   - without
+
+------------------------------------------
+lib/menu_update.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+lib/nav.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/pdf.js
+------------------------------------------
+Library: wkhtmltopdf
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/stylus.js
+------------------------------------------
+Library: stylus
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - extname
+   - basename
+
+Library: autoprefixer-stylus
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/theme.js
+------------------------------------------
+Library: inquirer
+Methods Called:
+   - prompt
+
+Library: path
+Methods Called:
+   - dirname
+   - resolve
+
+Library: ssr
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/toc.js
+------------------------------------------
+Library: cheerio
+Methods Called:
+   - load
+
+Library: highlight.js
+Methods Called:
+   - highlight
+
+------------------------------------------
+lib/watch.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+
+Library: chokidar
+Methods Called:
+   - watch
+
+Library: colors-cli
+Methods Called:
+   - green
+   - blue
+
+Library: path
+Methods Called:
+   - normalize
+
+------------------------------------------
+lib/whoami.js
+------------------------------------------
+Library: shelljs
+Methods Called:
+   - exec
+
+------------------------------------------
+theme/resume/source/js/jquery.2.1.4.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+theme/resume/source/js/pdfmake.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+theme/resume/source/js/vfs_fonts.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "colors-cli": {
+    "red": true,
+    "blue": true,
+    "green": true
+  },
+  "path": {
+    "resolve": true,
+    "dirname": true,
+    "basename": true,
+    "normalize": true,
+    "relative": true,
+    "extname": true
+  },
+  "ssr": {
+    "main_method*": true
+  },
+  "fs": {
+    "renameSync": true,
+    "readdirSync": true,
+    "unlinkSync": true,
+    "existsSync": true,
+    "statSync": true,
+    "rmdirSync": true,
+    "stat": true,
+    "mkdir": true,
+    "mkdirSync": true,
+    "createReadStream": true,
+    "createWriteStream": true,
+    "readFileSync": true,
+    "writeFileSync": true
+  },
+  "marked": {
+    "main_method*": true
+  },
+  "ejs": {
+    "compile": true,
+    "render": true
+  },
+  "underscore": {
+    "extend": true,
+    "filter": true,
+    "compact": true,
+    "without": true
+  },
+  "cheerio": {
+    "load": true
+  },
+  "wkhtmltopdf": {
+    "main_method*": true
+  },
+  "stylus": {
+    "main_method*": true
+  },
+  "autoprefixer-stylus": {
+    "main_method*": true
+  },
+  "inquirer": {
+    "prompt": true
+  },
+  "highlight.js": {
+    "highlight": true
+  },
+  "chokidar": {
+    "watch": true
+  },
+  "shelljs": {
+    "exec": true
+  }
+}

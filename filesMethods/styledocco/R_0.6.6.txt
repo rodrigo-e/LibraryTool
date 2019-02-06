@@ -1,0 +1,186 @@
+------------------------------------------
+cli.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: async
+Methods Called:
+   - parallel
+   - apply
+   - filter
+   - reduce
+   - map
+
+Library: clean-css
+Methods Called:
+   - process
+
+Library: findit
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - stat
+   - readdir
+   - readFile
+   - exists
+   - writeFileSync
+
+Library: jade
+Methods Called:
+   - compile
+
+Library: marked
+Methods Called:
+   - setOptions
+
+Library: mkdirp
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - indexOf
+   - length
+   - basename
+   - extname
+   - join
+   - dirname
+   - relative
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+share/docs.previews.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+share/docs.ui.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+share/previews.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+styledocco.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - setOptions
+   - lexer
+   - parser
+
+------------------------------------------
+test-browser/browserify-entry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test-browser/nodeunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/cli.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/getFiles.js
+------------------------------------------
+Library: ../cli
+Methods Called:
+   - getFiles
+
+------------------------------------------
+test/parser.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/preprocessor.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/urlRelative.js
+------------------------------------------
+Library: ../cli
+Methods Called:
+   - urlsRelative
+
+
+All of the Methods:
+{
+  "child_process": {
+    "spawn": true
+  },
+  "async": {
+    "parallel": true,
+    "apply": true,
+    "filter": true,
+    "reduce": true,
+    "map": true
+  },
+  "clean-css": {
+    "process": true
+  },
+  "findit": {
+    "main_method*": true
+  },
+  "fs": {
+    "stat": true,
+    "readdir": true,
+    "readFile": true,
+    "exists": true,
+    "writeFileSync": true,
+    "readFileSync": true
+  },
+  "jade": {
+    "compile": true
+  },
+  "marked": {
+    "setOptions": true,
+    "lexer": true,
+    "parser": true
+  },
+  "mkdirp": {
+    "main_method*": true
+  },
+  "path": {
+    "indexOf": true,
+    "length": true,
+    "basename": true,
+    "extname": true,
+    "join": true,
+    "dirname": true,
+    "relative": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "../cli": {
+    "getFiles": true,
+    "urlsRelative": true
+  },
+  "chai": {
+    "expect": true
+  }
+}

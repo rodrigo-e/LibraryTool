@@ -1,0 +1,2471 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: process
+Methods Called:
+   - env
+
+------------------------------------------
+docs/assets/js/ui.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/UA.js
+------------------------------------------
+Library: useragent
+Methods Called:
+   - Agent
+   - parse
+
+Library: lru-cache
+Methods Called:
+   - get
+   - set
+
+------------------------------------------
+lib/aliases.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - uniq
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: tsort
+Methods Called:
+   - main_method*
+
+Library: handlebars
+Methods Called:
+   - compile
+
+------------------------------------------
+lib/sources.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - memoize
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - readFile
+   - readdirSync
+
+Library: denodeify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+polyfills/Array/from/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/from/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/from/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/isArray/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/isArray/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/isArray/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/of/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/of/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/@@iterator/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/@@iterator/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/@@iterator/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/contains/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/contains/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/contains/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/entries/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/entries/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/entries/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/every/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/every/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/every/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/fill/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/fill/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/fill/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/filter/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/filter/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/filter/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/find/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/find/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/find/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/findIndex/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/findIndex/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/findIndex/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/forEach/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/forEach/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/forEach/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/includes/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/includes/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/includes/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/indexOf/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/indexOf/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/indexOf/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/keys/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/keys/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/keys/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/lastIndexOf/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/lastIndexOf/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/lastIndexOf/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/map/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/map/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/map/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/reduce/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/reduce/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/reduce/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/reduceRight/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/reduceRight/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/reduceRight/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/some/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/some/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/some/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/values/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/values/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Array/prototype/values/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/AudioContext/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/CustomEvent/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/CustomEvent/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/CustomEvent/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/DOMTokenList/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/DOMTokenList/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/DOMTokenList/prototype/@@iterator/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/DOMTokenList/prototype/@@iterator/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/DOMTokenList/prototype/@@iterator/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Date/now/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Date/now/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Date/prototype/toISOString/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Date/prototype/toISOString/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Date/prototype/toISOString/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Document/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Document/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/after/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/after/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/after/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/append/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/append/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/append/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/before/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/before/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/before/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/classList/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/classList/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/classList/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/cloneNode/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/cloneNode/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/cloneNode/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/closest/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/closest/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/closest/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/matches/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/matches/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/matches/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/placeholder/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/placeholder/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/prepend/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/prepend/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/prepend/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/remove/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/remove/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/remove/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/replaceWith/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/replaceWith/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Element/prototype/replaceWith/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/DOMContentLoaded/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/DOMContentLoaded/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/focusin/detect-disabled.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/focusin/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/focusin/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/hashchange/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/hashchange/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/hashchange/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Event/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Function/prototype/bind/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Function/prototype/bind/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Function/prototype/bind/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/HTMLDocument/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/HTMLDocument/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/HTMLPictureElement/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/IntersectionObserver/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/IntersectionObserver/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Intl/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Intl/update.task.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+   - readdirSync
+
+Library: path
+Methods Called:
+   - dirname
+   - resolve
+   - join
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: exists-sync
+Methods Called:
+   - main_method*
+
+Library: mkdirp
+Methods Called:
+   - sync
+
+------------------------------------------
+polyfills/JSON/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/JSON/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Map/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Map/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Map/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/acosh/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/acosh/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/acosh/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/asinh/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/asinh/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/asinh/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/atanh/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/atanh/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/cbrt/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/cbrt/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/clz32/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/clz32/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/clz32/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/cosh/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/cosh/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/expm1/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/expm1/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/hypot/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/hypot/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/imul/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/imul/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/log10/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/log10/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/log1p/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/log1p/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/log2/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/log2/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/sign/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/sign/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/sinh/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/sinh/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/tanh/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/tanh/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/trunc/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Math/trunc/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Node/prototype/contains/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Node/prototype/contains/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Node/prototype/contains/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/NodeList/prototype/@@iterator/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/NodeList/prototype/@@iterator/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/NodeList/prototype/@@iterator/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Number/isNaN/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Number/isNaN/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Number/isNaN/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/assign/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/assign/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/create/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/create/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/create/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/defineProperties/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/defineProperties/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/defineProperty/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/defineProperty/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/defineProperty/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getOwnPropertyDescriptor/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getOwnPropertyDescriptor/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getOwnPropertyDescriptor/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getOwnPropertyNames/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getOwnPropertyNames/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getOwnPropertyNames/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getPrototypeOf/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/getPrototypeOf/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/is/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/is/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/keys/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/keys/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/keys/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/setPrototypeOf/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Object/setPrototypeOf/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Promise/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Promise/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Set/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Set/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Set/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/contains/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/contains/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/endsWith/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/endsWith/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/endsWith/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/includes/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/includes/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/repeat/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/repeat/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/repeat/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/startsWith/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/startsWith/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/trim/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/trim/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/String/prototype/trim/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/hasInstance/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/hasInstance/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/hasInstance/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/isConcatSpreadable/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/isConcatSpreadable/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/isConcatSpreadable/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/iterator/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/iterator/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/iterator/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/match/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/match/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/match/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/replace/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/replace/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/replace/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/search/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/search/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/search/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/species/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/species/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/species/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/split/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/split/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/split/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/toPrimitive/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/toPrimitive/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/toPrimitive/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/toStringTag/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/toStringTag/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/toStringTag/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/unscopables/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/unscopables/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Symbol/unscopables/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/URL/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/URL/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/URL/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/UserTiming/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/UserTiming/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/WeakMap/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/WeakMap/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/WeakMap/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/WeakSet/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/WeakSet/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/WeakSet/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Window/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/Window/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/XMLHttpRequest/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/XMLHttpRequest/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/XMLHttpRequest/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/_ArrayIterator/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/_DOMTokenList/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/_mutation/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/atob/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/atob/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/assert/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/assert/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/assert/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/clear/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/clear/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/clear/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/count/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/count/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/count/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/debug/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/debug/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/debug/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/dir/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/dir/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/dir/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/dirxml/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/dirxml/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/dirxml/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/error/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/error/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/error/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/exception/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/exception/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/exception/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/group/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/group/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/group/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/groupCollapsed/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/groupCollapsed/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/groupCollapsed/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/groupEnd/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/groupEnd/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/groupEnd/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/info/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/info/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/info/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/log/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/log/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/log/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/markTimeline/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/markTimeline/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/markTimeline/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profile/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profile/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profile/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profileEnd/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profileEnd/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profileEnd/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profiles/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profiles/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/profiles/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/table/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/table/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/table/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/time/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/time/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/time/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeEnd/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeEnd/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeEnd/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeStamp/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeStamp/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeStamp/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeline/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeline/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timeline/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timelineEnd/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timelineEnd/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/timelineEnd/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/trace/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/trace/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/trace/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/warn/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/warn/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/console/warn/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/devicePixelRatio/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/devicePixelRatio/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.getElementsByClassName/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.getElementsByClassName/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.getElementsByClassName/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.head/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.head/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.querySelector/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.querySelector/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.querySelector/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.visibilityState/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.visibilityState/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/document.visibilityState/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/fetch/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/fetch/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/getComputedStyle/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/getComputedStyle/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/localStorage/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/localStorage/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/location/origin/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/location/origin/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/location/origin/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/matchMedia/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/matchMedia/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/matchMedia/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/navigator/geolocation/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/navigator/geolocation/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/navigator/sendBeacon/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/navigator/sendBeacon/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/performance/now/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/performance/now/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/requestAnimationFrame/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/requestAnimationFrame/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/requestAnimationFrame/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/screen/orientation/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/screen/orientation/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/screen/orientation/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/setImmediate/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/setImmediate/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/~html5-elements/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/~viewport/detect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+polyfills/~viewport/polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+service/PolyfillSet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+service/index.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: path
+Methods Called:
+   - join
+
+Library: raven
+Methods Called:
+   - Client
+   - middleware
+
+Library: morgan
+Methods Called:
+   - main_method*
+
+------------------------------------------
+service/metrics.js
+------------------------------------------
+Library: graphite
+Methods Called:
+   - createClient
+
+Library: measured
+Methods Called:
+   - createCollection
+
+Library: blocked
+Methods Called:
+   - main_method*
+
+------------------------------------------
+service/routes/api.js
+------------------------------------------
+Library: express
+Methods Called:
+   - Router
+
+------------------------------------------
+service/routes/docs.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: request-promise
+Methods Called:
+   - main_method*
+
+Library: handlebars
+Methods Called:
+   - compile
+   - registerPartial
+   - registerHelper
+   - SafeString
+
+Library: moment
+Methods Called:
+   - main_method*
+   - duration
+
+Library: marked
+Methods Called:
+   - main_method*
+
+Library: zlib
+Methods Called:
+   - gzip
+
+------------------------------------------
+service/routes/meta.js
+------------------------------------------
+Library: express
+Methods Called:
+   - Router
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+service/routes/rum.js
+------------------------------------------
+Library: express
+Methods Called:
+   - Router
+
+------------------------------------------
+service/routes/test.js
+------------------------------------------
+Library: handlebars
+Methods Called:
+   - compile
+
+Library: express
+Methods Called:
+   - Router
+   - static
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+   - dirname
+
+------------------------------------------
+tasks/buildsources.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+   - lstatSync
+   - existsSync
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+tasks/compattable.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+   - writeFile
+
+------------------------------------------
+tasks/deployvcl.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: fastly
+Methods Called:
+   - getServices
+   - cloneVersion
+   - getVcl
+   - deleteVcl
+   - updateVcl
+   - setVclAsMain
+   - validateVersion
+   - activateVersion
+
+------------------------------------------
+tasks/saucelabs.js
+------------------------------------------
+Library: wd
+Methods Called:
+   - promiseRemote
+
+------------------------------------------
+tasks/service.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+   - writeFile
+
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+tasks/updatelibrary.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - unlinkSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - join
+   - basename
+   - relative
+   - resolve
+   - dirname
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: exists-sync
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/lib/test_aliases.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+test/node/lib/test_index.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - deepEqual
+   - main_method*
+
+------------------------------------------
+test/node/lib/test_ua.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - equal
+
+------------------------------------------
+test/node/service/test_polyfillset.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - deepEqual
+   - equal
+
+
+All of the Methods:
+{
+  "path": {
+    "resolve": true,
+    "join": true,
+    "dirname": true,
+    "basename": true,
+    "relative": true
+  },
+  "process": {
+    "env": true
+  },
+  "useragent": {
+    "Agent": true,
+    "parse": true
+  },
+  "lru-cache": {
+    "get": true,
+    "set": true
+  },
+  "lodash": {
+    "uniq": true,
+    "memoize": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "readFile": true,
+    "readdirSync": true,
+    "writeFileSync": true,
+    "existsSync": true,
+    "lstatSync": true,
+    "writeFile": true,
+    "statSync": true,
+    "unlinkSync": true
+  },
+  "tsort": {
+    "main_method*": true
+  },
+  "handlebars": {
+    "compile": true,
+    "registerPartial": true,
+    "registerHelper": true,
+    "SafeString": true
+  },
+  "denodeify": {
+    "main_method*": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "exists-sync": {
+    "main_method*": true
+  },
+  "mkdirp": {
+    "sync": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true,
+    "Router": true
+  },
+  "raven": {
+    "Client": true,
+    "middleware": true
+  },
+  "morgan": {
+    "main_method*": true
+  },
+  "graphite": {
+    "createClient": true
+  },
+  "measured": {
+    "createCollection": true
+  },
+  "blocked": {
+    "main_method*": true
+  },
+  "request-promise": {
+    "main_method*": true
+  },
+  "moment": {
+    "main_method*": true,
+    "duration": true
+  },
+  "marked": {
+    "main_method*": true
+  },
+  "zlib": {
+    "gzip": true
+  },
+  "fastly": {
+    "getServices": true,
+    "cloneVersion": true,
+    "getVcl": true,
+    "deleteVcl": true,
+    "updateVcl": true,
+    "setVclAsMain": true,
+    "validateVersion": true,
+    "activateVersion": true
+  },
+  "wd": {
+    "promiseRemote": true
+  },
+  "child_process": {
+    "spawn": true
+  },
+  "proclaim": {
+    "deepEqual": true,
+    "main_method*": true,
+    "equal": true
+  }
+}

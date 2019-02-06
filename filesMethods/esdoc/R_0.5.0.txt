@@ -1,0 +1,1803 @@
+------------------------------------------
+.eslintrc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+script/ast.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/build.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/esdoc-cli.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/esdoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/eslint.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/sh.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - removeSync
+   - mkdirs
+   - chmodSync
+   - copySync
+
+Library: path
+Methods Called:
+   - sep
+
+Library: child_process
+Methods Called:
+   - execSync
+
+------------------------------------------
+script/site.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/test-ci.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/test-prod.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+script/test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+site/js/analytics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/js/inner-link.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/plugin/site-plugin.js
+------------------------------------------
+Library: cheerio
+Methods Called:
+   - load
+
+Library: fs-extra
+Methods Called:
+   - copySync
+
+------------------------------------------
+src/BuiltinExternal/ECMAScriptExternal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/BuiltinExternal/WebAPIExternal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Doc/AbstractDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/AssignmentDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/ClassDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/ClassPropertyDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/ExternalDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/FileDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/FunctionDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/MemberDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/MethodDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/TestDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/TestFileDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/TypedefDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Doc/VariableDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/ESDoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/ESDocCLI.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+src/Factory/DocFactory.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Factory/TestDocFactory.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Parser/CommentParser.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected token
+------------------------------------------
+src/Parser/ESParser.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Parser/ParamParser.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Plugin/Plugin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/ASTDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/ClassDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/CoverageBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/DocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Publisher/Builder/DocResolver.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/FileDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/IdentifiersDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/IndexDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/LintDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/ManualDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/SearchIndexBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/SingleDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/SourceDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/StaticFileBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/TestDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/TestFileDocBuilder.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/Builder/template/script/inherited-summary.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/template/script/inner-link.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/template/script/manual.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/template/script/patch-for-local.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/template/script/prettify/prettify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/template/script/pretty-print.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/template/script/search.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/template/script/test-summary.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Publisher/Builder/util.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Publisher/publish.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Typedef/typedef.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Util/ASTNodeContainer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+src/Util/ASTUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Util/InvalidCodeLogger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Util/NPMUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Util/NamingUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Util/PathResolver.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/.eslintrc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/config/find-.esdoc.json/.esdoc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/package/plugin/MyPlugin1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/package/plugin/MyPlugin2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/package/script/custom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/package/src/Abstract/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Abstract/Override.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/Access/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Access/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Access/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Access/Property.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Access/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Async/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Async/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Class/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/ClassProperty/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Computed/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Computed/Property.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Decorator/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token ILLEGAL
+------------------------------------------
+test/fixture/package/src/Deprecated/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Deprecated/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Deprecated/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Desc/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Desc/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Desc/Markdown.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token
+------------------------------------------
+test/fixture/package/src/Desc/MultiLine.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Desc/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Destructuring/Array.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Destructuring/Object.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Duplication/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Emits/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Emits/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Example/Caption.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixture/package/src/Example/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token
+------------------------------------------
+test/fixture/package/src/Example/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Example/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixture/package/src/Experimental/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Experimental/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Experimental/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/ExponentiationOperator/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/AnonymousClass.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/AnonymousFunction.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/ArrowFunction.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/ClassIndirectDefault.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/Default.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/Extends.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/FunctionIndirectDefault.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/Multiple.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/Named.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/NewExpression.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/NewExpressionIndirect.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/NewExpressionProperty.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixture/package/src/Export/VariableIndirectDefault.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Extends/Builtin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Extends/Deep.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/Extends/Expression.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+test/fixture/package/src/Extends/Inner.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token
+------------------------------------------
+test/fixture/package/src/Extends/Mixin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+test/fixture/package/src/Extends/Outer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/Extends/Property.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/External/Definition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/package/src/Generator/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Generator/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Guess/Param.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Guess/Property.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Guess/Return.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Guess/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/Ignore/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Ignore/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Ignore/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Interface/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Interface/Implements.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Invalid/CodeSyntax.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected identifier
+------------------------------------------
+test/fixture/package/src/Invalid/DocSyntax.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/package/src/JSX/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Link/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Link/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixture/package/src/Link/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Lint/Invalid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Listens/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Listens/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Param/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Param/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Property/Return.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Return/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Return/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/See/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/See/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/See/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Since/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Since/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Since/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Throws/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Throws/Method.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Todo/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/src/Todo/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Todo/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/TrailingComma/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Array.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Complex.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Default.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/External.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Generics.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Literal.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Nullable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Object.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Optional.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Record.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Spread.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Typedef.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+test/fixture/package/src/Type/Union.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixture/package/src/Typedef/Definition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/package/src/Undocument/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/fixture/package/src/Unknown/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Variable/ArrayPattern.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Variable/Definition.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Variable/ObjectPattern.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Version/Class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Version/Function.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/fixture/package/src/Version/Variable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+test/fixture/package/test/DescTest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/syntax/AsyncGenerators.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/syntax/DoExpressions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/syntax/DynamicImport.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/fixture/syntax/ExportExtensions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/fixture/syntax/FunctionBind.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/fixture/syntax/FunctionSent.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/AccessTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/AutoPrivateTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/BuiltinExternalTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/CLITest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/CoverageTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/ExcludesTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/FindConfigPathTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/IncludeSourceTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/LintTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/ManualTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/PluginsTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/ScriptsTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/StylesTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/TestTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/UndocumentIdentifierTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ConfigTest/UnexportIdentifierTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/DocTest/InvalidTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/DocTest/LintTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/DocTest/SearchTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/DocTest/UndocumentTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/DocTest/UnknownTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/CoverageTest/CoverageTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AbstractTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AbstractTest/OverrideTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AccessTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AccessTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AccessTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AccessTest/PropertyTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AccessTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AsyncTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/AsyncTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ClassPropertyTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ClassTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ComputedTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ComputedTest/PropertyTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DecoratorTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DeprecatedTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DeprecatedTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DeprecatedTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DescTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DescTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DescTest/MarkdownTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DescTest/MultiLineTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DescTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DestructuringTest/ArrayTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DestructuringTest/ObjectTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/DuplicationTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/EmitsTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/EmitsTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExamleTest/CaptionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExamleTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExamleTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExamleTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExperimentalTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExperimentalTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExperimentalTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExponentialOperatorTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/AnonymousClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/AnonymousFunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/ArrowFunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/ClassIndirectDefaultTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/DefaultTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/ExtendTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/FunctionIndirectDefaultTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/MultipleTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/NamedTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/NewExpressionIndirectTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/NewExpressionPropertyTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/NewExpressionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/VariableIndirectDefaultTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExportTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExtendsTest/BuiltinTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExtendsTest/DeepTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExtendsTest/ExpressionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExtendsTest/InnerTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExtendsTest/MixinTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExtendsTest/OuterTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExtendsTest/PropertyTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ExternalTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/GeneratorTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/GeneratorTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/GuessTest/ParamTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/GuessTest/PropertyTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/GuessTest/ReturnTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/GuessTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/IgnoreTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/IgnoreTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/IgnoreTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/InterfaceTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/InterfaceTest/ImplementsTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/JSXTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/LinkTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/LinkTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/LinkTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ListensTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ListensTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ParamTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ParamTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/PropertyTest/ReturnTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ReturnTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ReturnTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/SeeTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/SeeTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/SeeTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/SinceTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/SinceTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/SinceTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ThrowsTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/ThrowsTest/MethodTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TodoTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TodoTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TodoTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TrailingCommaTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/ArrayTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/ComplexTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/DefaultTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/ExternalTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/GenericsTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/LiteralTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/NullableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/ObjectTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/OptionalTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/RecordTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/SpreadTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/TypedefTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypeTest/UnionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/TypedefTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/UndocumentTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/VariableTest/ArrayPatterTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/VariableTest/DefinitionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/VariableTest/ObjectPatterTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/VersionTest/ClassTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/VersionTest/FunctionTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/DocumentTest/VersionTest/VariableTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/FileTest/FileTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/IdentifiersTest/IdentifiersTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/IndexTest/IndexTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/ManualTest/ManualTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/NavTest/NavTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/TestTest/TestLinkTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/HTMLTest/TestTest/TestTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ParserTest/CommentParserTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ParserTest/ESParserTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/ParserTest/ParamParserTest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/init.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/src/util.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+
+All of the Methods:
+{
+  "fs-extra": {
+    "removeSync": true,
+    "mkdirs": true,
+    "chmodSync": true,
+    "copySync": true
+  },
+  "path": {
+    "sep": true
+  },
+  "child_process": {
+    "execSync": true
+  },
+  "cheerio": {
+    "load": true
+  }
+}

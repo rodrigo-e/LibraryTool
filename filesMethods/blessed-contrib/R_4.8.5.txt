@@ -1,0 +1,417 @@
+------------------------------------------
+examples/bar.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/carousel.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+   - box
+
+------------------------------------------
+examples/dashboard-random-colors.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/dashboard.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/donut.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/explorer.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/gauge-list.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/gauge-stack.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/gauge.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/grid-no-border.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+   - box
+
+------------------------------------------
+examples/grid.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+   - box
+
+------------------------------------------
+examples/inline-data/bar.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/donut.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/gauge.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/lcd.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/map.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/markdown.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/multi-line-chart.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/picture.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/sparkline.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/inline-data/table.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/lcd.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/line-abbreviate.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/line-fraction.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/line-random-colors.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/line-start-above-zero.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/line-zoomed-in.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/log.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/map.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/markdown.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/multi-line-chart.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/picture.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/sparkline.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/stacked-bar.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/table-color.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+examples/table.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - screen
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/layout/carousel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/layout/grid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/server-utils.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+lib/utils.js
+------------------------------------------
+Library: x256
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/widget/canvas.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - Box
+
+------------------------------------------
+lib/widget/charts/bar.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+
+------------------------------------------
+lib/widget/charts/line.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - box
+
+------------------------------------------
+lib/widget/charts/stacked-bar.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - box
+
+------------------------------------------
+lib/widget/donut.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+
+------------------------------------------
+lib/widget/gauge-list.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+
+------------------------------------------
+lib/widget/gauge.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+
+------------------------------------------
+lib/widget/lcd.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+
+------------------------------------------
+lib/widget/log.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - List
+
+------------------------------------------
+lib/widget/map.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+
+------------------------------------------
+lib/widget/markdown.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Box
+
+------------------------------------------
+lib/widget/picture.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - Box
+
+------------------------------------------
+lib/widget/sparkline.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - Box
+
+------------------------------------------
+lib/widget/table.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - Box
+   - list
+
+------------------------------------------
+lib/widget/tree.js
+------------------------------------------
+Library: blessed
+Methods Called:
+   - Node
+   - Box
+   - list
+
+
+All of the Methods:
+{
+  "blessed": {
+    "screen": true,
+    "box": true,
+    "Node": true,
+    "Box": true,
+    "List": true,
+    "list": true
+  },
+  "url": {
+    "parse": true
+  },
+  "x256": {
+    "main_method*": true
+  }
+}

@@ -1,0 +1,234 @@
+------------------------------------------
+dist/js/mditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/js/mditor.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/demo/js/mditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/demo/js/mditor.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/client/index.js
+------------------------------------------
+Library: mokit
+Methods Called:
+   - Component
+
+------------------------------------------
+src/client/shortcut.js
+------------------------------------------
+Library: shortcut-key
+Methods Called:
+   - filter
+   - main_method*
+   - unbind
+
+Library: ntils
+Methods Called:
+   - defineFreezeProp
+   - isFunction
+
+------------------------------------------
+src/common/parser.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - Lexer
+   - Renderer
+   - setOptions
+   - main_method*
+
+Library: prismjs
+Methods Called:
+   - languages
+   - highlight
+
+------------------------------------------
+src/editor/commands.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/editor/index.js
+------------------------------------------
+Library: mokit
+Methods Called:
+   - EventEmitter
+   - Component
+
+Library: ntils
+Methods Called:
+   - isNull
+
+------------------------------------------
+src/editor/stack.js
+------------------------------------------
+Library: cify
+Methods Called:
+   - Class
+
+Library: ntils
+Methods Called:
+   - isNull
+
+------------------------------------------
+src/finder/index.js
+------------------------------------------
+Library: mokit
+Methods Called:
+   - Component
+
+Library: ntils
+Methods Called:
+   - escapeRegExp
+
+------------------------------------------
+src/plugins/csv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/server/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/toolbar/index.js
+------------------------------------------
+Library: mokit
+Methods Called:
+   - Component
+
+------------------------------------------
+src/toolbar/items.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/viewer/index.js
+------------------------------------------
+Library: mokit
+Methods Called:
+   - Component
+
+------------------------------------------
+test/driver.js
+------------------------------------------
+Library: phantomjs-prebuilt
+Methods Called:
+   - path
+
+Library: selenium-webdriver
+Methods Called:
+   - Capabilities
+   - Builder
+   - By
+   - until
+
+------------------------------------------
+test/e2e/demo.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/unit/demo.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webpack.config.js
+------------------------------------------
+Library: webpack
+Methods Called:
+   - optimize
+   - BannerPlugin
+
+Library: html-webpack-plugin
+Methods Called:
+   - main_method*
+
+Library: clean-webpack-plugin
+Methods Called:
+   - main_method*
+
+Library: extract-text-webpack-plugin
+Methods Called:
+   - main_method*
+
+Library: os
+Methods Called:
+   - EOL
+
+
+All of the Methods:
+{
+  "mokit": {
+    "Component": true,
+    "EventEmitter": true
+  },
+  "shortcut-key": {
+    "filter": true,
+    "main_method*": true,
+    "unbind": true
+  },
+  "ntils": {
+    "defineFreezeProp": true,
+    "isFunction": true,
+    "isNull": true,
+    "escapeRegExp": true
+  },
+  "marked": {
+    "Lexer": true,
+    "Renderer": true,
+    "setOptions": true,
+    "main_method*": true
+  },
+  "prismjs": {
+    "languages": true,
+    "highlight": true
+  },
+  "cify": {
+    "Class": true
+  },
+  "phantomjs-prebuilt": {
+    "path": true
+  },
+  "selenium-webdriver": {
+    "Capabilities": true,
+    "Builder": true,
+    "By": true,
+    "until": true
+  },
+  "webpack": {
+    "optimize": true,
+    "BannerPlugin": true
+  },
+  "html-webpack-plugin": {
+    "main_method*": true
+  },
+  "clean-webpack-plugin": {
+    "main_method*": true
+  },
+  "extract-text-webpack-plugin": {
+    "main_method*": true
+  },
+  "os": {
+    "EOL": true
+  }
+}

@@ -1,0 +1,6 @@
+9a365d150eed7e728c3df10fbe1544e13985ac68
+.bin/idoc.js
+index.js
+lib/build.js
+lib/file.js
+lib/init.js

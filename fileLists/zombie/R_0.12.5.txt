@@ -1,0 +1,10 @@
+7cdc89d64463e6f9c2802040cc1e0a177958ca05
+lib/zombie.js
+spec/scripts/jquery-1.4.4.js
+spec/scripts/jquery-1.5.1.js
+spec/scripts/jquery-1.6.3.js
+spec/scripts/jquery-1.7.1.js
+spec/scripts/sammy.js
+xpath/util.js
+xpath/xmltoken.js
+xpath/xpath.js

@@ -1,0 +1,156 @@
+------------------------------------------
+build/angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+build/flux-angular.js
+------------------------------------------
+Library: base64-js
+Methods Called:
+   - fromByteArray
+   - toByteArray
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - dest
+   - task
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: watchify
+Methods Called:
+   - main_method*
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: gulp-if
+Methods Called:
+   - main_method*
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: gulp-streamify
+Methods Called:
+   - main_method*
+
+Library: gulp-notify
+Methods Called:
+   - main_method*
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: gulp-shell
+Methods Called:
+   - task
+
+Library: fs
+Methods Called:
+   - main_method*
+
+------------------------------------------
+karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+releases/1.0.0/flux-angular-1.0.0.js
+------------------------------------------
+Library: base64-js
+Methods Called:
+   - fromByteArray
+   - toByteArray
+
+------------------------------------------
+releases/1.0.0/flux-angular-1.0.0.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/EventEmitter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/action.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/main.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+------------------------------------------
+src/safeDeepClone.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/FLUX-test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+
+All of the Methods:
+{
+  "base64-js": {
+    "fromByteArray": true,
+    "toByteArray": true
+  },
+  "gulp": {
+    "dest": true,
+    "task": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "watchify": {
+    "main_method*": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "gulp-if": {
+    "main_method*": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "gulp-streamify": {
+    "main_method*": true
+  },
+  "gulp-notify": {
+    "main_method*": true
+  },
+  "gulp-util": {
+    "log": true
+  },
+  "gulp-shell": {
+    "task": true
+  },
+  "fs": {
+    "main_method*": true
+  },
+  "angular": {
+    "module": true
+  },
+  "chai": {
+    "expect": true
+  }
+}

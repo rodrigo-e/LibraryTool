@@ -1,0 +1,11 @@
+c63c18a769c9cd208cb678d6a5dfc00927d59c37
+dist/angular-simple-logger.js
+dist/angular-simple-logger.light.js
+dist/angular-simple-logger.light.min.js
+dist/angular-simple-logger.min.js
+dist/index.js
+dist/index.light.js
+package.js
+src/debug.light.js
+src/wrap/debug.js
+src/wrap/dist.js

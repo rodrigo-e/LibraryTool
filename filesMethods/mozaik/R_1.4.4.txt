@@ -1,0 +1,486 @@
+------------------------------------------
+browser.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+gulp/config.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+   - sep
+   - join
+
+------------------------------------------
+gulp/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+------------------------------------------
+gulp/tasks/build.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+
+------------------------------------------
+gulp/tasks/collect.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - relative
+
+Library: fs
+Methods Called:
+   - writeFile
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: chalk
+Methods Called:
+   - green
+
+------------------------------------------
+gulp/tasks/copy.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: gulp-flatten
+Methods Called:
+   - main_method*
+
+Library: chalk
+Methods Called:
+   - green
+
+------------------------------------------
+gulp/tasks/default.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+
+------------------------------------------
+gulp/tasks/js.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - dest
+   - task
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: vinyl-buffer
+Methods Called:
+   - main_method*
+
+Library: gulp-rename
+Methods Called:
+   - main_method*
+
+Library: watchify
+Methods Called:
+   - args
+   - main_method*
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: chalk
+Methods Called:
+   - red
+   - yellow
+
+Library: lodash
+Methods Called:
+   - assign
+
+------------------------------------------
+gulp/tasks/styles.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: path
+Methods Called:
+   - join
+
+Library: gulp-stylus
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: chalk
+Methods Called:
+   - red
+   - green
+
+Library: bluebird
+Methods Called:
+   - main_method*
+
+------------------------------------------
+gulp/tasks/watch.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - watch
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+gulp/util/script-filter.js
+------------------------------------------
+Library: path
+Methods Called:
+   - extname
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/Bus.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/CoreApi.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Mozaik.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/actions/ApiActions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/actions/ConfigActions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/actions/ConnectionStatusActions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/actions/DashboardActions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/actions/NotificationsActions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/component-registry.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/ConnectionStatus.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/Dashboard.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/Inspector.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/InspectorItem.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/Mozaik.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/Notifications.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/NotificationsItem.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/Timer.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/Widget.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/BarChart.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/BarChart.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/Gauge.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/Pie.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/Pie.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/PieChart.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/PieCount.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/PieLegends.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/components/charts/Treemap.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/mixins/ApiConsumerMixin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/stores/ApiStore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/stores/ConfigStore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/stores/ConnectionStatusStore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/stores/DashboardStore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/browser/stores/NotificationsStore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/backend/Bus.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/backend/Mozaik.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/backend/chalk-mock.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 15: Unexpected token
+------------------------------------------
+test/frontend/components/Dashboard.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/frontend/components/InspectorItem.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/frontend/components/Widget.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/frontend/stores/ApiStore.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/frontend/stores/ConnectionStatusStore.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/frontend/stores/NotificationStore.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+test/helpers/storeHelper.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/helpers/timersHelper.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+
+All of the Methods:
+{
+  "path": {
+    "resolve": true,
+    "sep": true,
+    "join": true,
+    "relative": true,
+    "extname": true
+  },
+  "fs": {
+    "readdirSync": true,
+    "writeFile": true,
+    "existsSync": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "glob": {
+    "sync": true
+  },
+  "gulp-util": {
+    "log": true
+  },
+  "chalk": {
+    "green": true,
+    "red": true,
+    "yellow": true
+  },
+  "gulp-flatten": {
+    "main_method*": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "vinyl-buffer": {
+    "main_method*": true
+  },
+  "gulp-rename": {
+    "main_method*": true
+  },
+  "watchify": {
+    "args": true,
+    "main_method*": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "lodash": {
+    "assign": true
+  },
+  "gulp-stylus": {
+    "main_method*": true
+  },
+  "bluebird": {
+    "main_method*": true
+  }
+}

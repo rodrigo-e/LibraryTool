@@ -1,0 +1,8 @@
+dbec3aba7c26612efde0a6ad052f16142fc8b0c3
+example/suits/basic.js
+example/suits/mouse.js
+example/suits/mouse_model.js
+example/suits/simpleserver.js
+lib/swarm.js
+lib/swarm2.js
+test/testSpec.js

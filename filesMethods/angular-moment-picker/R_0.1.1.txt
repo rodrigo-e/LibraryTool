@@ -1,0 +1,23 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-moment-picker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-moment-picker.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/angular-moment-picker.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

@@ -1,0 +1,49 @@
+------------------------------------------
+lib/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: node-sass
+Methods Called:
+   - render
+
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+------------------------------------------
+src/app.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFileSync": true
+  },
+  "node-sass": {
+    "render": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true
+  },
+  "body-parser": {
+    "json": true,
+    "urlencoded": true
+  }
+}

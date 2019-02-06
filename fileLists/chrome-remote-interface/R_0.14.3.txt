@@ -1,0 +1,12 @@
+140ee88107fcc50a4b913aad6fb012e41e051812
+bin/client.js
+index.js
+lib/api.js
+lib/chrome.js
+lib/defaults.js
+lib/devtools.js
+test/close.js
+test/connect.js
+test/devtools.js
+test/event.js
+test/send.js

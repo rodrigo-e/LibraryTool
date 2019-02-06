@@ -1,0 +1,11 @@
+8049448adfcc57053a218007e06a115e8bb18987
+bin/client.js
+index.js
+lib/chrome.js
+lib/defaults.js
+lib/devtools.js
+test/close.js
+test/connect.js
+test/devtools.js
+test/event.js
+test/send.js

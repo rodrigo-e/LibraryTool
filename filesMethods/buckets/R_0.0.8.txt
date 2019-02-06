@@ -1,0 +1,29 @@
+------------------------------------------
+bin/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/utils/log.js
+------------------------------------------
+Library: winston
+Methods Called:
+   - cli
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+newrelic.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "winston": {
+    "cli": true
+  }
+}

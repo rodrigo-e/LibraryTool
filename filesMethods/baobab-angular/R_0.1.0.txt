@@ -1,0 +1,110 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - dest
+   - task
+   - run
+   - src
+   - watch
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: watchify
+Methods Called:
+   - main_method*
+
+Library: gulp-notify
+Methods Called:
+   - main_method*
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: gulp-jshint
+Methods Called:
+   - main_method*
+   - reporter
+
+------------------------------------------
+karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+release/baobab-angular.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+------------------------------------------
+src/baobab-angular.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+Library: baobab
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/safeDeepClone.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/angular-mocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/baobab-angular-spec.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "dest": true,
+    "task": true,
+    "run": true,
+    "src": true,
+    "watch": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "watchify": {
+    "main_method*": true
+  },
+  "gulp-notify": {
+    "main_method*": true
+  },
+  "gulp-util": {
+    "log": true
+  },
+  "gulp-jshint": {
+    "main_method*": true,
+    "reporter": true
+  },
+  "angular": {
+    "module": true
+  },
+  "baobab": {
+    "main_method*": true
+  }
+}

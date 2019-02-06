@@ -1,0 +1,971 @@
+------------------------------------------
+Gulpfile.js
+------------------------------------------
+Library: yargs
+Methods Called:
+   - argv
+
+Library: lodash
+Methods Called:
+   - assign
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: gulp-rename
+Methods Called:
+   - main_method*
+
+Library: webpack
+Methods Called:
+   - NormalModuleReplacementPlugin
+   - main_method*
+   - optimize
+
+Library: gulp-bump
+Methods Called:
+   - main_method*
+
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - existsSync
+   - unlinkSync
+   - linkSync
+
+------------------------------------------
+docs/samples/balances.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/samples/cancelall.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/samples/payment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+scripts/build_docs.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - execSync
+
+Library: json-schema-to-markdown-table
+Methods Called:
+   - renderFromPaths
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - dirname
+   - normalize
+   - join
+
+Library: ejs
+Methods Called:
+   - renderFile
+
+------------------------------------------
+scripts/http.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+scripts/sauce-runner.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - some
+
+Library: mocha-in-sauce
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/api.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 55: Unexpected identifier
+------------------------------------------
+src/broadcast.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - assign
+   - every
+
+------------------------------------------
+src/common/browser-hacks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/common/connection.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+Library: lodash
+Methods Called:
+   - isEmpty
+   - omitBy
+   - isUndefined
+   - assign
+
+Library: ws
+Methods Called:
+   - CLOSED
+   - OPEN
+   - main_method*
+   - CONNECTING
+   - CLOSING
+
+------------------------------------------
+src/common/constants.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/common/errors.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+
+------------------------------------------
+src/common/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/common/rangeset.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token :
+------------------------------------------
+src/common/schema-validator.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 141: Unexpected token :
+------------------------------------------
+src/common/serverinfo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/common/txflags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/common/types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/common/utils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/common/validate.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isUndefined
+   - partial
+
+------------------------------------------
+src/common/wswrapper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/http.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - filter
+   - keys
+   - isArray
+   - omit
+   - size
+   - forEach
+
+Library: jayson
+Methods Called:
+   - Utils
+   - Method
+   - server
+
+------------------------------------------
+src/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ledger/accountinfo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected identifier
+------------------------------------------
+src/ledger/balance-sheet.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/ledger/balances.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+src/ledger/ledger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+src/ledger/orderbook.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/ledger/orders.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/ledger/parse/account-order.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 16: Unexpected token :
+------------------------------------------
+src/ledger/parse/account-trustline.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected identifier
+------------------------------------------
+src/ledger/parse/amendment.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token :
+------------------------------------------
+src/ledger/parse/amount.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/ledger/parse/cancellation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token :
+------------------------------------------
+src/ledger/parse/escrow-cancellation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token :
+------------------------------------------
+src/ledger/parse/escrow-creation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token :
+------------------------------------------
+src/ledger/parse/escrow-execution.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token :
+------------------------------------------
+src/ledger/parse/fee-update.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token :
+------------------------------------------
+src/ledger/parse/fields.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+src/ledger/parse/flags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ledger/parse/ledger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+src/ledger/parse/order.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token :
+------------------------------------------
+src/ledger/parse/orderbook-order.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token :
+------------------------------------------
+src/ledger/parse/pathfind.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+src/ledger/parse/payment-channel-claim.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token :
+------------------------------------------
+src/ledger/parse/payment-channel-create.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token :
+------------------------------------------
+src/ledger/parse/payment-channel-fund.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token :
+------------------------------------------
+src/ledger/parse/payment-channel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected identifier
+------------------------------------------
+src/ledger/parse/payment.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token :
+------------------------------------------
+src/ledger/parse/settings.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token :
+------------------------------------------
+src/ledger/parse/transaction.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 40: Unexpected token :
+------------------------------------------
+src/ledger/parse/trustline.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token :
+------------------------------------------
+src/ledger/parse/utils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+src/ledger/pathfind-types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/ledger/pathfind.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected token
+------------------------------------------
+src/ledger/payment-channel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected identifier
+------------------------------------------
+src/ledger/settings.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected identifier
+------------------------------------------
+src/ledger/transaction-types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/ledger/transaction.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/ledger/transactions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token
+------------------------------------------
+src/ledger/trustlines-types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/ledger/trustlines.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/ledger/types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/ledger/utils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/offline/generate-address.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token ?
+------------------------------------------
+src/offline/ledgerhash.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 65: Unexpected token :
+------------------------------------------
+src/offline/sign-payment-channel-claim.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token :
+------------------------------------------
+src/offline/verify-payment-channel-claim.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token :
+------------------------------------------
+src/server/server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/transaction/combine.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 21: Unexpected token :
+------------------------------------------
+src/transaction/escrow-cancellation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+src/transaction/escrow-creation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/transaction/escrow-execution.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/transaction/order.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/transaction/ordercancellation.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+src/transaction/payment-channel-claim.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/transaction/payment-channel-create.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+src/transaction/payment-channel-fund.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+src/transaction/payment.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+src/transaction/settings-types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected identifier
+------------------------------------------
+src/transaction/settings.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected token
+------------------------------------------
+src/transaction/sign.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token :
+------------------------------------------
+src/transaction/submit.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+src/transaction/trustline.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+src/transaction/types.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/transaction/utils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/api-test.js
+------------------------------------------
+Library: ripple-api
+Methods Called:
+   - RippleAPI
+
+Library: lodash
+Methods Called:
+   - omit
+   - defaults
+   - partial
+   - filter
+   - cloneDeep
+   - every
+   - fill
+   - sortBy
+   - flatten
+   - forEach
+   - includes
+   - assign
+
+Library: assert-diff
+Methods Called:
+   - options
+   - main_method*
+   - deepEqual
+   - strictEqual
+   - throws
+   - doesNotThrow
+
+Library: ripple-binary-codec
+Methods Called:
+   - decode
+   - encode
+
+------------------------------------------
+test/broadcast-api-test.js
+------------------------------------------
+Library: ripple-api
+Methods Called:
+   - RippleAPI
+
+Library: lodash
+Methods Called:
+   - omit
+   - assign
+   - partial
+
+Library: assert-diff
+Methods Called:
+   - main_method*
+   - deepEqual
+   - strictEqual
+
+------------------------------------------
+test/connection-test.js
+------------------------------------------
+Library: ripple-api
+Methods Called:
+   - RippleAPI
+
+Library: lodash
+Methods Called:
+   - isUndefined
+   - omit
+
+Library: net
+Methods Called:
+   - createServer
+
+Library: assert-diff
+Methods Called:
+   - strictEqual
+   - main_method*
+   - deepEqual
+   - throws
+
+------------------------------------------
+test/fixtures/addresses.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/hashes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/requests/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/responses/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/rippled/account-lines.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+   - filter
+
+------------------------------------------
+test/fixtures/rippled/account-offers.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+
+------------------------------------------
+test/fixtures/rippled/account-tx.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+   - cloneDeep
+   - assign
+
+Library: ripple-binary-codec
+Methods Called:
+   - encode
+
+------------------------------------------
+test/fixtures/rippled/book-offers.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+
+------------------------------------------
+test/fixtures/rippled/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/rippled/path-find.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/hacks/phantomhacks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/integration/broadcast-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/integration/connection-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/integration/http-integration-test.js
+------------------------------------------
+Library: assert-diff
+Methods Called:
+   - main_method*
+   - strictEqual
+   - deepEqual
+
+Library: lodash
+Methods Called:
+   - keys
+   - reduce
+   - assign
+   - fill
+   - isNumber
+
+Library: jayson
+Methods Called:
+   - client
+
+------------------------------------------
+test/integration/integration-test.js
+------------------------------------------
+Library: ripple-api
+Methods Called:
+   - RippleAPI
+
+Library: lodash
+Methods Called:
+   - partial
+   - first
+   - filter
+   - pick
+   - every
+   - assign
+
+Library: assert
+Methods Called:
+   - main_method*
+   - strictEqual
+   - deepEqual
+
+------------------------------------------
+test/integration/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/integration/wallet-web.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/integration/wallet.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - partial
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/mock-rippled.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - Server
+
+Library: eventemitter2
+Methods Called:
+   - EventEmitter2
+
+Library: lodash
+Methods Called:
+   - assign
+   - isEmpty
+   - every
+   - indexOf
+   - values
+
+Library: assert
+Methods Called:
+   - main_method*
+   - strictEqual
+   - deepEqual
+
+------------------------------------------
+test/mocked-server.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/rangeset-test.js
+------------------------------------------
+Library: ripple-api
+Methods Called:
+   - RippleAPI
+
+Library: assert
+Methods Called:
+   - deepEqual
+   - throws
+   - strictEqual
+   - main_method*
+
+------------------------------------------
+test/setup-api-web.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/setup-api.js
+------------------------------------------
+Library: ripple-api
+Methods Called:
+   - RippleAPI
+   - RippleAPIBroadcast
+
+------------------------------------------
+test/utils/net-utils.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/vendor/lodash.min.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "yargs": {
+    "argv": true
+  },
+  "lodash": {
+    "assign": true,
+    "some": true,
+    "every": true,
+    "isEmpty": true,
+    "omitBy": true,
+    "isUndefined": true,
+    "partial": true,
+    "filter": true,
+    "keys": true,
+    "isArray": true,
+    "omit": true,
+    "size": true,
+    "forEach": true,
+    "defaults": true,
+    "cloneDeep": true,
+    "fill": true,
+    "sortBy": true,
+    "flatten": true,
+    "includes": true,
+    "reduce": true,
+    "isNumber": true,
+    "first": true,
+    "pick": true,
+    "indexOf": true,
+    "values": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "gulp-rename": {
+    "main_method*": true
+  },
+  "webpack": {
+    "NormalModuleReplacementPlugin": true,
+    "main_method*": true,
+    "optimize": true
+  },
+  "gulp-bump": {
+    "main_method*": true
+  },
+  "assert": {
+    "main_method*": true,
+    "strictEqual": true,
+    "deepEqual": true,
+    "throws": true
+  },
+  "fs": {
+    "existsSync": true,
+    "unlinkSync": true,
+    "linkSync": true,
+    "readFileSync": true,
+    "writeFileSync": true
+  },
+  "child_process": {
+    "execSync": true
+  },
+  "json-schema-to-markdown-table": {
+    "renderFromPaths": true
+  },
+  "path": {
+    "dirname": true,
+    "normalize": true,
+    "join": true
+  },
+  "ejs": {
+    "renderFile": true
+  },
+  "mocha-in-sauce": {
+    "main_method*": true
+  },
+  "url": {
+    "parse": true
+  },
+  "ws": {
+    "CLOSED": true,
+    "OPEN": true,
+    "main_method*": true,
+    "CONNECTING": true,
+    "CLOSING": true,
+    "Server": true
+  },
+  "util": {
+    "inspect": true
+  },
+  "jayson": {
+    "Utils": true,
+    "Method": true,
+    "server": true,
+    "client": true
+  },
+  "ripple-api": {
+    "RippleAPI": true,
+    "RippleAPIBroadcast": true
+  },
+  "assert-diff": {
+    "options": true,
+    "main_method*": true,
+    "deepEqual": true,
+    "strictEqual": true,
+    "throws": true,
+    "doesNotThrow": true
+  },
+  "ripple-binary-codec": {
+    "decode": true,
+    "encode": true
+  },
+  "net": {
+    "createServer": true
+  },
+  "eventemitter2": {
+    "EventEmitter2": true
+  }
+}

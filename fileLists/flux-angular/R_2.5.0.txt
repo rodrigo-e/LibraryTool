@@ -1,0 +1,11 @@
+68157d9c11e09eca092cbcc273df6c7b09d6332a
+gulpfile.js
+karma.conf.js
+release/flux-angular-1.3.1.js
+release/flux-angular-1.3.1.min.js
+release/flux-angular.js
+release/flux-angular.min.js
+src/flux-angular.js
+src/safeDeepClone.js
+tests/angular-mocks.js
+tests/flux-angular-spec.js

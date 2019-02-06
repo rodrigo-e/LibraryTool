@@ -1,0 +1,1182 @@
+------------------------------------------
+spec/AdaptableController.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/AdapterLoader.spec.js
+------------------------------------------
+Library: parse-server-fs-adapter
+Methods Called:
+   - default
+
+Library: parse-server-s3-adapter
+Methods Called:
+   - default
+
+Library: parse-server-push-adapter
+Methods Called:
+   - default
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+spec/Auth.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/CLI.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/CacheController.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/Client.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/CloudCode.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Cloud
+   - Object
+   - Query
+   - Error
+   - applicationId
+   - masterKey
+   - javascriptKey
+   - User
+   - Promise
+
+Library: request
+Methods Called:
+   - object
+   - params
+   - user
+
+Library: request-promise
+Methods Called:
+   - main_method*
+
+------------------------------------------
+spec/CloudCodeLogger.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/EventEmitterPubSub.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/FileLoggerAdapter.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+spec/FilesController.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/GridStoreAdapter.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - MongoClient
+   - GridStore
+
+------------------------------------------
+spec/HTTPRequest.spec.js
+------------------------------------------
+Library: ../src/cloud-code/httpRequest
+Methods Called:
+   - main_method*
+   - encodeBody
+
+------------------------------------------
+spec/InMemoryCache.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/InMemoryCacheAdapter.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/InstallationsRouter.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/LoggerController.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/LogsRouter.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+spec/Middlewares.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/MockAdapter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/MockEmailAdapter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/MockEmailAdapterWithOptions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/MongoSchemaCollectionAdapter.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/MongoStorageAdapter.spec.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - MongoClient
+
+------------------------------------------
+spec/MongoTransform.spec.js
+------------------------------------------
+Library: deep-diff
+Methods Called:
+   - main_method*
+
+Library: mongodb
+Methods Called:
+   - Long
+   - Double
+
+------------------------------------------
+spec/OAuth.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - headers
+   - post
+
+------------------------------------------
+spec/Parse.Push.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+spec/ParseACL.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/ParseAPI.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - put
+   - post
+   - del
+   - params
+   - get
+
+Library: request-promise
+Methods Called:
+   - main_method*
+
+Library: parse/node
+Methods Called:
+   - Object
+   - Error
+   - Promise
+   - User
+   - Query
+   - ACL
+   - Cloud
+   - _request
+   - initialize
+   - File
+   - GeoPoint
+
+------------------------------------------
+spec/ParseCloudCodePublisher.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Object
+
+------------------------------------------
+spec/ParseFile.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - post
+   - get
+   - del
+
+------------------------------------------
+spec/ParseGeoPoint.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/ParseGlobalConfig.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: request
+Methods Called:
+   - get
+   - put
+
+------------------------------------------
+spec/ParseHooks.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - post
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: body-parser
+Methods Called:
+   - json
+
+------------------------------------------
+spec/ParseInstallation.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+spec/ParseLiveQueryServer.spec.js
+------------------------------------------
+Library: ../src/LiveQuery/Client
+Methods Called:
+   - Client
+
+Library: parse/node
+Methods Called:
+   - Promise
+   - Object
+   - ACL
+
+------------------------------------------
+spec/ParseObject.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/ParsePubSub.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/ParseQuery.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Object
+   - Query
+   - User
+   - Error
+   - serverURL
+   - Promise
+
+------------------------------------------
+spec/ParseRelation.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/ParseRole.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/ParseUser.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - post
+   - object
+   - get
+   - put
+   - del
+
+Library: request-promise
+Methods Called:
+   - main_method*
+
+------------------------------------------
+spec/ParseWebSocket.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/ParseWebSocketServer.spec.js
+------------------------------------------
+Library: events
+Methods Called:
+   - main_method*
+
+------------------------------------------
+spec/PointerPermissions.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/PromiseRouter.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/PublicAPI.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+spec/PurchaseValidation.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - post
+   - get
+
+------------------------------------------
+spec/PushController.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/PushRouter.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - post
+
+------------------------------------------
+spec/QueryTools.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Object
+   - Query
+   - GeoPoint
+   - User
+
+------------------------------------------
+spec/RedisPubSub.spec.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+spec/RestCreate.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: request
+Methods Called:
+   - post
+
+------------------------------------------
+spec/RestQuery.spec.js
+------------------------------------------
+Library: querystring
+Methods Called:
+   - stringify
+
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+spec/Schema.spec.js
+------------------------------------------
+Library: deep-diff
+Methods Called:
+   - main_method*
+
+------------------------------------------
+spec/SessionTokenCache.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Promise
+
+------------------------------------------
+spec/Subscription.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/Uniqueness.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Object
+   - Error
+
+------------------------------------------
+spec/ValidationAndPasswordsReset.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+   - post
+
+------------------------------------------
+spec/cloud/cloudCodeAbsoluteFile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/cloud/cloudCodeRelativeFile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/cryptoUtils.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/features.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+spec/helper.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: parse/node
+Methods Called:
+   - serverURL
+   - Promise
+   - User
+   - initialize
+   - Cloud
+   - Object
+
+------------------------------------------
+spec/index.spec.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+   - post
+
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+spec/myoauth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/schemas.spec.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: request
+Methods Called:
+   - get
+   - post
+   - put
+   - del
+
+Library: deep-diff
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/Adapters/AdapterLoader.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Adapters/Cache/CacheAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Adapters/Cache/InMemoryCache.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/Adapters/Cache/InMemoryCacheAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Adapters/Email/MailAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+src/Adapters/Files/FilesAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+src/Adapters/Files/GridStoreAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+src/Adapters/Logger/FileLoggerAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+src/Adapters/Logger/LoggerAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token
+------------------------------------------
+src/Adapters/Push/PushAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+src/Adapters/Storage/Mongo/MongoCollection.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/Adapters/Storage/Mongo/MongoSchemaCollection.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Adapters/Storage/Mongo/MongoStorageAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Adapters/Storage/Mongo/MongoTransform.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Adapters/Storage/Postgres/PostgresStorageAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 82: Unexpected token
+------------------------------------------
+src/Auth.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+------------------------------------------
+src/Config.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+src/Controllers/AdaptableController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+src/Controllers/CacheController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Controllers/DatabaseController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+src/Controllers/FilesController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Controllers/HooksController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Controllers/LiveQueryController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Controllers/LoggerController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Controllers/PushController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Controllers/SchemaController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 18: Unexpected token
+------------------------------------------
+src/Controllers/UserController.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/DatabaseAdapter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/Client.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/EventEmitterPubSub.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/Id.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token :
+------------------------------------------
+src/LiveQuery/PLog.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/ParseCloudCodePublisher.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/ParseLiveQueryServer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/ParsePubSub.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/ParseWebSocketServer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/QueryTools.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 29: Unexpected token :
+------------------------------------------
+src/LiveQuery/RedisPubSub.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/RequestSchema.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 101: Unexpected token
+------------------------------------------
+src/LiveQuery/SessionTokenCache.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/Subscription.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/LiveQuery/equalObjects.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ParseServer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+src/PromiseRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+src/RestQuery.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/RestWrite.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 14: Unexpected token
+------------------------------------------
+src/Routers/AnalyticsRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Routers/ClassesRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Routers/FeaturesRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/FilesRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/FunctionsRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/Routers/GlobalConfigRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Routers/HooksRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/IAPValidationRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/InstallationsRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/Routers/LogsRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/PublicAPIRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/PurgeRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/PushRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Routers/RolesRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Routers/SchemasRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+src/Routers/SessionsRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/Routers/UsersRouter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/TestUtils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/authDataManager/OAuth1Client.js
+------------------------------------------
+Library: https
+Methods Called:
+   - request
+
+------------------------------------------
+src/authDataManager/facebook.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: https
+Methods Called:
+   - get
+
+------------------------------------------
+src/authDataManager/github.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: https
+Methods Called:
+   - get
+
+------------------------------------------
+src/authDataManager/google.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: https
+Methods Called:
+   - get
+
+------------------------------------------
+src/authDataManager/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/authDataManager/instagram.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: https
+Methods Called:
+   - get
+
+------------------------------------------
+src/authDataManager/linkedin.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: https
+Methods Called:
+   - get
+
+------------------------------------------
+src/authDataManager/meetup.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: https
+Methods Called:
+   - get
+
+------------------------------------------
+src/authDataManager/spotify.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: https
+Methods Called:
+   - get
+
+------------------------------------------
+src/authDataManager/twitter.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+------------------------------------------
+src/batch.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+------------------------------------------
+src/cache.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/cli/cli-definitions.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 35: Unexpected token
+------------------------------------------
+src/cli/parse-server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/cli/utils/commander.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/cloud-code/HTTPResponse.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/cloud-code/Parse.Cloud.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/cloud-code/Parse.Hooks.js
+------------------------------------------
+Library: parse/node
+Methods Called:
+   - Parse
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/cloud-code/httpRequest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/cryptoUtils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+src/deprecated.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/logger.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/middlewares.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/password.js
+------------------------------------------
+Library: bcrypt-nodejs
+Methods Called:
+   - hash
+   - compare
+
+------------------------------------------
+src/pushStatusHandler.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/requiredParameter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/rest.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 11: Unexpected token
+------------------------------------------
+src/testing-routes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/triggers.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/vendor/mongodbUrl.js
+------------------------------------------
+Library: punycode
+Methods Called:
+   - toASCII
+
+Library: querystring
+Methods Called:
+   - parse
+   - stringify
+
+
+All of the Methods:
+{
+  "parse-server-fs-adapter": {
+    "default": true
+  },
+  "parse-server-s3-adapter": {
+    "default": true
+  },
+  "parse-server-push-adapter": {
+    "default": true
+  },
+  "path": {
+    "resolve": true
+  },
+  "parse/node": {
+    "Cloud": true,
+    "Object": true,
+    "Query": true,
+    "Error": true,
+    "applicationId": true,
+    "masterKey": true,
+    "javascriptKey": true,
+    "User": true,
+    "Promise": true,
+    "Parse": true,
+    "ACL": true,
+    "_request": true,
+    "initialize": true,
+    "File": true,
+    "GeoPoint": true,
+    "serverURL": true
+  },
+  "request": {
+    "object": true,
+    "params": true,
+    "user": true,
+    "get": true,
+    "headers": true,
+    "post": true,
+    "put": true,
+    "del": true,
+    "main_method*": true
+  },
+  "request-promise": {
+    "main_method*": true
+  },
+  "mongodb": {
+    "MongoClient": true,
+    "GridStore": true,
+    "Long": true,
+    "Double": true
+  },
+  "../src/cloud-code/httpRequest": {
+    "main_method*": true,
+    "encodeBody": true
+  },
+  "deep-diff": {
+    "main_method*": true
+  },
+  "express": {
+    "main_method*": true
+  },
+  "body-parser": {
+    "json": true
+  },
+  "../src/LiveQuery/Client": {
+    "Client": true
+  },
+  "events": {
+    "main_method*": true
+  },
+  "redis": {
+    "createClient": true
+  },
+  "querystring": {
+    "stringify": true,
+    "parse": true
+  },
+  "https": {
+    "request": true,
+    "get": true
+  },
+  "bcrypt-nodejs": {
+    "hash": true,
+    "compare": true
+  },
+  "punycode": {
+    "toASCII": true
+  }
+}

@@ -1,0 +1,6 @@
+c245ca659ee1699b9cbbf85ab048622abc84ecbf
+spec/scripts/jquery.js
+spec/scripts/sammy.js
+xpath/util.js
+xpath/xmltoken.js
+xpath/xpath.js

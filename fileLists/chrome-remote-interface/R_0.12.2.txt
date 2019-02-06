@@ -1,0 +1,11 @@
+7fb3bbf5d49e180e4eb377637ee8372ae6709a74
+bin/repl.js
+index.js
+lib/chrome.js
+lib/defaults.js
+lib/devtools.js
+test/close.js
+test/connect.js
+test/devtools.js
+test/event.js
+test/send.js

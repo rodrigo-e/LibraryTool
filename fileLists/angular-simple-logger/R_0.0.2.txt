@@ -1,0 +1,5 @@
+5b42df6e7a4ec74cddf0b51ac6356cc7323ed9ab
+dist/angular-simple-logger.js
+dist/angular-simple-logger.min.js
+dist/index.js
+package.js

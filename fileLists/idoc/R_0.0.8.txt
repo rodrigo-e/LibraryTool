@@ -1,0 +1,13 @@
+607af269aae886e4b4745665ff2375d8df3fbcb5
+.bin/idoc.js
+index.js
+lib/build.js
+lib/clean.js
+lib/copy.js
+lib/file.js
+lib/init.js
+lib/nav.js
+lib/server.js
+lib/stylus.js
+lib/toc.js
+lib/watch.js

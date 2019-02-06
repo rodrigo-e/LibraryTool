@@ -1,0 +1,11 @@
+9eb7dd09b2d104f196b9e22a40ec948c8f170649
+lib/extract.js
+lib/extractors/doc.js
+lib/extractors/docx.js
+lib/extractors/pdf.js
+lib/extractors/text.js
+lib/index.js
+test/common.js
+test/extract_test.js
+test/files/js.js
+test/general_test.js

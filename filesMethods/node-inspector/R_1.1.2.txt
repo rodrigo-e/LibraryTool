@@ -1,0 +1,2350 @@
+------------------------------------------
+bin/inspector.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/node-debug.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+bin/run-repl.js
+------------------------------------------
+Library: module
+Methods Called:
+   - _load
+
+Library: path
+Methods Called:
+   - join
+   - basename
+
+Library: repl
+Methods Called:
+   - start
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+front-end-node/NodeInspectorOverrides.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end-node/console/ConsoleExtentions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end-node/main/MainOverrides.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end-node/network/NetworkPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end-node/profiler/SaveOverrides.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end-node/settings/SettingsScreenOverrides.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end-node/sources/SourcesOverrides.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/Runtime.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/UglifyJS/parse-js.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditCategories.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditCategory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditExtensionCategory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditFormatters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditLauncherView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditResultView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditRules.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/audits/AuditsPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/BreakpointManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/CSSWorkspaceBinding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/CompilerScriptMapping.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/ContentProviderBasedProjectDelegate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/ContentScriptProjectDecorator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/DebuggerWorkspaceBinding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/DefaultScriptMapping.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/FileUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/Linkifier.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/LiveLocation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/NetworkUISourceCodeProvider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/NetworkWorkspaceBinding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/PresentationConsoleMessageHelper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/ResourceScriptMapping.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/ResourceUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/SASSSourceMapping.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/ScriptSnippetModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/StylesSourceMapping.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/TempFile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/bindings/WorkspaceController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/clike.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/closebrackets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/codemirror.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/coffeescript.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/comment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/css.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/headlesscodemirror.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/htmlembedded.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/htmlmixed.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/javascript.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/markselection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/matchbrackets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/overlay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/php.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/python.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/shell.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/cm/xml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Color.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Console.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/ContentProvider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Geometry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Lock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/ModuleExtensionInterfaces.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/NotificationService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Object.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/ParsedURL.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Progress.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/ResourceType.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Settings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/StaticContentProvider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/TextRange.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/TextUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/Throttler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/UIString.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/WebInspector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/common/WorkerRuntime.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/CookiesTable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/DOMBreakpointsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/DOMPresentationUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/DockController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/Drawer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/ExecutionContextSelector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/HandlerRegistry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/InspectElementModeController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/InspectorView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/NativeBreakpointsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/ObjectPopoverHelper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/ObjectPropertiesSection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/ShortcutsScreen.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/components/TargetsComboBoxController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/console/ConsolePanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/console/ConsoleView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/console/ConsoleViewMessage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/devices/DevicesView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/devtools.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/devtools_app/DevToolsAPI.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/devtools_app/DevToolsApp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/devtools_app/InspectorFrontendHostImpl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/devtools_app/UITests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/documentation/DocumentationCatalog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/documentation/DocumentationView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/documentation/JSArticle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/documentation/WikiParser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/AnimationsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/ElementsBreadcrumbs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/ElementsPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/ElementsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/ElementsTreeOutline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/EventListenersSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/MetricsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/PlatformFontsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/PropertiesSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/Spectrum.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/StylesSectionModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/elements/StylesSidebarPane.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 168: Unexpected token ILLEGAL
+------------------------------------------
+front-end/extensions/ExtensionAPI.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/extensions/ExtensionAuditCategory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/extensions/ExtensionPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/extensions/ExtensionRegistryStub.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/extensions/ExtensionServer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/extensions/ExtensionView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/externs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/heap_snapshot_worker/AllocationProfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/heap_snapshot_worker/HeapSnapshot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/heap_snapshot_worker/HeapSnapshotLoader.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/heap_snapshot_worker/HeapSnapshotWorker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/heap_snapshot_worker/HeapSnapshotWorkerDispatcher.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/heap_snapshot_worker/JSHeapSnapshot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/host/InspectorFrontendHost.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/host/Platform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/host/UserMetrics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/inspector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/layers/LayerPaintProfilerView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/layers/LayersPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/AdvancedApp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/App.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/HelpScreenUntilReload.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/Main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/OverridesView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/RenderingOptions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/ScreencastApp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/SimpleApp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/TestController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/main/Tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/FilterSuggestionBuilder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/HARWriter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/NetworkDataGridNode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/NetworkItemView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/NetworkLogView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/NetworkPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/NetworkTimeCalculator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestCookiesView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestHTMLView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestHeadersView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestJSONView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestPreviewView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestResponseView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestTimingView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/RequestView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/network/ResourceWebSocketFrameView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/platform/DOMExtension.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/platform/Promise.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/platform/utilities.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/CPUProfileBottomUpDataGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/CPUProfileDataGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/CPUProfileFlameChart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/CPUProfileTopDownDataGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/CPUProfileView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/CanvasProfileView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/CanvasReplayStateView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/HeapSnapshotCommon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/HeapSnapshotDataGrids.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/HeapSnapshotGridNodes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/HeapSnapshotProxy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/HeapSnapshotView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/ProfileLauncherView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/ProfileTypeRegistry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/profiler/ProfilesPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/promises/PromisePane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/ApplicationCacheItemsView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/CookieItemsView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/DOMStorageItemsView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/DatabaseQueryView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/DatabaseTableView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/DirectoryContentView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/FileContentView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/FileSystemView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/IndexedDBViews.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/resources/ResourcesPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/screencast/ScreencastView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/script_formatter_worker/CSSFormatter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/script_formatter_worker/JavaScriptFormatter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/script_formatter_worker/ScriptFormatterWorker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/AnimationModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/ApplicationCacheModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/BlackboxSupport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/CPUProfileDataModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/CPUProfilerModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/CSSMetadata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/CSSParser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/CSSStyleModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/ConsoleModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/ContentProviders.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/CookieParser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/DOMModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/DOMStorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/Database.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/DebuggerModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/FileSystemModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/HAREntry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/HeapProfilerModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/IndexedDBModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/InspectorBackend.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/LayerTreeModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/NetworkLog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/NetworkManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/NetworkRequest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/OverridesSupport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/PaintProfiler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/PowerProfiler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/RemoteObject.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/Resource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/ResourceTreeModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/RuntimeModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/Script.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/SnippetStorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/SourceMap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/Target.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/TracingManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/WorkerManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sdk/WorkerTargetManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/settings/EditFileSystemDialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/settings/FrameworkBlackboxDialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/settings/SettingsScreen.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/source_frame/CodeMirrorTextEditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/source_frame/CodeMirrorUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/source_frame/FontView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/source_frame/GoToLineDialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/source_frame/ImageView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/source_frame/ResourceSourceFrame.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/source_frame/SourceFrame.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/AddSourceMapURLDialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/AdvancedSearchView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/BreakpointsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/CSSSourceFrame.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/CallStackSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/EditingLocationHistoryManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/FileBasedSearchResultsPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/FilePathScoreFunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/FilteredItemSelectionDialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/InplaceFormatterEditorAction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/JavaScriptSourceFrame.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/NavigatorView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/Placard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/RevisionHistoryView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/ScopeChainSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/ScriptFormatter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/ScriptFormatterEditorAction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/SimpleHistoryManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/SourcesNavigator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/SourcesPanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/SourcesSearchScope.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/SourcesView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/StyleSheetOutlineDialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/TabbedEditorContainer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/ThreadsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/UISourceCodeFrame.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/WatchExpressionsSidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/WorkspaceMappingTip.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/sources/jsdifflib.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/temp_storage_shared_worker/TempStorageSharedWorker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/CountersGraph.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/LayerDetailsView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/LayerTreeOutline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/Layers3DView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/MemoryCountersGraph.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/PaintProfilerView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineEventOverview.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineFlameChart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineFrameModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineFrameOverview.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineJSProfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineLayersView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineMemoryOverview.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineOverviewPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelinePaintProfilerView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelinePanel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelinePowerGraph.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelinePowerOverview.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelinePresentationModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineUIUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TimelineView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TracingModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/timeline/TransformController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/toolbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/toolbox/InspectedPagePlaceholder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/toolbox/MediaQueryInspector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/toolbox/OverridesUI.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/toolbox/ResponsiveDesignView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/toolbox_bootstrap/Toolbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/treeoutline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ActionRegistry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/CompletionDictionary.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/Context.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ContextMenu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/DOMSyntaxHighlighter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/DataGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/Dialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/DropDownMenu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/EmptyView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/FilterBar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/FlameChart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ForwardedInputEventHandler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/HelpScreen.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/InplaceEditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/KeyboardShortcut.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/OverviewGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/Panel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/PieChart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/Popover.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ProgressIndicator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ResizerWidget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/RootView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SearchableView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/Section.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SettingsUI.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ShortcutRegistry.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ShowMoreDataGridNode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SidebarPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SidebarTreeElement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SoftContextMenu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SortableDataGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SplitView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/StackView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/StatusBar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/SuggestBox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/TabbedPane.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/TextEditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/TextPrompt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/TimelineGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/UIUtils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/View.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ViewportControl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ViewportDataGrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/ZoomManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/ui/treeoutline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/FileManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/FileSystemMapping.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/FileSystemWorkspaceBinding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/IsolatedFileSystem.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/IsolatedFileSystemManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/SearchConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/UISourceCode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front-end/workspace/Workspace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: url
+Methods Called:
+   - format
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+lib/BreakEventHandler.js
+------------------------------------------
+Library: ./convert
+Methods Called:
+   - v8RefToInspectorObject
+
+------------------------------------------
+lib/CallFramesProvider.js
+------------------------------------------
+Library: async
+Methods Called:
+   - map
+
+------------------------------------------
+lib/ConsoleAgent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/ConsoleClient.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/DebuggerAgent.js
+------------------------------------------
+Library: ./convert.js
+Methods Called:
+   - inspectorScriptIdToV8Id
+   - inspectorUrlToV8Name
+   - v8LocationToInspectorLocation
+   - v8ErrorToInspectorError
+   - v8ResultToInspectorResult
+   - v8FunctionLookupToFunctionDetails
+   - inspectorValueToV8Value
+
+------------------------------------------
+lib/DebuggerClient.js
+------------------------------------------
+Library: util
+Methods Called:
+   - _extend
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+lib/FrontendClient.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+lib/FrontendCommandHandler.js
+------------------------------------------
+Library: debug
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/HeapProfilerAgent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/HeapProfilerClient.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Injections/ConsoleAgent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Injections/HeapProfilerAgent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Injections/NetworkAgent.js
+------------------------------------------
+Library: http
+Methods Called:
+   - Agent
+   - ClientRequest
+   - request
+   - get
+   - STATUS_CODES
+
+------------------------------------------
+lib/Injections/ProfilerAgent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/InjectorClient.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+lib/InjectorServer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/NetworkAgent.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: path
+Methods Called:
+   - sep
+   - normalize
+
+Library: strong-data-uri
+Methods Called:
+   - decode
+
+------------------------------------------
+lib/PageAgent.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - readdir
+
+------------------------------------------
+lib/ProfilerAgent.js
+------------------------------------------
+Library: semver
+Methods Called:
+   - satisfies
+
+------------------------------------------
+lib/RuntimeAgent.js
+------------------------------------------
+Library: ./convert.js
+Methods Called:
+   - v8ErrorToInspectorError
+   - v8ResultToInspectorResult
+   - v8ObjectToInspectorProperties
+
+------------------------------------------
+lib/ScriptFileStorage.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+   - writeFile
+   - realpath
+   - exists
+   - readdir
+   - stat
+
+Library: path
+Methods Called:
+   - dirname
+   - join
+   - sep
+   - relative
+
+Library: async
+Methods Called:
+   - waterfall
+   - detect
+   - series
+   - each
+
+Library: debug
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/ScriptManager.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+lib/callback.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/config.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - realpathSync
+   - existsSync
+
+------------------------------------------
+lib/convert.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/debug-server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/debugger.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createConnection
+
+------------------------------------------
+lib/plugins.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+   - readFileSync
+
+------------------------------------------
+lib/session.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+test/CallFramesProvider.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/ConsoleAgent.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/DebuggerAgent.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/DebuggerClient.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/FrontendCommandHandler.test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+test/HeapProfilerAgent.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/InjectorClient.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/NetworkAgent.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/PageAgent.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/ProfilerAgent.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/RuntimeAgent.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/ScriptFileStorage.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - readFileSync
+   - writeFileSync
+   - mkdirSync
+   - symlinkSync
+   - existsSync
+   - mkdirpSync
+   - unlinkSync
+   - lstatSync
+   - rmdirSync
+
+------------------------------------------
+test/ScriptManager.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/config.js
+------------------------------------------
+Library: util
+Methods Called:
+   - isArray
+   - isRegExp
+
+------------------------------------------
+test/convert.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/fixtures/BreakInFunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/Commandlet.js
+------------------------------------------
+Library: http
+Methods Called:
+   - request
+   - createServer
+
+------------------------------------------
+test/fixtures/InspectObject.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/LiveEdit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/PeriodicConsoleLog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/helpers/SessionStub.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+test/helpers/launcher.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: promise
+Methods Called:
+   - all
+   - main_method*
+   - resolve
+
+------------------------------------------
+test/helpers/wsmock.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/node-debug.test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/plugins.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+
+All of the Methods:
+{
+  "module": {
+    "_load": true
+  },
+  "path": {
+    "join": true,
+    "basename": true,
+    "resolve": true,
+    "sep": true,
+    "normalize": true,
+    "dirname": true,
+    "relative": true
+  },
+  "repl": {
+    "start": true
+  },
+  "util": {
+    "format": true,
+    "_extend": true,
+    "inherits": true,
+    "isArray": true,
+    "isRegExp": true
+  },
+  "url": {
+    "format": true
+  },
+  "./convert": {
+    "v8RefToInspectorObject": true
+  },
+  "async": {
+    "map": true,
+    "waterfall": true,
+    "detect": true,
+    "series": true,
+    "each": true
+  },
+  "./convert.js": {
+    "inspectorScriptIdToV8Id": true,
+    "inspectorUrlToV8Name": true,
+    "v8LocationToInspectorLocation": true,
+    "v8ErrorToInspectorError": true,
+    "v8ResultToInspectorResult": true,
+    "v8FunctionLookupToFunctionDetails": true,
+    "inspectorValueToV8Value": true,
+    "v8ObjectToInspectorProperties": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "http": {
+    "Agent": true,
+    "ClientRequest": true,
+    "request": true,
+    "get": true,
+    "STATUS_CODES": true,
+    "createServer": true
+  },
+  "fs": {
+    "readFile": true,
+    "stat": true,
+    "readdir": true,
+    "writeFile": true,
+    "realpath": true,
+    "exists": true,
+    "realpathSync": true,
+    "existsSync": true,
+    "readdirSync": true,
+    "readFileSync": true
+  },
+  "strong-data-uri": {
+    "decode": true
+  },
+  "semver": {
+    "satisfies": true
+  },
+  "net": {
+    "createConnection": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "fs-extra": {
+    "readFileSync": true,
+    "writeFileSync": true,
+    "mkdirSync": true,
+    "symlinkSync": true,
+    "existsSync": true,
+    "mkdirpSync": true,
+    "unlinkSync": true,
+    "lstatSync": true,
+    "rmdirSync": true
+  },
+  "child_process": {
+    "spawn": true
+  },
+  "promise": {
+    "all": true,
+    "main_method*": true,
+    "resolve": true
+  }
+}

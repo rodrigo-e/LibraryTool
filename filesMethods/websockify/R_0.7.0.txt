@@ -1,0 +1,69 @@
+------------------------------------------
+include/VT100.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/base64.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/keysym.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/web-socket-js/swfobject.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/web-socket-js/web_socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/websock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/webutil.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/wsirc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+include/wstelnet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+other/js/websockify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+tests/base64.js
+------------------------------------------
+Library: sys
+Methods Called:
+   - log
+
+
+All of the Methods:
+{
+  "sys": {
+    "log": true
+  }
+}

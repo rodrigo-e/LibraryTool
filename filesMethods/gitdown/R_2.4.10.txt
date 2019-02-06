@@ -1,0 +1,448 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - watch
+
+------------------------------------------
+src/bin/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+src/gitdown.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+   - realpathSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - dirname
+   - isAbsolute
+
+Library: bluebird
+Methods Called:
+   - resolve
+   - all
+
+Library: lodash
+Methods Called:
+   - startsWith
+   - isPlainObject
+   - isObject
+   - isBoolean
+   - defaultsDeep
+   - trim
+
+Library: marked
+Methods Called:
+   - main_method*
+
+Library: deadlink
+Methods Called:
+   - main_method*
+   - URLResolution
+
+Library: url-extractor
+Methods Called:
+   - extractUrls
+   - SOURCE_TYPE_MARKDOWN
+
+Library: markdown-contents
+Methods Called:
+   - tree
+
+Library: stack-trace
+Methods Called:
+   - get
+
+------------------------------------------
+src/helpers/badge.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: jsonfile
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+src/helpers/contents.js
+------------------------------------------
+Library: markdown-contents
+Methods Called:
+   - main_method*
+   - tree
+   - treeToMarkdown
+
+------------------------------------------
+src/helpers/date.js
+------------------------------------------
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/helpers/deadlink.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/helpers/filesize.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - readFile
+   - stat
+
+Library: zlib
+Methods Called:
+   - gzip
+
+Library: bluebird
+Methods Called:
+   - reject
+   - main_method*
+
+Library: filesize
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/helpers/gitinfo.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isFunction
+
+Library: gitinfo
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/helpers/include.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+src/helpers/test.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - constant
+
+------------------------------------------
+src/helpers/variable.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - get
+
+------------------------------------------
+src/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/locator.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - realpathSync
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+src/parser.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+   - basename
+
+Library: lodash
+Methods Called:
+   - minBy
+   - filter
+   - isUndefined
+
+Library: bluebird
+Methods Called:
+   - try
+   - resolve
+
+Library: glob
+Methods Called:
+   - sync
+
+------------------------------------------
+tests/gitdown.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+Library: nock
+Methods Called:
+   - main_method*
+   - cleanAll
+
+Library: sinon
+Methods Called:
+   - spy
+
+------------------------------------------
+tests/helpers/badge.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/helpers/contents.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/helpers/date.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/helpers/filesize.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: chai
+Methods Called:
+   - expect
+   - use
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/helpers/gitinfo.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/helpers/include.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: path
+Methods Called:
+   - join
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/helpers/variable.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/locator.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: fs
+Methods Called:
+   - realpathSync
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/parser.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - expect
+
+Library: sinon
+Methods Called:
+   - spy
+
+Library: require-new
+Methods Called:
+   - main_method*
+
+Library: glob
+Methods Called:
+   - sync
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "watch": true
+  },
+  "fs": {
+    "writeFileSync": true,
+    "realpathSync": true,
+    "readFileSync": true,
+    "existsSync": true,
+    "readFile": true,
+    "stat": true
+  },
+  "path": {
+    "dirname": true,
+    "isAbsolute": true,
+    "resolve": true,
+    "basename": true,
+    "join": true
+  },
+  "bluebird": {
+    "resolve": true,
+    "all": true,
+    "reject": true,
+    "main_method*": true,
+    "try": true
+  },
+  "lodash": {
+    "startsWith": true,
+    "isPlainObject": true,
+    "isObject": true,
+    "isBoolean": true,
+    "defaultsDeep": true,
+    "trim": true,
+    "isFunction": true,
+    "constant": true,
+    "get": true,
+    "minBy": true,
+    "filter": true,
+    "isUndefined": true
+  },
+  "marked": {
+    "main_method*": true
+  },
+  "deadlink": {
+    "main_method*": true,
+    "URLResolution": true
+  },
+  "url-extractor": {
+    "extractUrls": true,
+    "SOURCE_TYPE_MARKDOWN": true
+  },
+  "markdown-contents": {
+    "tree": true,
+    "main_method*": true,
+    "treeToMarkdown": true
+  },
+  "stack-trace": {
+    "get": true
+  },
+  "jsonfile": {
+    "readFileSync": true
+  },
+  "moment": {
+    "main_method*": true
+  },
+  "zlib": {
+    "gzip": true
+  },
+  "filesize": {
+    "main_method*": true
+  },
+  "gitinfo": {
+    "main_method*": true
+  },
+  "glob": {
+    "sync": true
+  },
+  "chai": {
+    "expect": true,
+    "use": true
+  },
+  "require-new": {
+    "main_method*": true
+  },
+  "nock": {
+    "main_method*": true,
+    "cleanAll": true
+  },
+  "sinon": {
+    "spy": true
+  }
+}

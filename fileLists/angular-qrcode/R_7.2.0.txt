@@ -1,0 +1,2 @@
+8731cdcb938ec0b7777f3c9ee8c2473013360e9c
+angular-qrcode.js

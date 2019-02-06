@@ -1,0 +1,118 @@
+------------------------------------------
+lib/clone.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/helper.js
+------------------------------------------
+Library: q
+Methods Called:
+   - all
+   - defer
+
+Library: debug
+Methods Called:
+   - main_method*
+   - enable
+
+Library: http
+Methods Called:
+   - get
+
+Library: https
+Methods Called:
+   - get
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readFile
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: q
+Methods Called:
+   - all
+   - resolve
+
+Library: debug
+Methods Called:
+   - enable
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: marked
+Methods Called:
+   - setOptions
+   - main_method*
+
+Library: highlight.js
+Methods Called:
+   - highlight
+
+Library: js-yaml
+Methods Called:
+   - safeLoad
+
+Library: mustache
+Methods Called:
+   - render
+
+------------------------------------------
+lib/pluck.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+resources/script.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "q": {
+    "all": true,
+    "defer": true,
+    "resolve": true
+  },
+  "debug": {
+    "main_method*": true,
+    "enable": true
+  },
+  "http": {
+    "get": true
+  },
+  "https": {
+    "get": true
+  },
+  "fs": {
+    "existsSync": true,
+    "readFile": true
+  },
+  "path": {
+    "resolve": true
+  },
+  "marked": {
+    "setOptions": true,
+    "main_method*": true
+  },
+  "highlight.js": {
+    "highlight": true
+  },
+  "js-yaml": {
+    "safeLoad": true
+  },
+  "mustache": {
+    "render": true
+  }
+}

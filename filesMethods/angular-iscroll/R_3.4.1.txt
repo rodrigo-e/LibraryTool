@@ -1,0 +1,29 @@
+------------------------------------------
+dist/lib/angular-iscroll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/lib/angular-iscroll.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp-bump
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/lib/angular-iscroll.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp-bump": {
+    "main_method*": true
+  }
+}

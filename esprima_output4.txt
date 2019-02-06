@@ -1,0 +1,52 @@
+******************************************
+******************************************
+R_1.7.1.txt
+******************************************
+******************************************
+{ type: 'ExpressionStatement',
+  expression: { type: 'Literal', value: 'use strict', raw: '\'use strict\'' },
+  directive: 'use strict' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }
+{ type: 'VariableDeclaration',
+  declarations: 
+   [ { type: 'VariableDeclarator', id: [Object], init: [Object] } ],
+  kind: 'var' }

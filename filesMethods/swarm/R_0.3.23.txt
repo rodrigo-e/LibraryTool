@@ -1,0 +1,355 @@
+------------------------------------------
+lib/AsyncLoopbackConnection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/CollectionMethodsMixin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/EinarosWSStream.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/FileStorage.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - writeFile
+   - readFile
+   - rename
+   - createWriteStream
+   - readFileSync
+
+Library: path
+Methods Called:
+   - resolve
+   - dirname
+
+------------------------------------------
+lib/Host.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Html5Client.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/IdArray.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/LamportClock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/LevelStorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/LongSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/MinutePreciseClock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Model.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/NodeServer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Pipe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/PostMessageStream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/ProxyListener.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/ReactMixin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RedisStorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/SecondPreciseClock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/SharedWebStorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/SockJSServerStream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/SockJSStream.js
+------------------------------------------
+Library: sockjs-client
+Methods Called:
+   - main_method*
+
+Library: swarm
+Methods Called:
+   - env
+
+------------------------------------------
+lib/Spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Storage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Syncable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Text.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Vector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/WebSocketStream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/ce.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/env.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/swarm3-murmur.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/01_Spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/02_EventRelay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/03_OnOff.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/04_Text.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/05_LongSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/06_Handshakes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/07_Vector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/08_FileStorage.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - mkdirSync
+   - readFileSync
+
+------------------------------------------
+test/09_LevelStorage.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - mkdirSync
+
+------------------------------------------
+test/0A_IdArray.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/5_TicTacToe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/Tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/filestoragetest.js
+------------------------------------------
+Library: nopt
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/mice-stress.js
+------------------------------------------
+Library: nopt
+Methods Called:
+   - main_method*
+
+Library: cluster
+Methods Called:
+   - workers
+   - isMaster
+   - fork
+
+------------------------------------------
+test/model/Mice.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/model/Mouse.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/runner.js
+------------------------------------------
+Library: qunit
+Methods Called:
+   - setup
+   - run
+
+------------------------------------------
+test/test-storage.js
+------------------------------------------
+Library: minimist
+Methods Called:
+   - swarmDebug
+   - debug
+   - clientsCount
+   - frequency
+   - miceId
+   - operationsCount
+   - storageKind
+
+Library: async
+Methods Called:
+   - auto
+   - apply
+   - parallel
+
+
+All of the Methods:
+{
+  "ws": {
+    "main_method*": true
+  },
+  "fs": {
+    "existsSync": true,
+    "mkdirSync": true,
+    "writeFile": true,
+    "readFile": true,
+    "rename": true,
+    "createWriteStream": true,
+    "readFileSync": true
+  },
+  "path": {
+    "resolve": true,
+    "dirname": true
+  },
+  "sockjs-client": {
+    "main_method*": true
+  },
+  "swarm": {
+    "env": true
+  },
+  "nopt": {
+    "main_method*": true
+  },
+  "cluster": {
+    "workers": true,
+    "isMaster": true,
+    "fork": true
+  },
+  "qunit": {
+    "setup": true,
+    "run": true
+  },
+  "minimist": {
+    "swarmDebug": true,
+    "debug": true,
+    "clientsCount": true,
+    "frequency": true,
+    "miceId": true,
+    "operationsCount": true,
+    "storageKind": true
+  },
+  "async": {
+    "auto": true,
+    "apply": true,
+    "parallel": true
+  }
+}

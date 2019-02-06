@@ -1,0 +1,993 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/angular-mocks/angular-mocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/angular-mocks/ngAnimateMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/angular-mocks/ngMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/angular-mocks/ngMockE2E.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/angular/angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/angular/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/angular/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/animate.css/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine-sinon/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine-sinon/lib/jasmine-sinon.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - match
+
+------------------------------------------
+bower_components/jasmine-sinon/spec/existing-method-spy-matchers.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - spy
+
+------------------------------------------
+bower_components/jasmine-sinon/spec/individual-spy-calls.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - spy
+
+------------------------------------------
+bower_components/jasmine-sinon/spec/jasmine-matchers-compatibility.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - spy
+
+------------------------------------------
+bower_components/jasmine-sinon/spec/overwritten-jasmine-matchers.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine-sinon/spec/spy-matchers.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - spy
+
+------------------------------------------
+bower_components/jasmine-sinon/spec/test-stubs.spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+bower_components/jasmine/jsdoc-template/publish.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/jshint/jshint.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/jshint/run.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+   - statSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+bower_components/jasmine/lib/jasmine-core/example/spec/PlayerSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/lib/jasmine-core/example/spec/SpecHelper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/lib/jasmine-core/example/src/Player.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/lib/jasmine-core/example/src/Song.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/lib/jasmine-core/jasmine-html.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/lib/jasmine-core/jasmine.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/lib/jasmine-core/json2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/console/ConsoleReporterSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/BaseSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/CustomMatchersSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/EnvSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/ExceptionsSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/JsApiReporterSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/MatchersSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/MockClockSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/MultiReporterSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/NestedResultsSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/PrettyPrintSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/QueueSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/ReporterSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/RunnerSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/SpecRunningSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/SpecSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/SpySpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/SuiteSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/UtilSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/core/WaitsForBlockSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/html/HTMLReporterSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/html/MatchersHtmlSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/html/PrettyPrintHtmlSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/html/TrivialReporterSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/spec/node_suite.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+   - readdirSync
+   - readFileSync
+
+Library: util
+Methods Called:
+   - print
+
+------------------------------------------
+bower_components/jasmine/src/console/ConsoleReporter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Block.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Env.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/JsApiReporter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Matchers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/MultiReporter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/NestedResults.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/PrettyPrinter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Queue.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Reporter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Runner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/Suite.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/WaitsBlock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/WaitsForBlock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/base.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/mock-timeout.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/core/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/html/HtmlReporter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/html/HtmlReporterHelpers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/html/ReporterView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/html/SpecView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/html/SuiteView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/html/TrivialReporter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/jasmine/src/version.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/assert.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/behavior.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/call.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/collection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/extend.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/format.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+
+------------------------------------------
+bower_components/sinon/lib/sinon/log_error.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/match.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/mock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/sandbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/spy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/stub.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/test_case.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/times_in_words.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/typeOf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/core.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/event.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/fake_server.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/fake_server_with_clock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/fake_timers.js
+------------------------------------------
+Library: ./core
+Methods Called:
+   - useFakeTimers
+   - clock
+   - timers
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/fake_xdomain_request.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/fake_xml_http_request.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/timers_ie.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/xdr_ie.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/lib/sinon/util/xhr_ie.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/test/assert-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/buster-packaged.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/test/buster.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/sinon/test/call-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/collection-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/extend-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/format-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/hello-world-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/issues/issues-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/log-error-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/match-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/mock-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+   - referee
+
+------------------------------------------
+bower_components/sinon/test/sandbox-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - referee
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/sinon-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/spy-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+   - referee
+
+------------------------------------------
+bower_components/sinon/test/stub-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+   - referee
+
+------------------------------------------
+bower_components/sinon/test/test-case-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/test-helper.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - referee
+
+------------------------------------------
+bower_components/sinon/test/test-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/times-in-words-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/typeOf-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/util/event-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/util/fake-server-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/util/fake-server-with-clock-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/util/fake-timers-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/util/fake-xdomain-request-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinon/test/util/fake-xml-http-request-test.js
+------------------------------------------
+Library: buster
+Methods Called:
+   - assert
+   - refute
+   - testCase
+
+------------------------------------------
+bower_components/sinonjs/sinon.js
+------------------------------------------
+Library: ./sinon/util/core
+Methods Called:
+   - wrapMethod
+   - getPropertyDescriptor
+   - objectKeys
+   - create
+   - deepEqual
+   - match
+   - functionName
+   - functionToString
+   - getConfig
+   - defaultConfig
+   - timesInWords
+   - calledInOrder
+   - orderByFirstCall
+   - createStubInstance
+   - stub
+   - restore
+   - extend
+   - typeOf
+   - format
+   - spyCall
+   - spy
+   - behavior
+   - expectation
+   - assert
+   - mock
+   - collection
+   - useFakeTimers
+   - clock
+   - timers
+   - Event
+   - ProgressEvent
+   - CustomEvent
+   - EventTarget
+   - log
+   - logError
+   - xdr
+   - FakeXDomainRequest
+   - useFakeXDomainRequest
+   - xhr
+   - useFakeXMLHttpRequest
+   - FakeXMLHttpRequest
+   - fakeServer
+   - fakeServerWithClock
+   - sandbox
+   - config
+   - test
+   - testCase
+
+------------------------------------------
+bower_components/underscore/underscore-min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bower_components/underscore/underscore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-scroll-animate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/js/angular-bootstrap-prettify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/js/angular-bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/js/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/js/docs-setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/js/docs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/js/google-code-prettify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/js/marked.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/example-controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/angular-scroll-animate.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "sinon": {
+    "match": true,
+    "spy": true,
+    "stub": true
+  },
+  "fs": {
+    "readdirSync": true,
+    "statSync": true,
+    "readFileSync": true
+  },
+  "path": {
+    "basename": true
+  },
+  "util": {
+    "print": true,
+    "inspect": true
+  },
+  "./core": {
+    "useFakeTimers": true,
+    "clock": true,
+    "timers": true
+  },
+  "buster": {
+    "assert": true,
+    "refute": true,
+    "testCase": true,
+    "referee": true
+  },
+  "./sinon/util/core": {
+    "wrapMethod": true,
+    "getPropertyDescriptor": true,
+    "objectKeys": true,
+    "create": true,
+    "deepEqual": true,
+    "match": true,
+    "functionName": true,
+    "functionToString": true,
+    "getConfig": true,
+    "defaultConfig": true,
+    "timesInWords": true,
+    "calledInOrder": true,
+    "orderByFirstCall": true,
+    "createStubInstance": true,
+    "stub": true,
+    "restore": true,
+    "extend": true,
+    "typeOf": true,
+    "format": true,
+    "spyCall": true,
+    "spy": true,
+    "behavior": true,
+    "expectation": true,
+    "assert": true,
+    "mock": true,
+    "collection": true,
+    "useFakeTimers": true,
+    "clock": true,
+    "timers": true,
+    "Event": true,
+    "ProgressEvent": true,
+    "CustomEvent": true,
+    "EventTarget": true,
+    "log": true,
+    "logError": true,
+    "xdr": true,
+    "FakeXDomainRequest": true,
+    "useFakeXDomainRequest": true,
+    "xhr": true,
+    "useFakeXMLHttpRequest": true,
+    "FakeXMLHttpRequest": true,
+    "fakeServer": true,
+    "fakeServerWithClock": true,
+    "sandbox": true,
+    "config": true,
+    "test": true,
+    "testCase": true
+  }
+}

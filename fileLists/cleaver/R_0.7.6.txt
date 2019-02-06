@@ -1,0 +1,6 @@
+1cb2df34be4f8171aafdd8517f27d59fe881ea3e
+lib/clone.js
+lib/helper.js
+lib/index.js
+lib/pluck.js
+resources/script.js

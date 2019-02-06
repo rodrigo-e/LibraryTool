@@ -1,0 +1,210 @@
+------------------------------------------
+lib/cli.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+lib/extract.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+
+------------------------------------------
+lib/extractors/doc-osx.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+lib/extractors/doc.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+lib/extractors/docx.js
+------------------------------------------
+Library: xpath
+Methods Called:
+   - select
+
+------------------------------------------
+lib/extractors/dxf.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+lib/extractors/html.js
+------------------------------------------
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+lib/extractors/images.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+lib/extractors/md.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+lib/extractors/odt.js
+------------------------------------------
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+lib/extractors/pdf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+lib/extractors/ppt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/extractors/pptx.js
+------------------------------------------
+Library: xpath
+Methods Called:
+   - select
+
+------------------------------------------
+lib/extractors/rtf.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+lib/extractors/text.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+lib/extractors/xls.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - exists
+   - open
+   - write
+   - close
+   - createWriteStream
+
+------------------------------------------
+lib/util.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+test/buffer_test.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/cli_test.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+test/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/extract_test.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/files/js.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/general_test.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/invalid_calls_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/url_test.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+
+All of the Methods:
+{
+  "path": {
+    "resolve": true,
+    "basename": true,
+    "join": true
+  },
+  "fs": {
+    "readdirSync": true,
+    "readFile": true,
+    "exists": true,
+    "open": true,
+    "write": true,
+    "close": true,
+    "createWriteStream": true,
+    "readFileSync": true
+  },
+  "child_process": {
+    "spawn": true,
+    "exec": true
+  },
+  "xpath": {
+    "select": true
+  },
+  "cheerio": {
+    "load": true
+  },
+  "url": {
+    "parse": true
+  }
+}

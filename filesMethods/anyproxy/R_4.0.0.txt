@@ -1,0 +1,867 @@
+------------------------------------------
+build_scripts/prebuild-doc.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - readFile
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+docs-src/assets/auto-lang.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs-src/assets/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/assets/auto-lang.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/assets/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook-plugin-lunr/lunr.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook-plugin-lunr/search-lunr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook-plugin-search/lunr.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook-plugin-search/search-engine.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook-plugin-search/search.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook-plugin-sharing/buttons.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/gitbook.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+docs/gitbook/theme.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/certMgr.js
+------------------------------------------
+Library: node-easy-cert
+Methods Called:
+   - main_method*
+
+Library: co
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/configUtil.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/httpsServerMgr.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/log.js
+------------------------------------------
+Library: colorful
+Methods Called:
+   - cyan
+   - red
+   - magenta
+
+------------------------------------------
+lib/recorder.js
+------------------------------------------
+Library: nedb
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/requestErrorHandler.js
+------------------------------------------
+Library: pug
+Methods Called:
+   - compileFile
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/requestHandler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/ruleLoader.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - resolve
+
+Library: fs
+Methods Called:
+   - writeFileSync
+   - existsSync
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/rule_default.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/systemProxyMgr.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - execSync
+
+------------------------------------------
+lib/util.js
+------------------------------------------
+Library: os
+Methods Called:
+   - networkInterfaces
+
+Library: net
+Methods Called:
+   - createServer
+
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - readdir
+   - lstatSync
+   - statSync
+   - readdirSync
+   - unlinkSync
+   - rmdirSync
+
+------------------------------------------
+lib/webInterface.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+------------------------------------------
+lib/wsServer.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - Server
+
+------------------------------------------
+module_sample/core_reload.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+module_sample/https_config.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: path
+Methods Called:
+   - dirname
+
+------------------------------------------
+module_sample/normal_use.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+module_sample/simple_use.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+proxy.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+rule_sample/sample_modify_request_data.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rule_sample/sample_modify_request_header.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rule_sample/sample_modify_request_path.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rule_sample/sample_modify_request_protocol.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rule_sample/sample_modify_response_data.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rule_sample/sample_modify_response_header.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rule_sample/sample_modify_response_statuscode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+rule_sample/sample_use_local_response.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test.js
+------------------------------------------
+Library: jasmine
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/data/headers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/data/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/large_post.js
+------------------------------------------
+Library: proxy-eval
+Methods Called:
+   - test
+
+------------------------------------------
+test/server/server.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - Server
+
+Library: koa
+Methods Called:
+   - main_method*
+
+Library: koa-router
+Methods Called:
+   - main_method*
+
+Library: koa-body
+Methods Called:
+   - main_method*
+
+Library: koa-send
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+   - dirname
+   - join
+
+Library: https
+Methods Called:
+   - createServer
+
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+
+Library: url
+Methods Called:
+   - parse
+
+Library: koa-websocket
+Methods Called:
+   - main_method*
+
+Library: colorful
+Methods Called:
+   - cyan
+
+Library: tls
+Methods Called:
+   - createSecureContext
+
+Library: crypto
+Methods Called:
+   - createSecureContext
+
+------------------------------------------
+test/server/startServer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_lib/proxyServerModule.js
+------------------------------------------
+Library: ip
+Methods Called:
+   - address
+
+------------------------------------------
+test/spec_lib/ruleLoader.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/spec_lib/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_outweb/test_realweb_spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFile
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/spec_rule/no_rule_big_response_spec.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+test/spec_rule/no_rule_spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: stream-equal
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/spec_rule/no_rule_websocket_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_replace_request_data.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_replace_request_option.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_replace_request_protocol.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_replace_response_data.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_replace_response_header.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_replace_response_status_code.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_should_intercept_https_req.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule/rule_should_use_local_response.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_deal_error_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_replace_request_data_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_replace_request_option_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_replace_request_protocol_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_replace_response_data_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_replace_response_header_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_replace_response_status_code_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_should_intercept_https_req_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec_rule/rule_should_use_local_response_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/util/CommonUtil.js
+------------------------------------------
+Library: colorful
+Methods Called:
+   - blue
+   - magenta
+   - red
+   - yellow
+
+Library: node-simhash
+Methods Called:
+   - compare
+
+------------------------------------------
+test/util/HttpUtil.js
+------------------------------------------
+Library: request
+Methods Called:
+   - undefined
+   - main_method*
+
+Library: fs
+Methods Called:
+   - existsSync
+   - createReadStream
+
+Library: ws
+Methods Called:
+   - main_method*
+
+Library: https-proxy-agent
+Methods Called:
+   - main_method*
+
+Library: stream
+Methods Called:
+   - Readable
+
+Library: phantom
+Methods Called:
+   - create
+
+------------------------------------------
+test/util/ProxyServerUtil.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/util/SimHash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/src/action/globalStatusAction.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+web/src/action/recordAction.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+web/src/common/ApiUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+web/src/common/Constant.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/src/common/WsUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/common/commonUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected token
+------------------------------------------
+web/src/common/curlUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+web/src/common/promiseUtil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/download-root-ca.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/component/header-menu.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/json-viewer.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/left-menu.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/map-local.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/component/modal-panel.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/record-detail.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/component/record-filter.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/component/record-list-diff-worker.jsx
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/src/component/record-panel.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/record-request-detail.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/component/record-response-detail.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/component/record-row.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/record-worker.jsx
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/src/component/resizable-panel.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/table-panel.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+web/src/component/title-bar.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/component/ws-listener.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/index.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+web/src/reducer/globalStatusReducer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token
+------------------------------------------
+web/src/reducer/requestRecordReducer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+web/src/reducer/rootReducer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+web/src/saga/rootSaga.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+web/webpack.config.js
+------------------------------------------
+Library: webpack
+Methods Called:
+   - DefinePlugin
+
+Library: path
+Methods Called:
+   - join
+
+Library: extract-text-webpack-plugin
+Methods Called:
+   - main_method*
+   - extract
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFileSync": true,
+    "readFile": true,
+    "writeFileSync": true,
+    "existsSync": true,
+    "mkdirSync": true,
+    "readdir": true,
+    "lstatSync": true,
+    "statSync": true,
+    "readdirSync": true,
+    "unlinkSync": true,
+    "rmdirSync": true,
+    "writeFile": true,
+    "createReadStream": true
+  },
+  "path": {
+    "join": true,
+    "resolve": true,
+    "dirname": true
+  },
+  "node-easy-cert": {
+    "main_method*": true
+  },
+  "co": {
+    "main_method*": true
+  },
+  "async": {
+    "series": true
+  },
+  "colorful": {
+    "cyan": true,
+    "red": true,
+    "magenta": true,
+    "blue": true,
+    "yellow": true
+  },
+  "nedb": {
+    "main_method*": true
+  },
+  "pug": {
+    "compileFile": true
+  },
+  "request": {
+    "main_method*": true,
+    "undefined": true
+  },
+  "child_process": {
+    "execSync": true,
+    "exec": true,
+    "spawn": true
+  },
+  "os": {
+    "networkInterfaces": true
+  },
+  "net": {
+    "createServer": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true
+  },
+  "ws": {
+    "Server": true,
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "jasmine": {
+    "main_method*": true
+  },
+  "proxy-eval": {
+    "test": true
+  },
+  "koa": {
+    "main_method*": true
+  },
+  "koa-router": {
+    "main_method*": true
+  },
+  "koa-body": {
+    "main_method*": true
+  },
+  "koa-send": {
+    "main_method*": true
+  },
+  "https": {
+    "createServer": true
+  },
+  "url": {
+    "parse": true
+  },
+  "koa-websocket": {
+    "main_method*": true
+  },
+  "tls": {
+    "createSecureContext": true
+  },
+  "crypto": {
+    "createSecureContext": true
+  },
+  "ip": {
+    "address": true
+  },
+  "stream-equal": {
+    "main_method*": true
+  },
+  "node-simhash": {
+    "compare": true
+  },
+  "https-proxy-agent": {
+    "main_method*": true
+  },
+  "stream": {
+    "Readable": true
+  },
+  "phantom": {
+    "create": true
+  },
+  "webpack": {
+    "DefinePlugin": true
+  },
+  "extract-text-webpack-plugin": {
+    "main_method*": true,
+    "extract": true
+  }
+}

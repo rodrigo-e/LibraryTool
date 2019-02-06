@@ -1,0 +1,2 @@
+34b8ca7091fe4f401bb393f2f36fe0ffaabf7dfc
+angular-azure-mobile-service.js

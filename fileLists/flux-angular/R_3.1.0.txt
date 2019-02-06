@@ -1,0 +1,6 @@
+aa95688f2b0ae27d36884f382db01a55745ac70e
+karma.conf.js
+release/flux-angular.js
+release/flux-angular.min.js
+src/flux-angular.js
+tests/flux-angular-spec.js

@@ -1,0 +1,15 @@
+96f6065f3ecc52bcec7ea235053788a7f0ceef81
+bin/client.js
+index.js
+lib/api.js
+lib/chrome.js
+lib/defaults.js
+lib/devtools.js
+lib/external-request.js
+lib/websocket-wrapper.js
+test/close.js
+test/connect.js
+test/devtools.js
+test/event.js
+test/send.js
+webpack.config.js

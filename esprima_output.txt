@@ -1,0 +1,118 @@
+bench/parser.benchmark.js
+---------
+{ variable: 'benchmark', library: 'benchmark', method: '' }
+{ variable: 'crypto', library: 'crypto', method: '' }
+index.js
+---------
+lib/constants.js
+---------
+lib/event-target.js
+---------
+lib/buffer-util.js
+---------
+{ variable: 'bufferUtil', library: 'bufferutil', method: '' }
+lib/extension.js
+---------
+lib/validation.js
+---------
+{ variable: 'isValidUTF8',
+  library: 'utf-8-validate',
+  method: '' }
+test/autobahn-server.js
+---------
+lib/permessage-deflate.js
+---------
+{ variable: 'Limiter', library: 'async-limiter', method: '' }
+{ variable: 'zlib', library: 'zlib', method: '' }
+lib/sender.js
+---------
+{ variable: 'crypto', library: 'crypto', method: '' }
+test/autobahn.js
+---------
+lib/websocket-server.js
+---------
+{ variable: 'EventEmitter', library: 'events', method: '' }
+{ variable: 'crypto', library: 'crypto', method: '' }
+{ variable: 'http', library: 'http', method: '' }
+{ variable: 'url', library: 'url', method: '' }
+test/extension.test.js
+---------
+{ variable: 'assert', library: 'assert', method: '' }
+lib/receiver.js
+---------
+{ variable: 'stream', library: 'stream', method: '' }
+lib/websocket.js
+---------
+{ variable: 'EventEmitter', library: 'events', method: '' }
+{ variable: 'crypto', library: 'crypto', method: '' }
+{ variable: 'https', library: 'https', method: '' }
+{ variable: 'http', library: 'http', method: '' }
+{ variable: 'net', library: 'net', method: '' }
+{ variable: 'tls', library: 'tls', method: '' }
+{ variable: 'url', library: 'url', method: '' }
+test/websocket.integration.js
+---------
+{ variable: 'assert', library: 'assert', method: '' }
+test/permessage-deflate.test.js
+---------
+{ variable: 'assert', library: 'assert', method: '' }
+test/sender.test.js
+---------
+{ variable: 'assert', library: 'assert', method: '' }
+bench/speed.js
+---------
+{ variable: 'cluster', library: 'cluster', method: '' }
+examples/fileapi/public/app.js
+---------
+examples/ssl.js
+---------
+{ variable: 'https', library: 'https', method: '' }
+{ variable: 'fs', library: 'fs', method: '' }
+examples/fileapi/server.js
+---------
+{ variable: 'express', library: 'express', method: '' }
+{ variable: 'fs', library: 'fs', method: '' }
+{ variable: 'util', library: 'util', method: '' }
+{ variable: 'path', library: 'path', method: '' }
+{ variable: 'server', library: 'http', method: 'Server' }
+{ variable: 'events', library: 'events', method: '' }
+{ variable: 'ansi', library: 'ansi', method: '' }
+test/websocket-server.test.js
+---------
+{ variable: 'assert', library: 'assert', method: '' }
+{ variable: 'crypto', library: 'crypto', method: '' }
+{ variable: 'https', library: 'https', method: '' }
+{ variable: 'http', library: 'http', method: '' }
+{ variable: 'net', library: 'net', method: '' }
+{ variable: 'fs', library: 'fs', method: '' }
+examples/fileapi/public/uploader.js
+---------
+examples/serverstats/server.js
+---------
+{ variable: 'express', library: 'express', method: '' }
+{ variable: 'path', library: 'path', method: '' }
+{ variable: 'server', library: 'http', method: 'createServer' }
+bench/sender.benchmark.js
+---------
+{ variable: 'benchmark', library: 'benchmark', method: '' }
+{ variable: 'crypto', library: 'crypto', method: '' }
+test/receiver.test.js
+---------
+{ variable: 'assert', library: 'assert', method: '' }
+{ variable: 'crypto', library: 'crypto', method: '' }
+examples/express-session-parse/index.js
+---------
+{ variable: 'session', library: 'express-session', method: '' }
+{ variable: 'express', library: 'express', method: '' }
+{ variable: 'http', library: 'http', method: '' }
+{ variable: 'uuid', library: 'uuid', method: '' }
+examples/express-session-parse/public/app.js
+---------
+test/websocket.test.js
+---------
+{ variable: 'assert', library: 'assert', method: '' }
+{ variable: 'crypto', library: 'crypto', method: '' }
+{ variable: 'https', library: 'https', method: '' }
+{ variable: 'http', library: 'http', method: '' }
+{ variable: 'url', library: 'url', method: '' }
+{ variable: 'fs', library: 'fs', method: '' }

@@ -1,0 +1,13 @@
+3d37d21b5f0b35289aa485f498ddea4cb61f1a2e
+include/VT100.js
+include/base64.js
+include/keysym.js
+include/util.js
+include/web-socket-js/swfobject.js
+include/web-socket-js/web_socket.js
+include/websock.js
+include/webutil.js
+include/wsirc.js
+include/wstelnet.js
+other/websockify.js
+tests/base64.js

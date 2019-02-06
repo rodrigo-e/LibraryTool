@@ -7,6 +7,7 @@ async function getFileList() {
 	var list = {};
 	var commitList = {};
 	var libraryName = process.argv[2];
+	var commitsReceived = process.argv.slice(3);
 	// var libraryName = 'angular';
 	if (libraryName) {
 		nodegit.Repository.open(
@@ -60,14 +61,15 @@ async function getFileList() {
 				});
 
 				history.on('end', function() {
+					if (!commitList[version]) commitList[version] = prevSha;
 					console.log(commitList);
-					var directoryName = 'fileListsPKG/' + libraryName;
+					var directoryName = 'fileLists/' + libraryName;
 					if (!fs.existsSync(directoryName)) {
 						fs.mkdirSync(directoryName);
 					}
 
 					nodegit.Repository.open(
-						'/mnt/yantra/rodrigo-e/LibraryTool/npm/' + libraryName + '/.git'
+						'/mnt/yantra/npm/projects/npm/' + libraryName + '/.git'
 					).then(async function(repo) {
 						for (var commitVersion in commitList) {
 							await repo

@@ -1,0 +1,4 @@
+c997ff6634a7047399c02814b1e3222461e6514f
+.bin/idoc.js
+index.js
+lib/init.js

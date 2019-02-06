@@ -1,0 +1,5 @@
+045281a280c973bb14668ef666a72af423167fe7
+Gruntfile.js
+dist/angular-moment-picker.js
+dist/angular-moment-picker.min.js
+src/angular-moment-picker.js

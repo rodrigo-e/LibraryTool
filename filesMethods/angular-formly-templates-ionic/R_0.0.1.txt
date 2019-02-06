@@ -1,0 +1,249 @@
+------------------------------------------
+demo/gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-util
+Methods Called:
+   - log
+   - colors
+
+Library: bower
+Methods Called:
+   - commands
+
+Library: gulp-sass
+Methods Called:
+   - main_method*
+
+Library: gulp-minify-css
+Methods Called:
+   - main_method*
+
+Library: gulp-rename
+Methods Called:
+   - main_method*
+
+Library: shelljs
+Methods Called:
+   - which
+
+------------------------------------------
+demo/hooks/after_prepare/010_add_platform_class.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+demo/www/js/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-animate/angular-animate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-animate/angular-animate.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-formly-templates-vanilla/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-formly-templates-vanilla/dist/angular-formly-templates-vanilla.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-formly-templates-vanilla/dist/angular-formly-templates-vanilla.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-formly-templates-vanilla/src/modules/formlyVanilla.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-formly/dist/formly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-formly/dist/formly.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-sanitize/angular-sanitize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-sanitize/angular-sanitize.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/release/angular-ui-router.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/release/angular-ui-router.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/resolve.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/state.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/stateDirectives.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/stateFilters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/templateFactory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/urlMatcherFactory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/urlRouter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/viewDirective.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular-ui-router/src/viewScroll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular/angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/angular/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/ionic/js/ionic-angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/ionic/js/ionic-angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/ionic/js/ionic.bundle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/ionic/js/ionic.bundle.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/ionic/js/ionic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+demo/www/lib/ionic/js/ionic.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-formly-templates-ionic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-formly-templates-ionic.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/modules/angular-formly-templates-ionic.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-util": {
+    "log": true,
+    "colors": true
+  },
+  "bower": {
+    "commands": true
+  },
+  "gulp-sass": {
+    "main_method*": true
+  },
+  "gulp-minify-css": {
+    "main_method*": true
+  },
+  "gulp-rename": {
+    "main_method*": true
+  },
+  "shelljs": {
+    "which": true
+  }
+}

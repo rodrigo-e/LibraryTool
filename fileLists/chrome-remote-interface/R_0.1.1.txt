@@ -1,0 +1,8 @@
+f053a34d6543d6a2ff4ef4c823cda2e56e0721af
+index.js
+lib/chrome.js
+lib/protocol.js
+test/close.js
+test/connect.js
+test/event.js
+test/send.js

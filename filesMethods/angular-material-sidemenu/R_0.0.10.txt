@@ -1,0 +1,13 @@
+------------------------------------------
+angular-material-sidemenu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

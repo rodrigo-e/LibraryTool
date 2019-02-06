@@ -1,0 +1,74 @@
+------------------------------------------
+dist/angular-simple-logger.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-simple-logger.light.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-simple-logger.light.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-simple-logger.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/index.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+------------------------------------------
+dist/index.light.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+package.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+spec/bootstrap.browserify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wrap/contents/debugCommonJS.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wrap/contents/debugLight.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/wrap/debug.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token <
+------------------------------------------
+src/wrap/dist.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token <
+
+All of the Methods:
+{
+  "angular": {
+    "module": true
+  }
+}

@@ -1,0 +1,5 @@
+88a780f6f2ea974f4e60aa1f2d5e5d7d141e56ea
+dist/angular-azure-mobile-service.js
+dist/angular-azure-mobile-service.min.js
+gulpfile.js
+src/angular-azure-mobile-service.js

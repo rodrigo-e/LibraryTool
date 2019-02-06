@@ -1,0 +1,233 @@
+------------------------------------------
+git-it.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+guide/buildpages.js
+------------------------------------------
+Library: handlebars
+Methods Called:
+   - compile
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: glob
+Methods Called:
+   - main_method*
+
+------------------------------------------
+guide/translate-locale.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+problems/branches_arent_just_for_birds/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/branches_arent_just_for_birds/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/branches_arent_just_for_birds/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/commit_to_it/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/commit_to_it/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/commit_to_it/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/forks_and_clones/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/forks_and_clones/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/forks_and_clones/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/get_git/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/get_git/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/get_git/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/githubbin/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/githubbin/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/githubbin/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/its_a_small_world/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/its_a_small_world/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/its_a_small_world/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/merge_tada/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/merge_tada/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/merge_tada/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/pull_never_out_of_date/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/pull_never_out_of_date/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/pull_never_out_of_date/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/remote_control/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/remote_control/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/remote_control/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/repository/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/repository/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/repository/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+problems/requesting_you_pull_please/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/requesting_you_pull_please/solution.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+problems/requesting_you_pull_please/verify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+txtToHTML.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: marked
+Methods Called:
+   - main_method*
+
+Library: glob
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "handlebars": {
+    "compile": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "writeFileSync": true
+  },
+  "glob": {
+    "main_method*": true
+  },
+  "cheerio": {
+    "load": true
+  },
+  "marked": {
+    "main_method*": true
+  }
+}

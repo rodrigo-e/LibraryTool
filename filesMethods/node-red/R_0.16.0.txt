@@ -1,0 +1,2330 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+editor/js/comms.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/events.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/history.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/i18n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/nodes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/red.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/settings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/text/bidi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/text/format.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/actions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/clipboard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/common/editableList.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/common/menu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/common/popover.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/common/searchBox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/common/tabs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/common/typedInput.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/deploy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/diff.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/keyboard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/library.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/notifications.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/palette-editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/palette.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/search.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/sidebar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/state.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/subflow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/tab-config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/tab-info.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/touch/radialMenu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/tray.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/typeSearch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/ui/workspaces.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/js/validators.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/ace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/ext-language_tools.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/ext-searchbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-css.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-handlebars.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-html.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-javascript.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-markdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-properties.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-sql.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-swift.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/mode-yaml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/css.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/handlebars.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/html.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/javascript.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/markdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/properties.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/text.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/snippets/yaml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/theme-chrome.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/theme-tomorrow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/ace/worker-html.js
+------------------------------------------
+Library: 
+Methods Called:
+   - main_method*
+
+------------------------------------------
+editor/vendor/ace/worker-javascript.js
+------------------------------------------
+Library: ../lib/oop
+Methods Called:
+   - inherits
+   - mixin
+
+------------------------------------------
+editor/vendor/ace/worker-json.js
+------------------------------------------
+Library: 
+Methods Called:
+   - main_method*
+
+------------------------------------------
+editor/vendor/bootstrap/js/bootstrap.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/d3/d3.v3.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/i18next/i18next.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/jquery/js/jquery-1.11.3.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/jquery/js/jquery-ui-1.10.3.custom.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/jquery/js/jquery.ui.touch-punch.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/jsonata/formatter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/jsonata/mode-jsonata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/jsonata/snippets-jsonata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/jsonata/worker-jsonata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+editor/vendor/marked/marked.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/analysis/72-sentiment.js
+------------------------------------------
+Library: sentiment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+nodes/core/core/20-inject.js
+------------------------------------------
+Library: cron
+Methods Called:
+   - CronJob
+
+------------------------------------------
+nodes/core/core/25-catch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/core/25-status.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/core/58-debug.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+   - isArray
+
+------------------------------------------
+nodes/core/core/60-link.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/core/75-exec.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+nodes/core/core/80-function.js
+------------------------------------------
+Library: util
+Methods Called:
+   - isArray
+
+------------------------------------------
+nodes/core/core/80-template.js
+------------------------------------------
+Library: mustache
+Methods Called:
+   - Context
+   - render
+
+------------------------------------------
+nodes/core/core/89-delay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/core/89-trigger.js
+------------------------------------------
+Library: mustache
+Methods Called:
+   - render
+
+------------------------------------------
+nodes/core/core/90-comment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/core/98-unknown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/core/lib/debug/debug-utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/core/lib/debug/debug.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/hardware/36-rpi-gpio.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+nodes/core/io/05-tls.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+nodes/core/io/10-mqtt.js
+------------------------------------------
+Library: mqtt
+Methods Called:
+   - connect
+
+------------------------------------------
+nodes/core/io/21-httpin.js
+------------------------------------------
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+------------------------------------------
+nodes/core/io/21-httprequest.js
+------------------------------------------
+Library: follow-redirects
+Methods Called:
+   - http
+
+------------------------------------------
+nodes/core/io/22-websocket.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+   - Server
+
+------------------------------------------
+nodes/core/io/23-watch.js
+------------------------------------------
+Library: fs.notify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+nodes/core/io/31-tcpin.js
+------------------------------------------
+Library: net
+Methods Called:
+   - connect
+   - createServer
+   - Socket
+
+------------------------------------------
+nodes/core/io/32-udp.js
+------------------------------------------
+Library: dgram
+Methods Called:
+   - createSocket
+
+------------------------------------------
+nodes/core/io/lib/mqtt.js
+------------------------------------------
+Library: util
+Methods Called:
+   - log
+   - inherits
+
+Library: mqtt
+Methods Called:
+   - createConnection
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+nodes/core/io/lib/mqttConnectionPool.js
+------------------------------------------
+Library: util
+Methods Called:
+   - log
+
+------------------------------------------
+nodes/core/logic/10-switch.js
+------------------------------------------
+Library: jsonata
+Methods Called:
+   - main_method*
+
+------------------------------------------
+nodes/core/logic/15-change.js
+------------------------------------------
+Library: jsonata
+Methods Called:
+   - main_method*
+
+------------------------------------------
+nodes/core/logic/16-range.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/logic/17-split.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/parsers/70-CSV.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/parsers/70-HTML.js
+------------------------------------------
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+nodes/core/parsers/70-JSON.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+nodes/core/parsers/70-XML.js
+------------------------------------------
+Library: xml2js
+Methods Called:
+   - parseString
+   - Builder
+
+------------------------------------------
+nodes/core/parsers/70-YAML.js
+------------------------------------------
+Library: js-yaml
+Methods Called:
+   - load
+   - dump
+
+------------------------------------------
+nodes/core/storage/28-tail.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+nodes/core/storage/50-file.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - writeFile
+   - ensureFile
+   - unlink
+   - appendFile
+   - readFile
+
+------------------------------------------
+red.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+red/api/auth/clients.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+------------------------------------------
+red/api/auth/index.js
+------------------------------------------
+Library: passport
+Methods Called:
+   - use
+   - authenticate
+
+Library: oauth2orize
+Methods Called:
+   - createServer
+   - exchange
+
+------------------------------------------
+red/api/auth/permissions.js
+------------------------------------------
+Library: util
+Methods Called:
+   - isArray
+
+------------------------------------------
+red/api/auth/strategies.js
+------------------------------------------
+Library: passport-http-bearer
+Methods Called:
+   - Strategy
+
+Library: passport-oauth2-client-password
+Methods Called:
+   - Strategy
+
+Library: passport
+Methods Called:
+   - Strategy
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+red/api/auth/tokens.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+------------------------------------------
+red/api/auth/users.js
+------------------------------------------
+Library: when
+Methods Called:
+   - promise
+   - resolve
+
+Library: util
+Methods Called:
+   - isArray
+
+------------------------------------------
+red/api/comms.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - Server
+   - on
+   - user
+   - send
+   - close
+
+------------------------------------------
+red/api/credentials.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+red/api/flow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+red/api/flows.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+red/api/index.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: passport
+Methods Called:
+   - initialize
+
+Library: when
+Methods Called:
+   - resolve
+
+Library: cors
+Methods Called:
+   - main_method*
+
+------------------------------------------
+red/api/info.js
+------------------------------------------
+Library: util
+Methods Called:
+   - isArray
+
+------------------------------------------
+red/api/library.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdir
+   - lstatSync
+   - statSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: when
+Methods Called:
+   - promise
+   - resolve
+   - all
+
+------------------------------------------
+red/api/locales.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdir
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+------------------------------------------
+red/api/nodes.js
+------------------------------------------
+Library: when
+Methods Called:
+   - settle
+   - resolve
+
+------------------------------------------
+red/api/theme.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+Library: util
+Methods Called:
+   - isArray
+
+Library: path
+Methods Called:
+   - basename
+
+Library: fs
+Methods Called:
+   - statSync
+
+Library: clone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+red/api/ui.js
+------------------------------------------
+Library: express
+Methods Called:
+   - static
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - statSync
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: mustache
+Methods Called:
+   - parse
+   - render
+
+------------------------------------------
+red/red.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+------------------------------------------
+red/runtime/events.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+red/runtime/i18n.js
+------------------------------------------
+Library: i18next
+Methods Called:
+   - loadNamespace
+   - backend
+   - init
+   - t
+
+Library: when
+Methods Called:
+   - settle
+   - promise
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+red/runtime/index.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+   - resolve
+
+Library: fs
+Methods Called:
+   - statSync
+
+Library: os
+Methods Called:
+   - type
+   - release
+   - arch
+   - endianness
+
+------------------------------------------
+red/runtime/log.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+   - log
+
+------------------------------------------
+red/runtime/nodes/Node.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+   - isArray
+
+Library: when
+Methods Called:
+   - promise
+   - settle
+
+------------------------------------------
+red/runtime/nodes/context.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+red/runtime/nodes/credentials.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+Library: crypto
+Methods Called:
+   - createDecipheriv
+   - createHash
+   - randomBytes
+   - createCipheriv
+
+------------------------------------------
+red/runtime/nodes/flows/Flow.js
+------------------------------------------
+Library: when
+Methods Called:
+   - promise
+   - settle
+
+Library: clone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+red/runtime/nodes/flows/index.js
+------------------------------------------
+Library: clone
+Methods Called:
+   - main_method*
+
+Library: when
+Methods Called:
+   - resolve
+   - promise
+   - settle
+   - reject
+
+------------------------------------------
+red/runtime/nodes/flows/util.js
+------------------------------------------
+Library: clone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+red/runtime/nodes/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+red/runtime/nodes/registry/deprecated.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+red/runtime/nodes/registry/index.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+------------------------------------------
+red/runtime/nodes/registry/installer.js
+------------------------------------------
+Library: when
+Methods Called:
+   - promise
+   - resolve
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: fs
+Methods Called:
+   - statSync
+
+Library: child_process
+Methods Called:
+   - execFile
+
+------------------------------------------
+red/runtime/nodes/registry/loader.js
+------------------------------------------
+Library: when
+Methods Called:
+   - settle
+   - promise
+   - resolve
+   - reject
+
+Library: fs
+Methods Called:
+   - statSync
+   - readFile
+   - stat
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+   - dirname
+   - basename
+
+Library: semver
+Methods Called:
+   - satisfies
+
+------------------------------------------
+red/runtime/nodes/registry/localfilesystem.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+   - readdirSync
+
+Library: path
+Methods Called:
+   - basename
+   - join
+   - resolve
+   - dirname
+
+------------------------------------------
+red/runtime/nodes/registry/registry.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+Library: when
+Methods Called:
+   - reject
+
+------------------------------------------
+red/runtime/settings.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+Library: clone
+Methods Called:
+   - main_method*
+
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+red/runtime/storage/index.js
+------------------------------------------
+Library: when
+Methods Called:
+   - reject
+   - resolve
+   - promise
+   - settle
+
+Library: path
+Methods Called:
+   - join
+
+Library: crypto
+Methods Called:
+   - createHash
+
+------------------------------------------
+red/runtime/storage/localfilesystem.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+Library: fs-extra
+Methods Called:
+   - mkdirs
+   - openSync
+   - fstatSync
+   - readSync
+   - closeSync
+   - createWriteStream
+   - fsync
+   - readFile
+   - statSync
+   - copy
+   - renameSync
+   - lstat
+   - readdir
+   - lstatSync
+
+Library: when
+Methods Called:
+   - promise
+   - all
+   - resolve
+
+Library: when/node/function
+Methods Called:
+   - lift
+   - call
+
+Library: path
+Methods Called:
+   - join
+   - extname
+   - basename
+   - dirname
+
+------------------------------------------
+red/runtime/util.js
+------------------------------------------
+Library: clone
+Methods Called:
+   - main_method*
+
+Library: jsonata
+Methods Called:
+   - main_method*
+
+------------------------------------------
+settings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/_spec.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdir
+   - stat
+   - exists
+
+Library: path
+Methods Called:
+   - resolve
+   - extname
+
+------------------------------------------
+test/nodes/core/analysis/72-sentiment_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/core/20-inject_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/core/25-catch_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/core/25-status_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/core/58-debug_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - fail
+
+Library: ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/nodes/core/core/75-exec_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - exist
+
+Library: sinon
+Methods Called:
+   - stub
+
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+test/nodes/core/core/80-function_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - main_method*
+   - fail
+
+------------------------------------------
+test/nodes/core/core/80-template_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/core/89-delay_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - fail
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/nodes/core/core/89-trigger_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/core/90-comment_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/core/98-unknown_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/io/22-websocket_spec.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+
+Library: when
+Methods Called:
+   - promise
+   - defer
+   - all
+
+------------------------------------------
+test/nodes/core/logic/10-switch_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - fail
+
+------------------------------------------
+test/nodes/core/logic/15-change_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/nodes/core/logic/16-range_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - fail
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/nodes/core/logic/17-split_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/parsers/70-CSV_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/nodes/core/parsers/70-HTML_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - equal
+
+Library: path
+Methods Called:
+   - sep
+   - join
+
+Library: fs-extra
+Methods Called:
+   - existsSync
+   - readFile
+
+------------------------------------------
+test/nodes/core/parsers/70-JSON_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - equal
+
+------------------------------------------
+test/nodes/core/parsers/70-XML_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - equal
+
+------------------------------------------
+test/nodes/core/parsers/70-YAML_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - equal
+
+------------------------------------------
+test/nodes/core/storage/28-tail_spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: fs-extra
+Methods Called:
+   - writeFileSync
+   - unlinkSync
+   - appendFileSync
+   - writeFile
+
+Library: sinon
+Methods Called:
+   - stub
+
+Library: os
+Methods Called:
+   - platform
+
+------------------------------------------
+test/nodes/core/storage/50-file_spec.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: fs-extra
+Methods Called:
+   - readFileSync
+   - unlinkSync
+   - writeFile
+   - appendFile
+   - unlink
+   - ensureFile
+   - writeFileSync
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/nodes/helper.js
+------------------------------------------
+Library: should
+Methods Called:
+   - deepEqual
+
+Library: sinon
+Methods Called:
+   - spy
+
+Library: when
+Methods Called:
+   - resolve
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/red/api/auth/clients_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/red/api/auth/index_spec.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/red/api/auth/permissions_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/api/auth/strategies_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+Library: when
+Methods Called:
+   - resolve
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/red/api/auth/tokens_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - exist
+
+Library: when
+Methods Called:
+   - resolve
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/red/api/auth/users_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+Library: when
+Methods Called:
+   - resolve
+
+------------------------------------------
+test/red/api/comms_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: when
+Methods Called:
+   - resolve
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/red/api/credentials_spec.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/red/api/flow_spec.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: body-parser
+Methods Called:
+   - json
+
+Library: sinon
+Methods Called:
+   - stub
+   - spy
+
+Library: when
+Methods Called:
+   - resolve
+   - reject
+
+------------------------------------------
+test/red/api/flows_spec.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: body-parser
+Methods Called:
+   - json
+
+Library: sinon
+Methods Called:
+   - spy
+
+Library: when
+Methods Called:
+   - resolve
+   - reject
+
+------------------------------------------
+test/red/api/index_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+   - spy
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: when
+Methods Called:
+   - resolve
+
+------------------------------------------
+test/red/api/info_spec.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/red/api/library_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - deepEqual
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: body-parser
+Methods Called:
+   - json
+
+Library: when
+Methods Called:
+   - resolve
+   - reject
+
+------------------------------------------
+test/red/api/locales_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/api/nodes_spec.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: body-parser
+Methods Called:
+   - json
+
+Library: sinon
+Methods Called:
+   - stub
+   - spy
+
+Library: when
+Methods Called:
+   - resolve
+   - reject
+
+------------------------------------------
+test/red/api/theme_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: sinon
+Methods Called:
+   - stub
+
+Library: fs
+Methods Called:
+   - statSync
+
+------------------------------------------
+test/red/api/ui_spec.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+test/red/red_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: fs
+Methods Called:
+   - statSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/red/runtime/events_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/i18n_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/index_spec.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+Library: sinon
+Methods Called:
+   - stub
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+------------------------------------------
+test/red/runtime/log_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+   - assert
+
+Library: util
+Methods Called:
+   - log
+
+------------------------------------------
+test/red/runtime/nodes/Node_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - exist
+   - deepEqual
+   - strictEqual
+   - notStrictEqual
+   - fail
+   - main_method*
+
+Library: sinon
+Methods Called:
+   - stub
+
+------------------------------------------
+test/red/runtime/nodes/context_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/red/runtime/nodes/credentials_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - exist
+
+Library: sinon
+Methods Called:
+   - spy
+
+Library: when
+Methods Called:
+   - resolve
+
+------------------------------------------
+test/red/runtime/nodes/flows/Flow_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: clone
+Methods Called:
+   - main_method*
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+test/red/runtime/nodes/flows/index_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+   - spy
+
+Library: when
+Methods Called:
+   - resolve
+
+Library: clone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/red/runtime/nodes/flows/util_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: clone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/red/runtime/nodes/index_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - deepEqual
+
+Library: fs-extra
+Methods Called:
+   - remove
+   - mkdir
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: when
+Methods Called:
+   - main_method*
+   - resolve
+   - promise
+
+Library: sinon
+Methods Called:
+   - stub
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/red/runtime/nodes/registry/deprecated_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/red/runtime/nodes/registry/index_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: when
+Methods Called:
+   - resolve
+   - reject
+
+------------------------------------------
+test/red/runtime/nodes/registry/installer_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: when
+Methods Called:
+   - resolve
+   - settle
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: child_process
+Methods Called:
+   - execFile
+
+------------------------------------------
+test/red/runtime/nodes/registry/loader_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+   - normalize
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/red/runtime/nodes/registry/localfilesystem_spec.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - stub
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+------------------------------------------
+test/red/runtime/nodes/registry/registry_spec.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+Library: should
+Methods Called:
+   - not
+
+Library: when
+Methods Called:
+   - resolve
+
+Library: sinon
+Methods Called:
+   - spy
+   - stub
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/DuffNode/DuffNode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/DuplicateTestNode/TestNode1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/MultipleNodes1/MultipleNodes1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/NestedDirectoryNode/NestedNode/NestedNode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/NestedDirectoryNode/NestedNode/lib/ShouldNotLoad.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/NestedDirectoryNode/NestedNode/test/ShouldNotLoad.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNode1/TestNode1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNode2/TestNode2.js
+------------------------------------------
+Library: when
+Methods Called:
+   - promise
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNode3/TestNode3.js
+------------------------------------------
+Library: when
+Methods Called:
+   - promise
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNode4/TestNode4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNodeModule/node_modules/TestNodeModule/TestNodeModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNodeModule/node_modules/TestNodeModule/TestNodeModule2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNodeModule/node_modules/VersionMismatchModule/TestNodeModule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/local/TestNodeModule/node_modules/VersionMismatchModule/TestNodeModule2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/nodes/resources/userDir/nodes/TestNode5/TestNode5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/red/runtime/settings_spec.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+
+------------------------------------------
+test/red/runtime/storage/index_spec.js
+------------------------------------------
+Library: when
+Methods Called:
+   - resolve
+   - settle
+
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/red/runtime/storage/localfilesystem_spec.js
+------------------------------------------
+Library: os
+Methods Called:
+   - hostname
+
+Library: should
+Methods Called:
+   - fail
+   - exist
+
+Library: fs-extra
+Methods Called:
+   - remove
+   - mkdir
+   - existsSync
+   - mkdirSync
+   - writeFileSync
+   - closeSync
+   - openSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/red/runtime/util_spec.js
+------------------------------------------
+Library: should
+Methods Called:
+   - deepEqual
+   - not
+
+
+All of the Methods:
+{
+  "path": {
+    "resolve": true,
+    "join": true,
+    "basename": true,
+    "dirname": true,
+    "extname": true,
+    "sep": true,
+    "normalize": true
+  },
+  "": {
+    "main_method*": true
+  },
+  "../lib/oop": {
+    "inherits": true,
+    "mixin": true
+  },
+  "sentiment": {
+    "main_method*": true
+  },
+  "cron": {
+    "CronJob": true
+  },
+  "util": {
+    "inspect": true,
+    "isArray": true,
+    "log": true,
+    "inherits": true
+  },
+  "child_process": {
+    "spawn": true,
+    "exec": true,
+    "execFile": true
+  },
+  "mustache": {
+    "Context": true,
+    "render": true,
+    "parse": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "readdir": true,
+    "lstatSync": true,
+    "statSync": true,
+    "readFile": true,
+    "stat": true,
+    "readdirSync": true,
+    "exists": true
+  },
+  "mqtt": {
+    "connect": true,
+    "createConnection": true
+  },
+  "body-parser": {
+    "json": true,
+    "urlencoded": true
+  },
+  "follow-redirects": {
+    "http": true
+  },
+  "ws": {
+    "main_method*": true,
+    "Server": true,
+    "on": true,
+    "user": true,
+    "send": true,
+    "close": true
+  },
+  "fs.notify": {
+    "main_method*": true
+  },
+  "net": {
+    "connect": true,
+    "createServer": true,
+    "Socket": true
+  },
+  "dgram": {
+    "createSocket": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "jsonata": {
+    "main_method*": true
+  },
+  "cheerio": {
+    "load": true
+  },
+  "xml2js": {
+    "parseString": true,
+    "Builder": true
+  },
+  "js-yaml": {
+    "load": true,
+    "dump": true
+  },
+  "fs-extra": {
+    "writeFile": true,
+    "ensureFile": true,
+    "unlink": true,
+    "appendFile": true,
+    "readFile": true,
+    "mkdirs": true,
+    "openSync": true,
+    "fstatSync": true,
+    "readSync": true,
+    "closeSync": true,
+    "createWriteStream": true,
+    "fsync": true,
+    "statSync": true,
+    "copy": true,
+    "renameSync": true,
+    "lstat": true,
+    "readdir": true,
+    "lstatSync": true,
+    "existsSync": true,
+    "writeFileSync": true,
+    "unlinkSync": true,
+    "appendFileSync": true,
+    "readFileSync": true,
+    "remove": true,
+    "mkdir": true,
+    "mkdirSync": true
+  },
+  "when": {
+    "resolve": true,
+    "promise": true,
+    "all": true,
+    "settle": true,
+    "reject": true,
+    "defer": true,
+    "main_method*": true
+  },
+  "passport": {
+    "use": true,
+    "authenticate": true,
+    "Strategy": true,
+    "initialize": true
+  },
+  "oauth2orize": {
+    "createServer": true,
+    "exchange": true
+  },
+  "passport-http-bearer": {
+    "Strategy": true
+  },
+  "passport-oauth2-client-password": {
+    "Strategy": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true
+  },
+  "cors": {
+    "main_method*": true
+  },
+  "clone": {
+    "main_method*": true
+  },
+  "i18next": {
+    "loadNamespace": true,
+    "backend": true,
+    "init": true,
+    "t": true
+  },
+  "os": {
+    "type": true,
+    "release": true,
+    "arch": true,
+    "endianness": true,
+    "hostname": true,
+    "platform": true
+  },
+  "crypto": {
+    "createDecipheriv": true,
+    "createHash": true,
+    "randomBytes": true,
+    "createCipheriv": true
+  },
+  "semver": {
+    "satisfies": true
+  },
+  "assert": {
+    "deepEqual": true
+  },
+  "when/node/function": {
+    "lift": true,
+    "call": true
+  },
+  "should": {
+    "fail": true,
+    "exist": true,
+    "main_method*": true,
+    "not": true,
+    "equal": true,
+    "deepEqual": true,
+    "strictEqual": true,
+    "notStrictEqual": true
+  },
+  "sinon": {
+    "stub": true,
+    "spy": true,
+    "assert": true
+  },
+  "supertest": {
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true
+  }
+}

@@ -1,0 +1,685 @@
+------------------------------------------
+example/canvas/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/mithril/lib/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/mithril/lib/controllers/todo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/mithril/lib/models/todo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/mithril/lib/views/footer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/mithril/lib/views/todo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/browser.js
+------------------------------------------
+Library: browser_process
+Methods Called:
+   - options
+   - spawn
+
+Library: util
+Methods Called:
+   - debuglog
+
+Library: rdbg
+Methods Called:
+   - get
+
+Library: temp
+Methods Called:
+   - path
+
+Library: net
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/compiler.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+
+Library: path
+Methods Called:
+   - normalize
+   - basename
+   - join
+
+Library: compiler_process
+Methods Called:
+   - options
+   - spawn
+
+Library: temp
+Methods Called:
+   - mkdirSync
+
+Library: util
+Methods Called:
+   - debuglog
+
+------------------------------------------
+lib/hotpatch.js
+------------------------------------------
+Library: util
+Methods Called:
+   - debuglog
+   - inspect
+
+Library: fs
+Methods Called:
+   - watch
+   - createReadStream
+
+Library: url
+Methods Called:
+   - parse
+
+Library: path
+Methods Called:
+   - resolve
+   - normalize
+   - dirname
+   - relative
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: rdbg
+Methods Called:
+   - createClient
+   - get
+
+Library: util
+Methods Called:
+   - debuglog
+   - inherits
+
+Library: ware
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/multiplexer.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+Library: url
+Methods Called:
+   - format
+
+Library: ws
+Methods Called:
+   - createServer
+   - createConnection
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/print.js
+------------------------------------------
+Library: util
+Methods Called:
+   - debuglog
+
+------------------------------------------
+lib/repl.js
+------------------------------------------
+Library: repl
+Methods Called:
+   - start
+
+Library: util
+Methods Called:
+   - debuglog
+
+------------------------------------------
+lib/server.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - createReadStream
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: mime
+Methods Called:
+   - lookup
+
+Library: path
+Methods Called:
+   - normalize
+   - isAbsolute
+   - join
+   - basename
+
+Library: url
+Methods Called:
+   - format
+   - parse
+
+Library: util
+Methods Called:
+   - debuglog
+
+------------------------------------------
+lib/watch.js
+------------------------------------------
+Library: chokidar
+Methods Called:
+   - watch
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: url
+Methods Called:
+   - resolve
+
+Library: util
+Methods Called:
+   - debuglog
+   - inspect
+
+------------------------------------------
+test/bin.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: tape
+Methods Called:
+   - plan
+   - equal
+   - main_method*
+   - ok
+
+------------------------------------------
+test/bin_hotpatch.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - equal
+   - error
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFile
+
+Library: path
+Methods Called:
+   - join
+
+Library: url
+Methods Called:
+   - resolve
+
+Library: sculpt
+Methods Called:
+   - split
+
+------------------------------------------
+test/bin_hotpatch_compiler.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - equal
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readdirSync
+   - readFileSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: sculpt
+Methods Called:
+   - split
+
+------------------------------------------
+test/bin_watch.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - equal
+   - main_method*
+
+Library: fs
+Methods Called:
+   - writeFileSync
+   - unlinkSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: url
+Methods Called:
+   - resolve
+
+Library: sculpt
+Methods Called:
+   - split
+
+------------------------------------------
+test/fixture/basic/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-babel/a.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-babel/b.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-babel/out.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-coffee/out.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-tsc/out.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-watchify/a.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-watchify/b.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-watchify/out.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-webpack/a.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-webpack/b.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/compile-webpack/out.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/hotpatch-babel/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/hotpatch-basic/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/hotpatch-events/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/hotpatch-watchify/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/hotpatch-webpack/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixture/watch-events/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - error
+   - main_method*
+
+------------------------------------------
+test/lib_browser.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createServer
+
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - equal
+   - error
+   - main_method*
+   - timeoutAfter
+
+Library: url
+Methods Called:
+   - resolve
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/lib_compiler.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - plan
+   - error
+   - ok
+   - equal
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readdirSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+   - normalize
+
+------------------------------------------
+test/lib_hotpatch.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFile
+
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - equal
+   - notEqual
+   - error
+   - main_method*
+
+Library: url
+Methods Called:
+   - resolve
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/lib_hotpatch_compiler.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - equal
+   - notEqual
+   - error
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readdirSync
+   - readFileSync
+   - writeFile
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/lib_print.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - assert
+   - main_method*
+
+Library: stream
+Methods Called:
+   - Writable
+
+Library: url
+Methods Called:
+   - resolve
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/lib_server.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - error
+   - ok
+   - equal
+   - main_method*
+
+Library: url
+Methods Called:
+   - format
+   - resolve
+
+Library: http
+Methods Called:
+   - get
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/lib_watch.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+   - unlinkSync
+
+Library: tape
+Methods Called:
+   - plan
+   - pass
+   - equal
+   - error
+   - main_method*
+
+Library: url
+Methods Called:
+   - resolve
+
+Library: path
+Methods Called:
+   - join
+
+
+All of the Methods:
+{
+  "browser_process": {
+    "options": true,
+    "spawn": true
+  },
+  "util": {
+    "debuglog": true,
+    "inspect": true,
+    "inherits": true,
+    "format": true
+  },
+  "rdbg": {
+    "get": true,
+    "createClient": true
+  },
+  "temp": {
+    "path": true,
+    "mkdirSync": true
+  },
+  "net": {
+    "createServer": true
+  },
+  "fs": {
+    "stat": true,
+    "watch": true,
+    "createReadStream": true,
+    "readFileSync": true,
+    "writeFile": true,
+    "readdirSync": true,
+    "writeFileSync": true,
+    "unlinkSync": true
+  },
+  "path": {
+    "normalize": true,
+    "basename": true,
+    "join": true,
+    "resolve": true,
+    "dirname": true,
+    "relative": true,
+    "isAbsolute": true
+  },
+  "compiler_process": {
+    "options": true,
+    "spawn": true
+  },
+  "url": {
+    "parse": true,
+    "format": true,
+    "resolve": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "ware": {
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true,
+    "request": true,
+    "get": true
+  },
+  "ws": {
+    "createServer": true,
+    "createConnection": true
+  },
+  "repl": {
+    "start": true
+  },
+  "mime": {
+    "lookup": true
+  },
+  "chokidar": {
+    "watch": true
+  },
+  "child_process": {
+    "spawn": true
+  },
+  "tape": {
+    "plan": true,
+    "equal": true,
+    "main_method*": true,
+    "ok": true,
+    "pass": true,
+    "error": true,
+    "timeoutAfter": true,
+    "notEqual": true,
+    "assert": true
+  },
+  "sculpt": {
+    "split": true
+  },
+  "stream": {
+    "Writable": true
+  }
+}

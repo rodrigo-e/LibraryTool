@@ -1,0 +1,10 @@
+aedf7f5f4adff15ea84a78d7477b49eff4fe2d30
+angular-fullpage.js
+angular-fullpage.min.js
+gulpfile.js
+sample/app/app.config.js
+sample/app/app.controller.js
+sample/app/app.module.js
+sample/app/directives/angular-fullPage.min.js
+sample/app/views/dynamic/dynamic.controller.js
+sample/app/views/main/main.controller.js

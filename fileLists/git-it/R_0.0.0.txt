@@ -1,0 +1,4 @@
+9cf94b5d47001996689ecbfb79ec49cd57d582fb
+git-it.js
+problems/install_and_configure_git/setup.js
+problems/install_and_configure_git/solution.js

@@ -1,0 +1,819 @@
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'SiteMap', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'identity', [Array], [Array] ],
+    [ 'defun', 'appCache', [Array], [Array] ],
+    [ 'defun', 'appCacheTemplate', [], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'htmlEscape', [Array], [Array] ],
+    [ 'defun', 'DOM', [], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'writeTheRest', [Array], [Array] ],
+    [ 'defun', 'now', [], [Array] ],
+    [ 'defun', 'noop', [], [] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'Doc', [Array], [Array] ],
+    [ 'defun', 'scenarios', [Array], [Array] ],
+    [ 'defun', 'metadata', [Array], [Array] ],
+    [ 'defun', 'keywordSort', [Array], [Array] ],
+    [ 'defun', 'trim', [Array], [Array] ],
+    [ 'defun', 'indent', [Array], [Array] ],
+    [ 'defun', 'merge', [Array], [Array] ],
+    [ 'defun', 'property', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'collect', [], [Array] ],
+    [ 'defun', 'processJsFile', [Array], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'DocsController', [Array], [Array] ],
+    [ 'defun', 'TutorialInstructionsCtrl', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'merge', [Array], [Array] ],
+    [ 'defun', 'parent', [Array], [Array] ],
+    [ 'defun', 'noop', [], [] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'BuzzController', [], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'noop', [], [] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    ... 50 more items ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'stat', [Array] ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ],
+    [ 'if', [Array], [Array], null ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'convertNumberData', [Array], [Array] ],
+    [ 'defun', 'convertDatetimeData', [Array], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'parsePattern', [Array], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'noop', [], [] ],
+    [ 'defun', 'now', [], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'for-in', [Array], [Array], [Array], [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'main', [Array], [Array] ],
+    [ 'defun', 'escapeHtml', [Array], [Array] ],
+    [ 'defun', 'createServlet', [Array], [Array] ],
+    [ 'defun', 'HttpServer', [Array], [Array] ],
+    [ 'defun', 'StaticServlet', [], [] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'var', [Array] ] ] ]
+[ 'toplevel', [ [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'defun', 'time', [Array], [Array] ],
+    [ 'defun', 'perf', [], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'fromCharCode', [Array], [Array] ],
+    [ 'defun', 'forEach', [Array], [Array] ],
+    [ 'defun', 'forEachSorted', [Array], [Array] ],
+    [ 'defun', 'formatError', [Array], [Array] ],
+    [ 'defun', 'nextUid', [], [Array] ],
+    [ 'defun', 'extend', [Array], [Array] ],
+    [ 'defun', 'inherit', [Array], [Array] ],
+    [ 'defun', 'noop', [], [] ],
+    [ 'defun', 'identity', [Array], [Array] ],
+    [ 'defun', 'valueFn', [Array], [Array] ],
+    [ 'defun', 'extensionMap', [Array], [Array] ],
+    [ 'defun', 'isUndefined', [Array], [Array] ],
+    [ 'defun', 'isDefined', [Array], [Array] ],
+    [ 'defun', 'isObject', [Array], [Array] ],
+    [ 'defun', 'isString', [Array], [Array] ],
+    [ 'defun', 'isNumber', [Array], [Array] ],
+    [ 'defun', 'isDate', [Array], [Array] ],
+    [ 'defun', 'isArray', [Array], [Array] ],
+    [ 'defun', 'isFunction', [Array], [Array] ],
+    [ 'defun', 'isWindow', [Array], [Array] ],
+    [ 'defun', 'isBoolean', [Array], [Array] ],
+    [ 'defun', 'isTextNode', [Array], [Array] ],
+    [ 'defun', 'trim', [Array], [Array] ],
+    [ 'defun', 'isElement', [Array], [Array] ],
+    [ 'defun', 'makeMap', [Array], [Array] ],
+    [ 'defun', 'HTML', [Array], [Array] ],
+    [ 'defun', 'isVisible', [Array], [Array] ],
+    [ 'defun', 'map', [Array], [Array] ],
+    [ 'defun', 'size', [Array], [Array] ],
+    [ 'defun', 'includes', [Array], [Array] ],
+    [ 'defun', 'indexOf', [Array], [Array] ],
+    [ 'defun', 'isLeafNode', [Array], [Array] ],
+    [ 'defun', 'copy', [Array], [Array] ],
+    [ 'defun', 'equals', [Array], [Array] ],
+    [ 'defun', 'setHtml', [Array], [Array] ],
+    [ 'defun', 'isRenderableElement', [Array], [Array] ],
+    [ 'defun', 'elementError', [Array], [Array] ],
+    [ 'defun', 'concat', [Array], [Array] ],
+    [ 'defun', 'sliceArgs', [Array], [Array] ],
+    [ 'defun', 'bind', [Array], [Array] ],
+    [ 'defun', 'toBoolean', [Array], [Array] ],
+    [ 'defun', 'compile', [Array], [Array] ],
+    [ 'defun', 'parseKeyValue', [Array], [Array] ],
+    [ 'defun', 'toKeyValue', [Array], [Array] ],
+    [ 'defun', 'encodeUriSegment', [Array], [Array] ],
+    [ 'defun', 'encodeUriQuery', [Array], [Array] ],
+    [ 'defun', 'angularInit', [Array], [Array] ],
+    [ 'defun', 'angularJsConfig', [Array], [Array] ],
+    [ 'defun', 'bindJQuery', [], [Array] ],
+    [ 'defun', 'assertArg', [Array], [Array] ],
+    [ 'defun', 'assertArgFn', [Array], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'Browser', [Array], [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'Template', [], [Array] ],
+    [ 'defun', 'Compiler', [Array], [Array] ],
+    [ 'defun', 'eachNode', [Array], [Array] ],
+    [ 'defun', 'eachAttribute', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'createInjector', [Array], [Array] ],
+    [ 'defun', 'annotate', [Array], [Array] ],
+    [ 'defun', 'angularServiceInject', [Array], [Array] ],
+    [ 'defun', 'injectionArgs', [Array], [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'toJson', [Array], [Array] ],
+    [ 'defun', 'fromJson', [Array], [Array] ],
+    [ 'defun', 'toJsonArray', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'Route', [Array], [Array] ],
+    [ 'defun', 'ResourceFactory', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'createScope', [Array], [Array] ],
+    [ 'defun', 'Scope', [], [Array] ],
+    [ 'defun', 'compileToFn', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'MockBrowser', [], [Array] ],
+    [ 'defun', 'MockLogFactory', [], [Array] ],
+    [ 'defun', 'TzDate', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'hashKey', [Array], [Array] ],
+    [ 'defun', 'HashMap', [], [] ],
+    [ 'defun', 'defineApi', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'compileBindTemplate', [Array], [Array] ],
+    [ 'defun', 'ngClass', [Array], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'formatNumber', [Array], [Array] ],
+    [ 'defun', 'padNumber', [Array], [Array] ],
+    [ 'defun', 'dateGetter', [Array], [Array] ],
+    [ 'defun', 'dateStrGetter', [Array], [Array] ],
+    [ 'defun', 'timeZoneGetter', [Array], [Array] ],
+    [ 'defun', 'ampmGetter', [Array], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'formatter', [Array], [Array] ],
+    [ 'defun', 'toString', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'jqNextId', [], [Array] ],
+    [ 'defun', 'getStyle', [Array], [Array] ],
+    [ 'defun', 'jqLiteWrap', [Array], [Array] ],
+    [ 'defun', 'JQLite', [Array], [Array] ],
+    [ 'defun', 'JQLiteClone', [Array], [Array] ],
+    [ 'defun', 'JQLiteDealoc', [Array], [Array] ],
+    [ 'defun', 'JQLiteRemoveData', [Array], [Array] ],
+    [ 'defun', 'JQLiteData', [Array], [Array] ],
+    [ 'defun', 'JQLiteHasClass', [Array], [Array] ],
+    [ 'defun', 'JQLiteRemoveClass', [Array], [Array] ],
+    [ 'defun', 'JQLiteAddClass', [Array], [Array] ],
+    [ 'defun', 'JQLiteAddNodes', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'JstdPlugin', [], [Array] ],
+    [ 'defun', 'initScenarioAdapter', [Array], [Array] ],
+    [ 'defun', 'createTestResultFromSpec', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'parseBindings', [Array], [Array] ],
+    [ 'defun', 'binding', [Array], [Array] ],
+    [ 'defun', 'hasBindings', [Array], [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'lex', [Array], [Array] ],
+    [ 'defun', 'parser', [Array], [Array] ],
+    [ 'defun', 'setter', [Array], [Array] ],
+    [ 'defun', 'getter', [Array], [Array] ],
+    [ 'defun', 'getterFn', [Array], [Array] ],
+    [ 'defun', 'compileExpr', [Array], [Array] ],
+    [ 'defun', 'expressionCompile', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'htmlParser', [Array], [Array] ],
+    [ 'defun', 'decodeEntities', [Array], [Array] ],
+    [ 'defun', 'encodeEntities', [Array], [Array] ],
+    [ 'defun', 'htmlSanitizeWriter', [Array], [Array] ],
+    [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'asyncForEach', [Array], [Array] ],
+    [ 'defun', 'formatException', [Array], [Array] ],
+    [ 'defun', 'callerFile', [Array], [Array] ],
+    [ 'defun', 'browserTrigger', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'modelAccessor', [Array], [Array] ],
+    [ 'defun', 'modelFormattedAccessor', [Array], [Array] ],
+    [ 'defun', 'compileValidator', [Array], [Array] ],
+    [ 'defun', 'compileFormatter', [Array], [Array] ],
+    [ 'defun', 'valueAccessor', [Array], [Array] ],
+    [ 'defun', 'checkedAccessor', [Array], [Array] ],
+    [ 'defun', 'radioAccessor', [Array], [Array] ],
+    [ 'defun', 'optionsAccessor', [Array], [Array] ],
+    [ 'defun', 'noopAccessor', [], [Array] ],
+    [ 'defun', 'initWidgetValue', [Array], [Array] ],
+    [ 'defun', 'radioInit', [Array], [Array] ],
+    [ 'defun', 'inputWidget', [Array], [Array] ],
+    [ 'defun', 'inputWidgetSelector', [Array], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'var', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', '$exceptionHandlerMockFactory', [], [Array] ],
+    [ 'var', [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'MockSpecRunner', [], [] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'ApplicationMock', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'directive', 'use strict' ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel', [ [ 'directive', 'use strict' ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ],
+    [ 'defun', 'clearJqCache', [], [Array] ],
+    [ 'defun', 'nakedExpect', [Array], [Array] ],
+    [ 'defun', 'childNode', [Array], [Array] ],
+    [ 'defun', 'dealoc', [Array], [Array] ],
+    [ 'defun', 'sortedHtml', [Array], [Array] ],
+    [ 'defun', 'isCssVisible', [Array], [Array] ],
+    [ 'defun', 'assertHidden', [Array], [Array] ],
+    [ 'defun', 'assertVisible', [Array], [Array] ],
+    [ 'defun', 'assertJsonEquals', [Array], [Array] ],
+    [ 'defun', 'assertUndefined', [Array], [Array] ],
+    [ 'defun', 'assertDefined', [Array], [Array] ],
+    [ 'defun', 'assertThrows', [Array], [Array] ],
+    [ 'defun', 'rethrow', [Array], [Array] ],
+    [ 'stat', [Array] ] ] ]
+[ 'toplevel',
+  [ [ 'directive', 'use strict' ], [ 'stat', [Array] ] ] ]

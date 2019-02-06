@@ -1,0 +1,205 @@
+------------------------------------------
+bin/panini.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+helpers/code.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+
+Library: highlight.js
+Methods Called:
+   - highlight
+
+------------------------------------------
+helpers/ifEqual.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/ifPage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/markdown.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - main_method*
+
+------------------------------------------
+helpers/repeat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/unlessPage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/helpMessage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/loadBuiltinHelpers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/loadData.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - extname
+   - basename
+
+Library: js-yaml
+Methods Called:
+   - safeLoad
+
+------------------------------------------
+lib/loadHelpers.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+   - join
+
+------------------------------------------
+lib/loadLayouts.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - extname
+   - basename
+
+------------------------------------------
+lib/loadPartials.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - extname
+   - basename
+
+------------------------------------------
+lib/processRoot.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+   - join
+   - relative
+
+------------------------------------------
+lib/refresh.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/render.js
+------------------------------------------
+Library: deepmerge
+Methods Called:
+   - main_method*
+
+Library: front-matter
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - relative
+   - dirname
+   - basename
+
+Library: through2
+Methods Called:
+   - obj
+
+------------------------------------------
+lib/utils.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/fixtures/data-js/data/breakfast.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/helpers/helpers/helper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+
+All of the Methods:
+{
+  "util": {
+    "format": true
+  },
+  "highlight.js": {
+    "highlight": true
+  },
+  "marked": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true
+  },
+  "path": {
+    "extname": true,
+    "basename": true,
+    "join": true,
+    "dirname": true,
+    "relative": true
+  },
+  "js-yaml": {
+    "safeLoad": true
+  },
+  "deepmerge": {
+    "main_method*": true
+  },
+  "front-matter": {
+    "main_method*": true
+  },
+  "through2": {
+    "obj": true
+  },
+  "glob": {
+    "sync": true
+  }
+}

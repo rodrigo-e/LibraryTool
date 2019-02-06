@@ -1,0 +1,3293 @@
+------------------------------------------
+cli.js
+------------------------------------------
+Library: jsdoc/app
+Methods Called:
+   - jsdoc
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - formatEach
+   - failOnError
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-json-editor
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+jsdoc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+lib/jsdoc/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/augment.js
+------------------------------------------
+Library: jsdoc/util/doop
+Methods Called:
+   - main_method*
+
+Library: jsdoc/name
+Methods Called:
+   - shorten
+   - combine
+   - SCOPE
+
+------------------------------------------
+lib/jsdoc/borrow.js
+------------------------------------------
+Library: jsdoc/name
+Methods Called:
+   - SCOPE
+
+Library: jsdoc/util/doop
+Methods Called:
+   - main_method*
+
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+------------------------------------------
+lib/jsdoc/config.js
+------------------------------------------
+Library: jsdoc/util/stripbom
+Methods Called:
+   - strip
+
+Library: strip-json-comments
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/jsdoc/doclet.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - values
+
+Library: jsdoc/env
+Methods Called:
+   - src
+   - tag
+   - name
+
+Library: jsdoc/path
+Methods Called:
+   - join
+   - basename
+   - dirname
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/jsdoc/env.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/fs.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+   - readdirSync
+   - openSync
+   - readSync
+   - writeSync
+   - closeSync
+   - member
+
+Library: path
+Methods Called:
+   - join
+   - normalize
+   - dirname
+   - basename
+
+Library: mkdirp
+Methods Called:
+   - sync
+
+------------------------------------------
+lib/jsdoc/name.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - invert
+   - values
+   - defaults
+
+Library: escape-string-regexp
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/jsdoc/opts/argparser.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - defaults
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/jsdoc/opts/args.js
+------------------------------------------
+Library: jsdoc/util/cast
+Methods Called:
+   - cast
+
+Library: jsdoc/opts/argparser
+Methods Called:
+   - main_method*
+
+Library: querystring
+Methods Called:
+   - parse
+
+------------------------------------------
+lib/jsdoc/package.js
+------------------------------------------
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+Library: jsdoc/util/stripbom
+Methods Called:
+   - strip
+
+------------------------------------------
+lib/jsdoc/path.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+   - opts
+   - dirname
+
+Library: fs
+Methods Called:
+   - statSync
+
+Library: path
+Methods Called:
+   - resolve
+   - sep
+   - extname
+   - dirname
+   - join
+   - isAbsolute
+   - member
+
+------------------------------------------
+lib/jsdoc/plugins.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/readme.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - opts
+
+Library: jsdoc/fs
+Methods Called:
+   - readFileSync
+
+Library: jsdoc/util/markdown
+Methods Called:
+   - getParser
+
+------------------------------------------
+lib/jsdoc/schema.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/src/astbuilder.js
+------------------------------------------
+Library: babylon
+Methods Called:
+   - parse
+
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+------------------------------------------
+lib/jsdoc/src/astnode.js
+------------------------------------------
+Library: jsdoc/util/cast
+Methods Called:
+   - cast
+
+Library: jsdoc/src/syntax
+Methods Called:
+   - Syntax
+
+Library: jsdoc/env
+Methods Called:
+   - opts
+
+Library: jsdoc/name
+Methods Called:
+   - SCOPE
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/jsdoc/src/filter.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+
+Library: jsdoc/path
+Methods Called:
+   - resolve
+
+------------------------------------------
+lib/jsdoc/src/handlers.js
+------------------------------------------
+Library: escape-string-regexp
+Methods Called:
+   - main_method*
+
+Library: jsdoc/doclet
+Methods Called:
+   - name
+   - src
+   - doclet
+   - util
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/jsdoc/src/parser.js
+------------------------------------------
+Library: jsdoc/src/astbuilder
+Methods Called:
+   - AstBuilder
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: jsdoc/fs
+Methods Called:
+   - readFileSync
+
+Library: jsdoc/doclet
+Methods Called:
+   - src
+   - name
+   - env
+   - util
+
+Library: jsdoc/util/logger
+Methods Called:
+   - fatal
+   - debug
+   - error
+   - info
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/jsdoc/src/scanner.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+
+Library: jsdoc/fs
+Methods Called:
+   - statSync
+   - ls
+
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+Library: jsdoc/path
+Methods Called:
+   - resolve
+
+------------------------------------------
+lib/jsdoc/src/syntax.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/src/visitor.js
+------------------------------------------
+Library: jsdoc/doclet
+Methods Called:
+   - src
+   - name
+
+------------------------------------------
+lib/jsdoc/src/walker.js
+------------------------------------------
+Library: jsdoc/src/syntax
+Methods Called:
+   - Syntax
+
+Library: jsdoc/src/astnode
+Methods Called:
+   - isScope
+   - addNodeProperties
+
+Library: jsdoc/util/logger
+Methods Called:
+   - debug
+
+------------------------------------------
+lib/jsdoc/tag.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - env
+   - tag
+   - util
+
+Library: jsdoc/path
+Methods Called:
+   - join
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/jsdoc/tag/dictionary.js
+------------------------------------------
+Library: jsdoc/tag/dictionary/definitions
+Methods Called:
+   - defineTags
+
+------------------------------------------
+lib/jsdoc/tag/dictionary/definitions.js
+------------------------------------------
+Library: jsdoc/src/syntax
+Methods Called:
+   - Syntax
+
+Library: underscore
+Methods Called:
+   - extend
+
+Library: jsdoc/env
+Methods Called:
+   - util
+   - env
+   - name
+   - tag
+   - src
+
+Library: jsdoc/path
+Methods Called:
+   - resolve
+   - commonPrefix
+   - normalize
+   - sep
+
+------------------------------------------
+lib/jsdoc/tag/inline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/tag/type.js
+------------------------------------------
+Library: catharsis
+Methods Called:
+   - Types
+   - stringify
+   - parse
+
+Library: jsdoc/name
+Methods Called:
+   - name
+   - tag
+   - util
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/jsdoc/tag/validator.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+   - warn
+
+------------------------------------------
+lib/jsdoc/template.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - template
+
+------------------------------------------
+lib/jsdoc/tutorial.js
+------------------------------------------
+Library: jsdoc/util/markdown
+Methods Called:
+   - getParser
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/jsdoc/tutorial/resolver.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - opts
+   - conf
+
+Library: jsdoc/fs
+Methods Called:
+   - ls
+   - readFileSync
+
+Library: jsdoc/util/logger
+Methods Called:
+   - warn
+   - error
+
+Library: path
+Methods Called:
+   - basename
+
+Library: jsdoc/util/stripbom
+Methods Called:
+   - strip
+
+Library: jsdoc/tutorial
+Methods Called:
+   - RootTutorial
+   - TYPES
+   - Tutorial
+
+------------------------------------------
+lib/jsdoc/util/cast.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/util/doop.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/util/dumper.js
+------------------------------------------
+Library: util
+Methods Called:
+   - isRegExp
+   - isDate
+   - isError
+
+------------------------------------------
+lib/jsdoc/util/error.js
+------------------------------------------
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+------------------------------------------
+lib/jsdoc/util/logger.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+   - format
+
+------------------------------------------
+lib/jsdoc/util/markdown.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+Library: util
+Methods Called:
+   - format
+
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+------------------------------------------
+lib/jsdoc/util/stripbom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/jsdoc/util/templateHelper.js
+------------------------------------------
+Library: catharsis
+Methods Called:
+   - parse
+
+Library: jsdoc/tag/dictionary
+Methods Called:
+   - isNamespace
+   - getNamespaces
+
+Library: jsdoc/env
+Methods Called:
+   - conf
+   - opts
+
+Library: jsdoc/tag/inline
+Methods Called:
+   - replaceInlineTags
+
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+Library: jsdoc/name
+Methods Called:
+   - SCOPE
+   - scopeToPunc
+   - longnamesToTree
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+plugins/commentConvert.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/commentsOnly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/escapeHtml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/eventDumper.js
+------------------------------------------
+Library: jsdoc/util/dumper
+Methods Called:
+   - dump
+
+Library: underscore
+Methods Called:
+   - difference
+
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+Library: util
+Methods Called:
+   - isArray
+
+Library: jsdoc/util/doop
+Methods Called:
+   - main_method*
+
+------------------------------------------
+plugins/markdown.js
+------------------------------------------
+Library: jsdoc/util/markdown
+Methods Called:
+   - getParser
+
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+------------------------------------------
+plugins/overloadHelper.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+plugins/partial.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - opts
+
+Library: jsdoc/fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+plugins/railsTemplate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/shout.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/sourcetag.js
+------------------------------------------
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+------------------------------------------
+plugins/summarize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/test/fixtures/markdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/test/fixtures/overloadHelper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/test/fixtures/underscore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/test/specs/commentConvert.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+------------------------------------------
+plugins/test/specs/escapeHtml.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+------------------------------------------
+plugins/test/specs/markdown.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+Library: jsdoc/path
+Methods Called:
+   - join
+
+------------------------------------------
+plugins/test/specs/overloadHelper.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+------------------------------------------
+plugins/test/specs/railsTemplate.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+------------------------------------------
+plugins/test/specs/shout.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+------------------------------------------
+plugins/test/specs/sourcetag.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+------------------------------------------
+plugins/test/specs/summarize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/test/specs/underscore.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+
+------------------------------------------
+plugins/underscore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+templates/default/publish.js
+------------------------------------------
+Library: taffydb
+Methods Called:
+   - taffy
+
+Library: jsdoc/util/doop
+Methods Called:
+   - main_method*
+
+Library: jsdoc/env
+Methods Called:
+   - opts
+   - conf
+   - pwd
+
+Library: jsdoc/fs
+Methods Called:
+   - writeFileSync
+   - readFileSync
+   - mkPath
+   - ls
+   - toDir
+   - copyFileSync
+
+Library: jsdoc/util/templateHelper
+Methods Called:
+   - htmlsafe
+   - linkto
+   - resolveAuthorLinks
+   - find
+   - toTutorial
+   - getAncestorLinks
+   - createLink
+   - getAttribs
+   - resolveLinks
+   - getUniqueFilename
+   - registerLink
+   - setTutorials
+   - prune
+   - addEventListeners
+   - longnameToUrl
+   - getMembers
+   - tutorialToUrl
+
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+Library: jsdoc/path
+Methods Called:
+   - normalize
+   - join
+   - getResourcePath
+   - dirname
+   - basename
+   - resolve
+   - commonPrefix
+
+Library: jsdoc/template
+Methods Called:
+   - Template
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+templates/default/static/scripts/linenumber.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+templates/default/static/scripts/prettify/lang-css.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+templates/default/static/scripts/prettify/prettify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+templates/haruki/publish.js
+------------------------------------------
+Library: js2xmlparser
+Methods Called:
+   - parse
+
+------------------------------------------
+templates/silent/publish.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/async-callback.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/abstracttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/accesstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/alias.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/alias2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/alias3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/alias4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/alias5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/alias6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/aliasglobal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/aliasglobal2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/aliasresolve.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/aliasresolve2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/also.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/also2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/anonymousclass.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixtures/anonymousclassparam.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+test/fixtures/arrowfunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/asyncfunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/asynctag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentall.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentall2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentstag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentstag3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentstag4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentstag5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/augmentstag6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/authortag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/borrowstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/borrowstag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/borrowstag3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/callbacktag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/classdesctag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/classproperties.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token =
+------------------------------------------
+test/fixtures/classtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/classtag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/classwithoutname.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constanttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constanttag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constructortag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constructstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constructstag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constructstag3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constructstag4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/constructstag5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/copyrighttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/defaultparams.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/defaultparams2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/defaulttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/deprecatedtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/descriptiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/destructuring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/doclet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/emptycomments.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/enumtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/enumtag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/es6.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 25: Unexpected token
+------------------------------------------
+test/fixtures/eventfirestag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/eventorder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exampletag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exceptiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportclass.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixtures/exportdefault.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixtures/exportdefaultclass.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixtures/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag7.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/exportstag8.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/externaltag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/externaltag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/externaltag3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/file.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/funcExpression.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/funcExpression2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/funcExpression3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/functiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/generators.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/generatortag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/getset.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/getset2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/globaltag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/hideconstructortag.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 44: Unexpected token ILLEGAL
+------------------------------------------
+test/fixtures/ignoretag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/ignoretag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/inheritdoctag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/inlinecomment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/inlineparamcomment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/inlineparamcomment2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/inner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/innerscope.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/innerscope2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/instanceproperty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/interface-implements.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/interfacetag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/jsx.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token <
+------------------------------------------
+test/fixtures/kindtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/lends.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/lends2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/lends3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/lends4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/lends5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/lends6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/lendsglobal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/letkeyword.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/licensetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/linktag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/listenstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/memberoftag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/memberoftag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/memberoftag3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/memberoftag4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/memberoftag5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/memberoftagforced.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/membertag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/methoddefinition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/mixintag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/mixintag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduleclasses.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token
+------------------------------------------
+test/fixtures/moduleinner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduleisconstructor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduleisconstructor2.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixtures/moduleisfunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/modules/data/mod-1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/modules/data/mod-2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/modules/data/mod-3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduletag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduletag10.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+test/fixtures/moduletag11.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixtures/moduletag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduletag3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduletag4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduletag5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/moduletag6.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+test/fixtures/moduletag7.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+test/fixtures/moduletag8.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+test/fixtures/moduletag9.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+test/fixtures/namespacetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/nametag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/numericpropertytag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/objectkeys.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/objectlit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/objectlit2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/objectlit3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/objectpropertykeys.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/overridetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/packagetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/packagetag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/paramtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/paramtag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/paramtaginvalidtype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/plugins.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/privatetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/privatetag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/projecttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/propertytag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/protectedtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/protectedtag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/quotename.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/quotename2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/readonlytag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/requirestag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/restparams.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/restparams2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/returnstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/scopetags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/seetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/sincetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/specialchars.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/specialnames.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/src/_dir2/four.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/src/_ignored.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/src/dir1/three.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/src/one.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/src/two.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/starbangstar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/summarytag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/testPlugin1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/testPlugin2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/this-and-objectlit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/this.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/this2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/this3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/this4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/this5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/this6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/thistag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/todotag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/trailingcomment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/trailingcomment2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/tutorialtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/typedeftag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/typekind.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/typetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/typetag2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/typetaginline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/typetagwithnewline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/undocumentedtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/utf8.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/var.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/variations.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/variationtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/versiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/virtual.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/virtual2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/virtual3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/yieldstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/jasmine-jsdoc.js
+------------------------------------------
+Library: jsdoc/fs
+Methods Called:
+   - readFileSync
+
+Library: jsdoc/path
+Methods Called:
+   - join
+
+Library: jsdoc/augment
+Methods Called:
+   - env
+   - src
+   - borrow
+   - augment
+
+------------------------------------------
+test/lib/jasmine.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/reporter.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+test/runner.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+   - opts
+
+Library: jsdoc/fs
+Methods Called:
+   - existsSync
+
+Library: jsdoc/util/logger
+Methods Called:
+   - setLevel
+   - LEVELS
+
+Library: path
+Methods Called:
+   - existsSync
+   - join
+
+------------------------------------------
+test/spec-collection.js
+------------------------------------------
+Library: jsdoc/fs
+Methods Called:
+   - statSync
+
+Library: jsdoc/path
+Methods Called:
+   - basename
+
+Library: klaw
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/specs/documentation/alias.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/also.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+Library: jsdoc/util/logger
+Methods Called:
+   - addListener
+   - removeListener
+
+------------------------------------------
+test/specs/documentation/anonymousclass.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/anonymousclassparam.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/arrowfunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/asyncfunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/callback.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/classproperties.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/classwithoutname.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/const.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/defaultparams.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/emptycomments.js
+------------------------------------------
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+------------------------------------------
+test/specs/documentation/exportclass.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/exportdefault.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/exportdefaultclass.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/exports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/funcExpression.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/generators.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/getset.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/inlinecomment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/inlineparamcomment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/inner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/innerscope.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/instanceproperty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/jsx.js
+------------------------------------------
+Library: jsdoc/util/logger
+Methods Called:
+   - error
+
+------------------------------------------
+test/specs/documentation/lends.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/letkeyword.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/methoddefinition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/mixins.js
+------------------------------------------
+Library: jsdoc/augment
+Methods Called:
+   - augmentAll
+
+Library: jsdoc/name
+Methods Called:
+   - SCOPE
+
+------------------------------------------
+test/specs/documentation/moduleclasses.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/moduleinner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/moduleisconstructor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/moduleisfunction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/modules.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+   - sourceFiles
+   - opts
+   - dirname
+
+------------------------------------------
+test/specs/documentation/objectkeys.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/objectlit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/objectpropertykeys.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/quotename.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/restparams.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/specialchars.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/specialnames.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/starbangstar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/this.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/trailingcomment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/typetaginline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/typetagwithnewline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/var.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/variations.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/documentation/virtual.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/jsdoc/augment.js
+------------------------------------------
+Library: jsdoc/augment
+Methods Called:
+   - addImplemented
+   - addInherited
+   - addMixedIn
+   - augmentAll
+   - name
+
+------------------------------------------
+test/specs/jsdoc/borrow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/jsdoc/config.js
+------------------------------------------
+Library: jsdoc/config
+Methods Called:
+   - config
+
+------------------------------------------
+test/specs/jsdoc/doclet.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - values
+
+------------------------------------------
+test/specs/jsdoc/name.js
+------------------------------------------
+Library: jsdoc/doclet
+Methods Called:
+   - name
+   - doclet
+
+------------------------------------------
+test/specs/jsdoc/opts/argparser.js
+------------------------------------------
+Library: jsdoc/opts/argparser
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/specs/jsdoc/opts/args.js
+------------------------------------------
+Library: jsdoc/opts/args
+Methods Called:
+   - parse
+   - help
+   - get
+
+------------------------------------------
+test/specs/jsdoc/package.js
+------------------------------------------
+Library: jsdoc/package
+Methods Called:
+   - Package
+
+------------------------------------------
+test/specs/jsdoc/path.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+   - opts
+   - dirname
+
+------------------------------------------
+test/specs/jsdoc/plugins.js
+------------------------------------------
+Library: jsdoc/plugins
+Methods Called:
+   - installPlugins
+
+------------------------------------------
+test/specs/jsdoc/readme.js
+------------------------------------------
+Library: jsdoc/readme
+Methods Called:
+   - readme
+
+------------------------------------------
+test/specs/jsdoc/schema.js
+------------------------------------------
+Library: jsdoc/schema
+Methods Called:
+   - BUGS_SCHEMA
+   - CONTACT_INFO_SCHEMA
+   - DOCLET_SCHEMA
+   - DOCLETS_SCHEMA
+   - ENUM_PROPERTY_SCHEMA
+   - META_SCHEMA
+   - PACKAGE_SCHEMA
+   - PARAM_SCHEMA
+   - TYPE_PROPERTY_SCHEMA
+
+------------------------------------------
+test/specs/jsdoc/src/astbuilder.js
+------------------------------------------
+Library: jsdoc/src/astbuilder
+Methods Called:
+   - AstBuilder
+
+------------------------------------------
+test/specs/jsdoc/src/astnode.js
+------------------------------------------
+Library: jsdoc/src/astbuilder
+Methods Called:
+   - parserOptions
+
+------------------------------------------
+test/specs/jsdoc/src/filter.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+
+------------------------------------------
+test/specs/jsdoc/src/handlers.js
+------------------------------------------
+Library: jsdoc/src/handlers
+Methods Called:
+   - attachTo
+
+------------------------------------------
+test/specs/jsdoc/src/parser.js
+------------------------------------------
+Library: jsdoc/fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/specs/jsdoc/src/scanner.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+
+------------------------------------------
+test/specs/jsdoc/src/syntax.js
+------------------------------------------
+Library: jsdoc/src/syntax
+Methods Called:
+   - Syntax
+
+------------------------------------------
+test/specs/jsdoc/src/visitor.js
+------------------------------------------
+Library: jsdoc/src/parser
+Methods Called:
+   - src
+
+------------------------------------------
+test/specs/jsdoc/src/walker.js
+------------------------------------------
+Library: jsdoc/src/walker
+Methods Called:
+   - walkers
+   - Walker
+
+------------------------------------------
+test/specs/jsdoc/tag.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - tag
+   - dictionary
+   - type
+   - env
+
+------------------------------------------
+test/specs/jsdoc/tag/dictionary.js
+------------------------------------------
+Library: jsdoc/tag/dictionary
+Methods Called:
+   - Dictionary
+   - defineSynonym
+   - defineTag
+   - lookUp
+   - isNamespace
+   - normalise
+   - normalize
+
+------------------------------------------
+test/specs/jsdoc/tag/dictionary/definitions.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+------------------------------------------
+test/specs/jsdoc/tag/inline.js
+------------------------------------------
+Library: jsdoc/tag/inline
+Methods Called:
+   - tag
+
+------------------------------------------
+test/specs/jsdoc/tag/type.js
+------------------------------------------
+Library: jsdoc/tag/type
+Methods Called:
+   - tag
+
+------------------------------------------
+test/specs/jsdoc/tag/validator.js
+------------------------------------------
+Library: jsdoc/util/doop
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/specs/jsdoc/template.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/jsdoc/tutorial.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+------------------------------------------
+test/specs/jsdoc/tutorial/resolver.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - dirname
+   - opts
+
+------------------------------------------
+test/specs/jsdoc/util/cast.js
+------------------------------------------
+Library: jsdoc/util/cast
+Methods Called:
+   - cast
+
+------------------------------------------
+test/specs/jsdoc/util/doop.js
+------------------------------------------
+Library: jsdoc/util/doop
+Methods Called:
+   - doop
+   - main_method*
+
+------------------------------------------
+test/specs/jsdoc/util/dumper.js
+------------------------------------------
+Library: jsdoc/util/dumper
+Methods Called:
+   - dump
+
+------------------------------------------
+test/specs/jsdoc/util/error.js
+------------------------------------------
+Library: jsdoc/util/error
+Methods Called:
+   - handle
+
+------------------------------------------
+test/specs/jsdoc/util/logger.js
+------------------------------------------
+Library: jsdoc/util/logger
+Methods Called:
+   - debug
+   - error
+   - fatal
+   - getLevel
+   - info
+   - LEVELS
+   - setLevel
+   - verbose
+   - warn
+   - once
+   - name
+
+------------------------------------------
+test/specs/jsdoc/util/markdown.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - conf
+
+------------------------------------------
+test/specs/jsdoc/util/stripbom.js
+------------------------------------------
+Library: jsdoc/util/stripbom
+Methods Called:
+   - strip
+
+------------------------------------------
+test/specs/jsdoc/util/templateHelper.js
+------------------------------------------
+Library: jsdoc/tag/dictionary/definitions
+Methods Called:
+   - defineTags
+
+------------------------------------------
+test/specs/plugins/plugins.js
+------------------------------------------
+Library: jsdoc/app
+Methods Called:
+   - jsdoc
+
+------------------------------------------
+test/specs/tags/abstracttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/accesstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/aliastag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/asynctag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/augmentstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/authortag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/borrowstag.js
+------------------------------------------
+Library: jsdoc/borrow
+Methods Called:
+   - resolveBorrows
+
+------------------------------------------
+test/specs/tags/classdesctag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/classtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/constanttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/constructortag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/constructstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/copyrighttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/defaulttag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/deprecatedtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/descriptiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/enumtag.js
+------------------------------------------
+Library: jsdoc/util/dumper
+Methods Called:
+   - dump
+
+------------------------------------------
+test/specs/tags/eventfirestag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/exampletag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/exceptiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/exportstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/externaltag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/functiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/generatortag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/globaltag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/hideconstructortag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/ignoretag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/implementstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/inheritdoctag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/interfacetag.js
+------------------------------------------
+Library: jsdoc/tag/dictionary/definitions
+Methods Called:
+   - defineTags
+   - jsdocTags
+   - closureTags
+
+------------------------------------------
+test/specs/tags/kindtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/lendstag.js
+------------------------------------------
+Library: jsdoc/doclet
+Methods Called:
+   - Doclet
+
+------------------------------------------
+test/specs/tags/licensetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/listenstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/memberoftag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/membertag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/mixestag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/mixintag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/moduletag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/namespacetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/nametag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/overridetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/overviewtag.js
+------------------------------------------
+Library: jsdoc/env
+Methods Called:
+   - pwd
+   - sourceFiles
+   - opts
+   - dirname
+
+------------------------------------------
+test/specs/tags/packagetag.js
+------------------------------------------
+Library: jsdoc/tag/dictionary/definitions
+Methods Called:
+   - defineTags
+   - jsdocTags
+   - closureTags
+
+Library: jsdoc/tag/dictionary
+Methods Called:
+   - Dictionary
+
+Library: jsdoc/doclet
+Methods Called:
+   - _replaceDictionary
+
+Library: jsdoc/util/logger
+Methods Called:
+   - warn
+
+------------------------------------------
+test/specs/tags/paramtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/privatetag.js
+------------------------------------------
+Library: jsdoc/tag/dictionary/definitions
+Methods Called:
+   - defineTags
+   - jsdocTags
+   - closureTags
+
+Library: jsdoc/tag/dictionary
+Methods Called:
+   - Dictionary
+
+Library: jsdoc/doclet
+Methods Called:
+   - _replaceDictionary
+
+Library: jsdoc/util/logger
+Methods Called:
+   - warn
+
+------------------------------------------
+test/specs/tags/propertytag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/protectedtag.js
+------------------------------------------
+Library: jsdoc/tag/dictionary/definitions
+Methods Called:
+   - defineTags
+   - jsdocTags
+   - closureTags
+
+Library: jsdoc/tag/dictionary
+Methods Called:
+   - Dictionary
+
+Library: jsdoc/doclet
+Methods Called:
+   - _replaceDictionary
+
+Library: jsdoc/util/logger
+Methods Called:
+   - warn
+
+------------------------------------------
+test/specs/tags/readonlytag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/requirestag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/returnstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/scopetags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/seetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/sincetag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/summarytag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/thistag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/todotag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/tutorialtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/typedeftag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/typekind.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/typetag.js
+------------------------------------------
+Library: jsdoc/tag/dictionary/definitions
+Methods Called:
+   - defineTags
+   - jsdocTags
+   - closureTags
+
+Library: jsdoc/tag/dictionary
+Methods Called:
+   - Dictionary
+
+Library: jsdoc/doclet
+Methods Called:
+   - _replaceDictionary
+
+Library: jsdoc/util/logger
+Methods Called:
+   - warn
+
+------------------------------------------
+test/specs/tags/undocumentedtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/variationtag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/versiontag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/tags/yieldstag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/tutorials/src/x.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "jsdoc/app": {
+    "jsdoc": true
+  },
+  "child_process": {
+    "exec": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "formatEach": true,
+    "failOnError": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "gulp-json-editor": {
+    "main_method*": true
+  },
+  "path": {
+    "resolve": true,
+    "join": true,
+    "normalize": true,
+    "dirname": true,
+    "basename": true,
+    "sep": true,
+    "extname": true,
+    "isAbsolute": true,
+    "member": true,
+    "existsSync": true
+  },
+  "util": {
+    "format": true,
+    "inherits": true,
+    "isRegExp": true,
+    "isDate": true,
+    "isError": true,
+    "isArray": true
+  },
+  "jsdoc/util/doop": {
+    "main_method*": true,
+    "doop": true
+  },
+  "jsdoc/name": {
+    "shorten": true,
+    "combine": true,
+    "SCOPE": true,
+    "name": true,
+    "tag": true,
+    "util": true,
+    "scopeToPunc": true,
+    "longnamesToTree": true
+  },
+  "jsdoc/util/logger": {
+    "error": true,
+    "fatal": true,
+    "debug": true,
+    "info": true,
+    "warn": true,
+    "setLevel": true,
+    "LEVELS": true,
+    "addListener": true,
+    "removeListener": true,
+    "getLevel": true,
+    "verbose": true,
+    "once": true,
+    "name": true
+  },
+  "jsdoc/util/stripbom": {
+    "strip": true
+  },
+  "strip-json-comments": {
+    "main_method*": true
+  },
+  "underscore": {
+    "values": true,
+    "invert": true,
+    "defaults": true,
+    "extend": true,
+    "template": true,
+    "difference": true
+  },
+  "jsdoc/env": {
+    "src": true,
+    "tag": true,
+    "name": true,
+    "pwd": true,
+    "opts": true,
+    "dirname": true,
+    "conf": true,
+    "env": true,
+    "util": true,
+    "sourceFiles": true,
+    "dictionary": true,
+    "type": true
+  },
+  "jsdoc/path": {
+    "join": true,
+    "basename": true,
+    "dirname": true,
+    "resolve": true,
+    "commonPrefix": true,
+    "normalize": true,
+    "sep": true,
+    "getResourcePath": true
+  },
+  "fs": {
+    "statSync": true,
+    "readdirSync": true,
+    "openSync": true,
+    "readSync": true,
+    "writeSync": true,
+    "closeSync": true,
+    "member": true
+  },
+  "mkdirp": {
+    "sync": true
+  },
+  "escape-string-regexp": {
+    "main_method*": true
+  },
+  "jsdoc/util/cast": {
+    "cast": true
+  },
+  "jsdoc/opts/argparser": {
+    "main_method*": true
+  },
+  "querystring": {
+    "parse": true
+  },
+  "jsdoc/fs": {
+    "readFileSync": true,
+    "statSync": true,
+    "ls": true,
+    "writeFileSync": true,
+    "mkPath": true,
+    "toDir": true,
+    "copyFileSync": true,
+    "existsSync": true
+  },
+  "jsdoc/util/markdown": {
+    "getParser": true
+  },
+  "babylon": {
+    "parse": true
+  },
+  "jsdoc/src/syntax": {
+    "Syntax": true
+  },
+  "jsdoc/doclet": {
+    "name": true,
+    "src": true,
+    "doclet": true,
+    "util": true,
+    "env": true,
+    "Doclet": true,
+    "_replaceDictionary": true
+  },
+  "jsdoc/src/astbuilder": {
+    "AstBuilder": true,
+    "parserOptions": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "jsdoc/src/astnode": {
+    "isScope": true,
+    "addNodeProperties": true
+  },
+  "jsdoc/tag/dictionary/definitions": {
+    "defineTags": true,
+    "jsdocTags": true,
+    "closureTags": true
+  },
+  "catharsis": {
+    "Types": true,
+    "stringify": true,
+    "parse": true
+  },
+  "jsdoc/tutorial": {
+    "RootTutorial": true,
+    "TYPES": true,
+    "Tutorial": true
+  },
+  "jsdoc/tag/dictionary": {
+    "isNamespace": true,
+    "getNamespaces": true,
+    "Dictionary": true,
+    "defineSynonym": true,
+    "defineTag": true,
+    "lookUp": true,
+    "normalise": true,
+    "normalize": true
+  },
+  "jsdoc/tag/inline": {
+    "replaceInlineTags": true,
+    "tag": true
+  },
+  "jsdoc/util/dumper": {
+    "dump": true
+  },
+  "taffydb": {
+    "taffy": true
+  },
+  "jsdoc/util/templateHelper": {
+    "htmlsafe": true,
+    "linkto": true,
+    "resolveAuthorLinks": true,
+    "find": true,
+    "toTutorial": true,
+    "getAncestorLinks": true,
+    "createLink": true,
+    "getAttribs": true,
+    "resolveLinks": true,
+    "getUniqueFilename": true,
+    "registerLink": true,
+    "setTutorials": true,
+    "prune": true,
+    "addEventListeners": true,
+    "longnameToUrl": true,
+    "getMembers": true,
+    "tutorialToUrl": true
+  },
+  "jsdoc/template": {
+    "Template": true
+  },
+  "js2xmlparser": {
+    "parse": true
+  },
+  "jsdoc/augment": {
+    "env": true,
+    "src": true,
+    "borrow": true,
+    "augment": true,
+    "augmentAll": true,
+    "addImplemented": true,
+    "addInherited": true,
+    "addMixedIn": true,
+    "name": true
+  },
+  "klaw": {
+    "main_method*": true
+  },
+  "jsdoc/config": {
+    "config": true
+  },
+  "jsdoc/opts/args": {
+    "parse": true,
+    "help": true,
+    "get": true
+  },
+  "jsdoc/package": {
+    "Package": true
+  },
+  "jsdoc/plugins": {
+    "installPlugins": true
+  },
+  "jsdoc/readme": {
+    "readme": true
+  },
+  "jsdoc/schema": {
+    "BUGS_SCHEMA": true,
+    "CONTACT_INFO_SCHEMA": true,
+    "DOCLET_SCHEMA": true,
+    "DOCLETS_SCHEMA": true,
+    "ENUM_PROPERTY_SCHEMA": true,
+    "META_SCHEMA": true,
+    "PACKAGE_SCHEMA": true,
+    "PARAM_SCHEMA": true,
+    "TYPE_PROPERTY_SCHEMA": true
+  },
+  "jsdoc/src/handlers": {
+    "attachTo": true
+  },
+  "jsdoc/src/parser": {
+    "src": true
+  },
+  "jsdoc/src/walker": {
+    "walkers": true,
+    "Walker": true
+  },
+  "jsdoc/tag/type": {
+    "tag": true
+  },
+  "jsdoc/util/error": {
+    "handle": true
+  },
+  "jsdoc/borrow": {
+    "resolveBorrows": true
+  }
+}

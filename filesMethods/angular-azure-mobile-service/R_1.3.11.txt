@@ -1,0 +1,81 @@
+------------------------------------------
+dist/angular-azure-mobile-service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-azure-mobile-service.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - relative
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-jshint
+Methods Called:
+   - main_method*
+   - reporter
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: gulp-rename
+Methods Called:
+   - main_method*
+
+Library: gulp-ngmin
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+------------------------------------------
+src/angular-azure-mobile-service.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "path": {
+    "relative": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-jshint": {
+    "main_method*": true,
+    "reporter": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "gulp-rename": {
+    "main_method*": true
+  },
+  "gulp-ngmin": {
+    "main_method*": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true
+  }
+}

@@ -1,0 +1,1083 @@
+------------------------------------------
+actionhero.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+   - sep
+   - normalize
+   - basename
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+actions/cacheTest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+actions/createChatRoom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+actions/randomNumber.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+actions/showDocumentation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+actions/sleepTest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+actions/status.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/methods/actions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/methods/console.js
+------------------------------------------
+Library: repl
+Methods Called:
+   - start
+
+------------------------------------------
+bin/methods/enqueueTask.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/methods/generate.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+bin/methods/generateAction.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+bin/methods/generateInitializer.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+bin/methods/generateServer.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+bin/methods/generateTask.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+bin/methods/help.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+bin/methods/link.js
+------------------------------------------
+Library: path
+Methods Called:
+   - sep
+   - normalize
+
+Library: fs
+Methods Called:
+   - readdirSync
+   - lstatSync
+   - readFileSync
+
+------------------------------------------
+bin/methods/start.js
+------------------------------------------
+Library: cluster
+Methods Called:
+   - isWorker
+
+Library: readline
+Methods Called:
+   - createInterface
+
+Library: os
+Methods Called:
+   - EOL
+
+------------------------------------------
+bin/methods/startCluster.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - lstatSync
+   - mkdir
+   - existsSync
+   - readFileSync
+   - writeFileSync
+
+Library: cluster
+Methods Called:
+   - fork
+   - isMaster
+   - setupMaster
+
+Library: path
+Methods Called:
+   - normalize
+
+Library: os
+Methods Called:
+   - cpus
+
+Library: async
+Methods Called:
+   - series
+
+Library: readline
+Methods Called:
+   - createInterface
+
+Library: winston
+Methods Called:
+   - transports
+   - Logger
+   - config
+
+Library: is-running
+Methods Called:
+   - main_method*
+
+------------------------------------------
+bin/methods/unknownInput.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/methods/unlink.js
+------------------------------------------
+Library: path
+Methods Called:
+   - sep
+   - normalize
+
+------------------------------------------
+bin/templates/action.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/templates/initializer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token %
+------------------------------------------
+bin/templates/server.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/templates/task.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token %
+------------------------------------------
+client/actionheroClient.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 31: Unexpected token %
+------------------------------------------
+config/api.js
+------------------------------------------
+Library: path
+Methods Called:
+   - sep
+
+------------------------------------------
+config/errors.js
+------------------------------------------
+Library: util
+Methods Called:
+   - isError
+
+------------------------------------------
+config/i18n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/logger.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - mkdirSync
+
+Library: cluster
+Methods Called:
+   - isMaster
+
+------------------------------------------
+config/redis.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/servers/socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/servers/web.js
+------------------------------------------
+Library: os
+Methods Called:
+   - tmpdir
+
+------------------------------------------
+config/servers/websocket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/tasks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+initializers/actionProcessor.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+initializers/actions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+initializers/cache.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+   - readFileSync
+
+Library: async
+Methods Called:
+   - parallel
+   - series
+
+------------------------------------------
+initializers/chatRoom.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+initializers/config.js
+------------------------------------------
+Library: optimist
+Methods Called:
+   - argv
+
+Library: fs
+Methods Called:
+   - existsSync
+   - watchFile
+   - unwatchFile
+
+Library: path
+Methods Called:
+   - normalize
+   - resolve
+
+Library: util
+Methods Called:
+   - isArray
+
+------------------------------------------
+initializers/connections.js
+------------------------------------------
+Library: node-uuid
+Methods Called:
+   - v4
+
+------------------------------------------
+initializers/documentation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+initializers/exceptions.js
+------------------------------------------
+Library: os
+Methods Called:
+   - EOL
+
+------------------------------------------
+initializers/genericServer.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+initializers/i18n.js
+------------------------------------------
+Library: i18n
+Methods Called:
+   - configure
+   - setLocale
+
+Library: path
+Methods Called:
+   - normalize
+
+------------------------------------------
+initializers/id.js
+------------------------------------------
+Library: optimist
+Methods Called:
+   - argv
+
+Library: cluster
+Methods Called:
+   - isWorker
+
+Library: path
+Methods Called:
+   - sep
+
+------------------------------------------
+initializers/logger.js
+------------------------------------------
+Library: winston
+Methods Called:
+   - Logger
+   - config
+   - addColors
+
+------------------------------------------
+initializers/params.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+initializers/pids.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - mkdirSync
+   - writeFileSync
+   - unlinkSync
+
+Library: cluster
+Methods Called:
+   - isMaster
+
+------------------------------------------
+initializers/redis.js
+------------------------------------------
+Library: node-uuid
+Methods Called:
+   - v4
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+initializers/resque.js
+------------------------------------------
+Library: node-resque
+Methods Called:
+   - queue
+   - scheduler
+   - multiWorker
+
+------------------------------------------
+initializers/routes.js
+------------------------------------------
+Library: path
+Methods Called:
+   - normalize
+
+------------------------------------------
+initializers/servers.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+initializers/specHelper.js
+------------------------------------------
+Library: node-uuid
+Methods Called:
+   - v4
+
+------------------------------------------
+initializers/staticFile.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - createReadStream
+   - readLink
+   - existsSync
+   - readdirSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - isAbsolute
+   - normalize
+   - sep
+
+Library: mime
+Methods Called:
+   - lookup
+
+------------------------------------------
+initializers/tasks.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - parallel
+
+------------------------------------------
+initializers/utils.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - readdirSync
+   - statSync
+   - readlinkSync
+   - readFileSync
+   - lstatSync
+
+Library: path
+Methods Called:
+   - split
+   - join
+   - sep
+   - normalize
+
+Library: os
+Methods Called:
+   - networkInterfaces
+
+------------------------------------------
+servers/socket.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createServer
+
+Library: tls
+Methods Called:
+   - createServer
+
+------------------------------------------
+servers/web.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+Library: qs
+Methods Called:
+   - parse
+
+Library: fs
+Methods Called:
+   - unlink
+   - chmodSync
+
+Library: path
+Methods Called:
+   - sep
+
+Library: zlib
+Methods Called:
+   - createDeflate
+   - deflate
+   - createGzip
+   - gzip
+
+Library: formidable
+Methods Called:
+   - IncomingForm
+
+Library: browser_fingerprint
+Methods Called:
+   - fingerprint
+
+Library: mime
+Methods Called:
+   - lookup
+
+Library: node-uuid
+Methods Called:
+   - v4
+
+Library: etag
+Methods Called:
+   - main_method*
+
+------------------------------------------
+servers/websocket.js
+------------------------------------------
+Library: primus
+Methods Called:
+   - main_method*
+
+Library: uglify-js
+Methods Called:
+   - minify
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - normalize
+   - sep
+
+Library: util
+Methods Called:
+   - inspect
+
+Library: browser_fingerprint
+Methods Called:
+   - parseCookies
+
+------------------------------------------
+site/source/javascripts/docs/all.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/all_nosearch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/app/_lang.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/app/_search.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/app/_toc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/lib/_energize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/lib/_imagesloaded.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/lib/_jquery.highlight.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/lib/_jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/lib/_jquery.tocify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/lib/_jquery_ui.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/docs/lib/_lunr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/main/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/main/bootstrap.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+site/source/javascripts/main/grayscale.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/runAction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+test/actions/cacheTest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/actions/randomNumber.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/actions/showDocumentation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/core/actionCluster.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/core/api.js
+------------------------------------------
+Library: should
+Methods Called:
+   - main_method*
+   - exist
+   - not
+
+------------------------------------------
+test/core/binary.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: should
+Methods Called:
+   - not
+   - exist
+
+Library: fs
+Methods Called:
+   - readFile
+   - writeFile
+   - existsSync
+   - readFileSync
+
+Library: os
+Methods Called:
+   - tmpdir
+
+Library: path
+Methods Called:
+   - sep
+   - normalize
+
+------------------------------------------
+test/core/cache.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: os
+Methods Called:
+   - tmpdir
+   - tmpDir
+
+Library: path
+Methods Called:
+   - sep
+
+Library: should
+Methods Called:
+   - not
+   - equal
+
+Library: async
+Methods Called:
+   - parallel
+   - series
+
+------------------------------------------
+test/core/developerMode.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFile
+
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/core/errors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/core/i18n.js
+------------------------------------------
+Library: os
+Methods Called:
+   - tmpdir
+
+Library: should
+Methods Called:
+   - exist
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+test/core/middleware.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/core/specHelper.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/core/staticFile.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - exist
+
+Library: request
+Methods Called:
+   - get
+   - main_method*
+
+------------------------------------------
+test/core/tasks.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/integration/web_websocket.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: should
+Methods Called:
+   - main_method*
+
+Library: request
+Methods Called:
+   - get
+
+Library: http
+Methods Called:
+   - request
+
+------------------------------------------
+test/servers/socket.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+Library: node-uuid
+Methods Called:
+   - v4
+
+Library: net
+Methods Called:
+   - connect
+
+------------------------------------------
+test/servers/web.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+Library: request
+Methods Called:
+   - get
+   - put
+   - post
+   - del
+   - main_method*
+   - jar
+
+Library: fs
+Methods Called:
+   - mkdirSync
+   - writeFileSync
+   - unlinkSync
+   - rmdirSync
+   - createReadStream
+   - createWriteStream
+   - unlink
+
+Library: os
+Methods Called:
+   - tmpdir
+
+Library: path
+Methods Called:
+   - sep
+
+------------------------------------------
+test/servers/websocket.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/tasks/runAction.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+
+------------------------------------------
+test/utils/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/zzz_benchmarks/benchmarks.js
+------------------------------------------
+Library: node-uuid
+Methods Called:
+   - v4
+
+
+All of the Methods:
+{
+  "path": {
+    "resolve": true,
+    "sep": true,
+    "normalize": true,
+    "basename": true,
+    "isAbsolute": true,
+    "split": true,
+    "join": true
+  },
+  "async": {
+    "series": true,
+    "parallel": true
+  },
+  "repl": {
+    "start": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "readdirSync": true,
+    "lstatSync": true,
+    "mkdir": true,
+    "existsSync": true,
+    "writeFileSync": true,
+    "mkdirSync": true,
+    "watchFile": true,
+    "unwatchFile": true,
+    "unlinkSync": true,
+    "stat": true,
+    "createReadStream": true,
+    "readLink": true,
+    "statSync": true,
+    "readlinkSync": true,
+    "unlink": true,
+    "chmodSync": true,
+    "readFile": true,
+    "writeFile": true,
+    "rmdirSync": true,
+    "createWriteStream": true
+  },
+  "cluster": {
+    "isWorker": true,
+    "fork": true,
+    "isMaster": true,
+    "setupMaster": true
+  },
+  "readline": {
+    "createInterface": true
+  },
+  "os": {
+    "EOL": true,
+    "cpus": true,
+    "tmpdir": true,
+    "networkInterfaces": true,
+    "tmpDir": true
+  },
+  "winston": {
+    "transports": true,
+    "Logger": true,
+    "config": true,
+    "addColors": true
+  },
+  "is-running": {
+    "main_method*": true
+  },
+  "util": {
+    "isError": true,
+    "isArray": true,
+    "inherits": true,
+    "inspect": true
+  },
+  "optimist": {
+    "argv": true
+  },
+  "node-uuid": {
+    "v4": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "i18n": {
+    "configure": true,
+    "setLocale": true
+  },
+  "node-resque": {
+    "queue": true,
+    "scheduler": true,
+    "multiWorker": true
+  },
+  "mime": {
+    "lookup": true
+  },
+  "net": {
+    "createServer": true,
+    "connect": true
+  },
+  "tls": {
+    "createServer": true
+  },
+  "url": {
+    "parse": true
+  },
+  "qs": {
+    "parse": true
+  },
+  "zlib": {
+    "createDeflate": true,
+    "deflate": true,
+    "createGzip": true,
+    "gzip": true
+  },
+  "formidable": {
+    "IncomingForm": true
+  },
+  "browser_fingerprint": {
+    "fingerprint": true,
+    "parseCookies": true
+  },
+  "etag": {
+    "main_method*": true
+  },
+  "primus": {
+    "main_method*": true
+  },
+  "uglify-js": {
+    "minify": true
+  },
+  "should": {
+    "not": true,
+    "main_method*": true,
+    "exist": true,
+    "equal": true
+  },
+  "child_process": {
+    "exec": true
+  },
+  "request": {
+    "get": true,
+    "main_method*": true,
+    "put": true,
+    "post": true,
+    "del": true,
+    "jar": true
+  },
+  "http": {
+    "request": true
+  }
+}

@@ -1,0 +1,10 @@
+a0b6bc14e54f93ff5d4373934ad8a88ceea74520
+exercises/common.js
+exercises/lesson-1/index.js
+exercises/lesson-1/server.js
+index.js
+lib/create-answers.js
+lib/description.js
+lib/diff-ui.js
+menu/index.js
+style/index.js

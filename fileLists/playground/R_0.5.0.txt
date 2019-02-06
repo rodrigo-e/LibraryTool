@@ -1,0 +1,6 @@
+a0ed0f7a0da6309ad9fa926a0b81cb6168ca969d
+index.js
+lib/cli.js
+lib/index.js
+test/common.js
+test/module.js

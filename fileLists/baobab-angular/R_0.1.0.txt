@@ -1,0 +1,8 @@
+5faaa61aa96e0385a5736168d07dd7886fd7c026
+gulpfile.js
+karma.conf.js
+release/baobab-angular.js
+src/baobab-angular.js
+src/safeDeepClone.js
+tests/angular-mocks.js
+tests/baobab-angular-spec.js
