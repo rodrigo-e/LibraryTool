@@ -1,9 +1,0 @@
-1f3845064bc8a8046ad5200332d297e3f8944be7
-demo/bundle.js
-demo/demo.js
-demo/main.js
-gulpfile.js
-index.js
-slideout.js
-slideout.min.js
-src/slideout.js
